@@ -3,5 +3,4 @@
 	url = https://github.com/alex-shpak/hugo-book
 [submodule "content"]
 	path = content
-	url = https://github.com/BhavikDodda/vaultContent
-	branch = main
+	url = pers:BhavikDodda/vaultContent.git
