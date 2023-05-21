@@ -11,21 +11,21 @@
       "/Hello-world": [
         {
           "source": "/Hello-world",
-          "target": "/Hellos/Hello-3",
+          "target": "/hola/Hello-3",
           "text": "Hello 3"
         }
       ],
-      "/Hellos/Hello-2": [
+      "/hola/Hello-2": [
         {
-          "source": "/Hellos/Hello-2",
+          "source": "/hola/Hello-2",
           "target": "/Hello-world",
           "text": "Hello world"
         }
       ],
-      "/Hellos/Hello-3": [
+      "/hola/Hello-3": [
         {
-          "source": "/Hellos/Hello-3",
-          "target": "/Hellos/Hello-2",
+          "source": "/hola/Hello-3",
+          "target": "/hola/Hello-2",
           "text": "Hello 2"
         }
       ]
@@ -33,27 +33,27 @@
     "backlinks": {
       "/Hello-world": [
         {
-          "source": "/Hellos/Hello-2",
+          "source": "/",
           "target": "/Hello-world",
           "text": "Hello world"
         },
         {
-          "source": "/",
+          "source": "/hola/Hello-2",
           "target": "/Hello-world",
           "text": "Hello world"
         }
       ],
-      "/Hellos/Hello-2": [
+      "/hola/Hello-2": [
         {
-          "source": "/Hellos/Hello-3",
-          "target": "/Hellos/Hello-2",
+          "source": "/hola/Hello-3",
+          "target": "/hola/Hello-2",
           "text": "Hello 2"
         }
       ],
-      "/Hellos/Hello-3": [
+      "/hola/Hello-3": [
         {
           "source": "/Hello-world",
-          "target": "/Hellos/Hello-3",
+          "target": "/hola/Hello-3",
           "text": "Hello 3"
         }
       ]
@@ -62,23 +62,23 @@
   "links": [
     {
       "source": "/Hello-world",
-      "target": "/Hellos/Hello-3",
+      "target": "/hola/Hello-3",
       "text": "Hello 3"
-    },
-    {
-      "source": "/Hellos/Hello-2",
-      "target": "/Hello-world",
-      "text": "Hello world"
-    },
-    {
-      "source": "/Hellos/Hello-3",
-      "target": "/Hellos/Hello-2",
-      "text": "Hello 2"
     },
     {
       "source": "/",
       "target": "/Hello-world",
       "text": "Hello world"
+    },
+    {
+      "source": "/hola/Hello-2",
+      "target": "/Hello-world",
+      "text": "Hello world"
+    },
+    {
+      "source": "/hola/Hello-3",
+      "target": "/hola/Hello-2",
+      "text": "Hello 2"
     }
   ]
 }

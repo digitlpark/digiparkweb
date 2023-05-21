@@ -2,25 +2,25 @@
   "/": {
     "title": "_index",
     "content": "[[Hello world]]",
-    "lastmodified": "2023-05-21T20:50:25.0888749+05:30",
+    "lastmodified": "2023-05-21T18:25:47.2672899+05:30",
     "tags": []
   },
   "/Hello-world": {
     "title": "hello",
-    "content": "\r\n\r\nhello world\r\n\r\n[[Hellos/Hello 3|Hello 3]]",
-    "lastmodified": "2023-05-21T20:50:25.0878747+05:30",
+    "content": "\n\nhello world\n\n[[hola/Hello 3|Hello 3]]",
+    "lastmodified": "2023-05-21T21:49:09.1690906+05:30",
     "tags": []
   },
-  "/Hellos/Hello-2": {
+  "/hola/Hello-2": {
     "title": "Hello 2",
     "content": "Linking to [[Hello world]]",
-    "lastmodified": "2023-05-21T20:50:25.0878747+05:30",
+    "lastmodified": "2023-05-21T17:33:30.4660199+05:30",
     "tags": []
   },
-  "/Hellos/Hello-3": {
+  "/hola/Hello-3": {
     "title": "Hello 3",
-    "content": "[[Hellos/Hello 2|Hello 2]]",
-    "lastmodified": "2023-05-21T20:50:25.0878747+05:30",
+    "content": "[[hola/Hello 2|Hello 2]]",
+    "lastmodified": "2023-05-21T21:49:09.1849718+05:30",
     "tags": []
   }
 }
