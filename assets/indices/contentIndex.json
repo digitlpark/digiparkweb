@@ -1,26 +1,122 @@
 {
   "/": {
     "title": "_index",
-    "content": "[[Hello world]]",
-    "lastmodified": "2023-05-21T18:25:47.2672899+05:30",
+    "content": "🔢Math\n* [[Math/Math1/Math1|Math1]]",
+    "lastmodified": "2023-05-22T12:00:49.8406727+05:30",
     "tags": []
   },
-  "/Hello-world": {
-    "title": "hello",
-    "content": "\n\nhello world\n\n[[hola/Hello 3|Hello 3]]",
-    "lastmodified": "2023-05-21T21:49:09.1690906+05:30",
+  "/Math/Math1/Approximating-functions": {
+    "title": "Approximating functions",
+    "content": "# Taylor Series\n* About x=a\n\t* $$f(x)=f(a)+\\frac{f'(a)}{1!}(x-a)^1+\\frac{f''(a)}{2!}(x-a)^2+...+\\frac{f^{'n}(a)}{n!}(x-a)^n+...$$\n* Approximating 'h' amount around 'a' (just another form)\n\t $$f(a+h)=f(a)+\\frac{f'(a)}{1!}(h)^1+\\frac{f''(a)}{2!}(h)^2+...$$\nThe [[Math/Math1/nth derivative]] of a function at a point is applicable here.\n\nThe series becomes a Maclaurin series if a=0\n\n# Maclaurin series of common functions\n$$\ne^x=1+x+\\frac{x^2}{2!}+\\frac{x^3}{3!}+\\frac{x^4}{4!}+...\n$$\n$$\n\\sin(x) = x-\\frac{x^3}{3!}+\\frac{x^5}{5!}-\\frac{x^7}{7!}+...\n$$\n$$\n\\cos(x) = 1-\\frac{x^2}{2!}+\\frac{x^4}{4!}-\\frac{x^6}{6!}\n$$\n$$\nln(1+x)=x-\\frac{x^2}{2}+\\frac{x^3}{3}-\\frac{x^4}{4}\n$$\n$$\ntan^{-1}(x)=x-\\frac{x^3}{3}+\\frac{x^5}{5}-\\frac{x^7}{7}\n$$\n",
+    "lastmodified": "2023-05-22T10:24:54.312858+05:30",
     "tags": []
   },
-  "/hola/Hello-2": {
-    "title": "Hello 2",
-    "content": "Linking to [[Hello world]]",
-    "lastmodified": "2023-05-21T17:33:30.4660199+05:30",
+  "/Math/Math1/Approximating-functions-zfxy": {
+    "title": "Approximating functions z=f(x,y)",
+    "content": "Similar to [[Math/Math1/Approximating functions]] but here it's a multivariable version\n# Taylor Series\n* About (x,y)=(a,b)\n\t* $$\n\t\\begin{align}\n\tf(x,y)=f(a,b)+((x-a)\\frac{\\partial}{\\partial x}+(y-b)\\frac{\\partial }{\\partial y})^1f(x,y)+\\frac{1}{2!}\\cdot ((x-a)\\frac{\\partial}{\\partial x}+(y-b)\\frac{\\partial }{\\partial y})^2f(x,y)+.\\\\\n\tf(x,y)=f(a,b)+[(x-a)f_x+(y-b)f_y]+\\frac{1}{2!}\\cdot[(x-a)^2f_{xx}+2(x-a)(y-b)f_{xy}+(y-b)^2f_{yy}]\\\\\n\t+\\frac{1}{3!}\\cdot [(x-a)^3f_{xxx}+3(x-a)^2(y-b)f_{xxy}+3(x-a)(y-b)^2f_{xyy}+(y-b)^3f_{yyy}]\n\t\\end{align}\n\t$$\n* Approximating (h,k) around (a,b). (Just another form)\n\t* $$\n\t\\begin{align}\n\tf(a+h,b+k) = f(a,b)+[hf_x+kf_y]+\\frac{1}{2!}[h^2f_{xx}+2hkf_{xy}+k^2f_{yy}]\\\\\n\t+\\frac{1}{3!}[h^3f_{xxx}+3h^2kf_{xxy}+3hk^2f_{xyy}+k^3f_{yyy}]+...\n\t\\end{align}\n\t$$\n\n",
+    "lastmodified": "2023-05-22T10:24:54.2832357+05:30",
     "tags": []
   },
-  "/hola/Hello-3": {
-    "title": "Hello 3",
-    "content": "[[hola/Hello 2|Hello 2]]",
-    "lastmodified": "2023-05-21T21:49:09.1849718+05:30",
+  "/Math/Math1/Coordinate-systems-for-integration": {
+    "title": "Coordinate systems for integration",
+    "content": "Some common change in coordinate systems to evaluate integrals better and their corresponding scaling factor to convert between systems using the [[Math/Math1/Jacobian]]:\n\n# In 2D\n\n* Cartesian: dA=dxdy\n* Polar: dA=r drdθ\n\t* x=$r\\cos\\theta$\n\t* y=$r\\sin\\theta$\n\n# In 3D\n\n* Cartesian: dV=dxdydz\n* Cylindrical: dV=r drdθdz\n\t* x=$r\\cos\\theta$\n\t* y=$r\\sin\\theta$\n\t* z=z\n* Spherical: dV=$r^2 \\sin(\\theta)drd\\theta d\\phi$\n\t* x=$r\\sin \\theta \\cos\\phi$\n\t* y=$r\\sin \\theta \\sin\\phi$\n\t* z=$r \\cos \\theta$",
+    "lastmodified": "2023-05-22T10:24:54.4176312+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Curvature": {
+    "title": "Curvature",
+    "content": "# of y=f(x)\n\nRadius of Curvature = $$\\frac{(1+f'^2)^{3/2}}{f''}$$\n## At the origin\n* Newton's Method\n\t* If x-axis is tangent, ROC=$$\\lim_{(x,y)\\rightarrow(0,0)}\\left(\\frac{x^2}{2y}\\right)$$\n\t* If y-axis is tangent, ROC=$$\\lim_{(x,y)\\rightarrow(0,0)}\\left(\\frac{y^2}{2x}\\right)$$\n* Series Method: If none of x,y axes are tangent\n\t* Apply the regular ROC formula\n\n# of (x(t),y(t))\n\nRadius of Curvature = $$\\frac{(x'^2+y'^2)^{3/2}}{y''x'-x''y'}$$\n# of r=f(θ)\nRadius of Curvature =\n$$\n\\frac{(r^2+r_1^2)^{3/2}}{r^2+2r_1-rr_2}\\ where\\ r_1=r',r_2=r''\n$$\n",
+    "lastmodified": "2023-01-02T09:11:12.561716+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Curve-Tracing": {
+    "title": "Curve Tracing",
+    "content": "[[Math/Math1/Curve Tracing f(x,y)=0]]\n\n[[Math/Math1/Curve Tracing f(r,θ)=0]]\n",
+    "lastmodified": "2023-05-22T10:43:01.492561+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Curve-Tracing-fr%CE%B80": {
+    "title": "Curve Tracing f(r,θ)=0",
+    "content": "# Symmetry\n* If f(r,θ)=f(r,A-θ), then the curve is symmetric wrt θ=A/2\n* If f(-r,θ)=f(r,θ), then curve is symmetric wrt pole (r=0).\n\n# Pole\nCurve passes through pole if there's a θ₀ for which r=0: i.e. if for f(0,θ₀)=0, a solution exists.\n\n# Tangent at Pole\nθ=θ₀ is tangent at pole iff f(0,θ₀)=0.\n\n# Table\nWe make a table of (r,θ) in order to plot some points on the curve.\n\n# Asymptote\nIf f(∞,θ₀)=0 as θ approaches θ₀, θ=θ₀ is the asymptote\n\n# Tangent at other point\ndy/dx=tan(θ₀)=$\\frac{r(θ)}{r'(θ)}$\n",
+    "lastmodified": "2023-01-02T08:15:27.6475762+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Curve-Tracing-fxy0": {
+    "title": "Curve Tracing f(x,y)=0",
+    "content": "# Symmetry\n* If f(-x,y)=f(x,y) the curve is symmetric with respect to y axis. (Even degree of x)\n* If f(x,-y)=f(x,y): the curve is symmetric with respect to x axis. (Even degree of y)\n\n# Origin\nPasses through the origin if f(0,0)=0\n\n# Tangent at origin\nEquating least degree term to 0, we can get the tangent at the origin.\n### dy/dx at any point on f(x,y)=0\n$$\n\\begin{align}\nf(x,y)=0\\\\\n\\frac{\\partial f}{\\partial t}=\\frac{\\partial f}{\\partial x}\\cdot \\frac{\\partial x}{\\partial t} + \\frac{\\partial f}{\\partial y}\\cdot \\frac{\\partial y}{\\partial t}\\\\\n\\delta f=0=\\frac{\\partial f}{\\partial x}\\delta x+\\frac{\\partial f}{\\partial y}\\delta y\\\\\n\\frac{dy}{dx}=-\\frac{\\frac{\\partial f}{\\partial x}}{\\frac{\\partial f}{\\partial y}}\n\\end{align}\n$$\n\n# Intersection with coordinate axes\n* f(x₀,0)=0: intersection with x-axis (y=0)\n* f(0,y₀)=0: intersection with y-axis (x=0)\n\n# Asymptotes\n* To find the ones parallel to x-axis: Equate the coefficient of the term containing the **highest degree in x** to 0\n* To find the ones parallel to y-axis: Equate the coefficient of the term containing the **highest degree in y** to 0\n\n# Region of existence\nCan be found by seeing the possible values of (x,y) that f(x,y)=0 satisfies.\n\n# EXAMPLES\nhttp://www.dspmuranchi.ac.in/pdf/Blog/Integration%20113.pdf",
+    "lastmodified": "2023-05-22T10:36:06.0594644+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Eulers-Theorem": {
+    "title": "Euler's Theorem",
+    "content": "\n# The theorem\nIf u is a homogeneous function of degree 'n' in x,y: u(x,y)=$x^nf(y/x)$  (OR) u(tx,ty)=tⁿu(x,y)\n$$ x\\frac{\\partial u(x,y)}{\\partial x}+y\\frac{\\partial u(x,y)}{\\partial y}=n\\cdot u(x,y) $$\n## Proof\n\n$$\n\\begin{align}\nu=x^nf\\left(\\frac{y}{x}\\right) \\\\\n\\frac{\\partial u}{\\partial x}= nx^{n-1}f\\left(\\frac{y}{x}\\right) + x^nf'\\left(\\frac{y}{x}\\right)\\frac{y}{-x^2}\\\\\n\\frac{\\partial u}{\\partial y} = x^{n-1}f'\\left(\\frac{y}{x}\\right)\\\\\n\\\\\nx\\frac{\\partial u}{\\partial x}+y\\frac{\\partial u}{\\partial y}=n\\left(x^nf\\left(\\frac{y}{x}\\right)\\right) = nu\\\\\n=g(u)\n\\end{align}\n$$\n# Modified Euler's Theorem\nIf u = Φ(v(x,y)) where v(x,y) is a homogeneous function of x,y of degree n:\n$$\nx\\left(\\frac{\\partial u}{\\partial x}\\right)+y\\left(\\frac{\\partial u}{\\partial y}\\right)=n\\cdot \\frac{\\Phi^{-1}(u)}{\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}}\n$$\n## Proof\n$$\n\\begin{align}\nx\\frac{\\partial v}{\\partial x}+y\\frac{\\partial v}{\\partial y} = nv\\\\\n\\Phi^{-1}(u)=v(x,y)\\\\\n\\frac{\\partial v}{\\partial x}=\\left(\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}\\right)\\left(\\frac{\\partial u}{\\partial x}\\right),\\\\ \n\\frac{\\partial v}{\\partial y}=\\left(\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}\\right)\\left(\\frac{\\partial u}{\\partial y}\\right)\\\\\n\\\\\n\\text{Substituting these in (7)}\\\\\nx\\left(\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}\\right)\\left(\\frac{\\partial u}{\\partial x}\\right)+y\\left(\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}\\right)\\left(\\frac{\\partial u}{\\partial y}\\right) = nv = n\\Phi^{-1}(u)\\\\\nx\\left(\\frac{\\partial u}{\\partial x}\\right)+y\\left(\\frac{\\partial u}{\\partial y}\\right)=n\\cdot \\frac{\\Phi^{-1}(u)}{\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}}\\\\\n=g(u)\n\\end{align}\n$$\n\n\n# Euler's deduction II\n$$\nx^2\\frac{\\partial^2u}{\\partial x^2}+2xy\\frac{\\partial^2u}{\\partial x \\partial y}+y^2\\frac{\\partial^2u}{\\partial y^2} = g(u)[\\frac{\\partial g(u)}{\\partial u}-1]=g(u)[g'(u)-1]\n$$\nFor u being homogenous the RHS of this expression would be $nu(n-1)$\n",
+    "lastmodified": "2023-05-22T10:47:31.4457057+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Gamma-and-Beta-Functions": {
+    "title": "Gamma and Beta Functions",
+    "content": "# Gamma Function\n\n$$\n\\begin{align}\n\\Gamma(n)=\\int\\limits_{0}^{\\infty}e^{-x}x^{n-1}dx=(n-1)!\\\\\n\\Gamma(n)=k^n\\int\\limits_{0}^{\\infty}e^{-kx}x^{n-1}dx\n\\end{align}\n$$\n\n## Properties\n\n* $\\Gamma (\\frac{1}{2}) = \\sqrt{\\pi}$\n\t* [[Math/Math1/Gaussian Integral (half factorial)|This]] and $\\Gamma(n)=2\\int_0^\\infty e^{-x^2}x^{2n-1}dx$ can be used to prove\n* $n\\Gamma (n)=\\Gamma (n+1)=n!$\n\n# Beta Function\n\n$$\n\\begin{align}\n\\beta(m,n)=\\int_0^1 x^{m-1}(1-x)^{n-1}dx\n\\end{align}\n$$\n\n## Properties\n\n* B(m,n)=B(n,m)\n\t* Symmetrical because of the way it's defined and \n\t\t($\\int _a^bf(x)dx = \\int_a^bf(a+b-x)dx$)\n* B(m,n) = $2 \\cdot \\int_0^{\\frac{\\pi}{2}}\\sin^{2m-1}(x) \\cos^{2m-1}(x)dx$\n\t* Useful to evaluate the integral of product of power of sin and cos.\n\t* Can be proved by substituting x=$\\sin^2\\theta$  in the main definition.\n* B(m,n) = $\\int_0^\\infty \\frac{x^{m-1}}{(1+x)^{m+n}}dx$\n\t* Can be proved using substituting x=$\\frac{t}{1+t}$ in $\\int_0^1 x^{m-1}(1-x)^{n-1}dx$\n* B(m,n)=$\\int_0^1 \\frac{x^{m-1}+x^{n-1}}{(1+x)^{m+n}}dx$\n\t* From previous property, B(m,n)=$\\int_0^\\infty \\frac{x^{m-1}}{(1+x)^{m+n}}dx$ = $\\int_0^1 \\frac{x^{m-1}}{(1+x)^{m+n}}dx + \\int_1^\\infty \\frac{x^{m-1}}{(1+x)^{m+n}}dx$\n\t* We can prove the second integral, $\\int_1^\\infty \\frac{x^{m-1}}{(1+x)^{m+n}}dx = \\int_0^1 \\frac{x^{n-1}}{(1+x)^{m+n}}dx$ by using x=1/t.\n\n# Relation between Beta and Gamma functions\n\n$B(m,n)=\\frac{\\Gamma (m) \\Gamma (n)}{\\Gamma (m+n)}$\n\nProof\n\nWe'll be using $B(m,n)=\\int_0^\\infty \\frac{x^{m-1}}{(1+x)^{m+n}}dx$ and $\\Gamma(n)=k^n\\int\\limits_{0}^{\\infty}e^{-kx}x^{n-1}dx$\n$$\n\\begin{align}\n\\Gamma(m)=\\int\\limits_{0}^{\\infty}z^me^{-zx}x^{m-1}dx\\\\\n\\times e^{-z}z^{n-1}dz\\\\\n=\\int_0^\\infty\\Gamma(m)e^{-z}z^{n-1}dz=\\int_0^\\infty\\int\\limits_{0}^{\\infty}z^me^{-zx}x^{m-1}e^{-z}z^{n-1}dzdx\\\\\n\\Gamma(m)\\Gamma(n)=\\int_0^\\infty x^{m-1} \\left(\\int\\limits_{0}^{\\infty}e^{-z(x+1)}z^{m+n-1}dz\\right)dx\\\\\n\\Gamma(m)\\Gamma(n)=\\int_0^\\infty x^{m-1}\\left(\\frac{\\Gamma (m+n)}{(x+1)^{m+n}}\\right)dx\\\\\n=\\Gamma(m+n)\\beta(m,n)\\\\\n\\\\\n\\therefore \\beta(m,n)=\\frac{\\Gamma(m)\\Gamma(n)}{\\Gamma(m+n)}\n\\end{align}\n$$\n\nCould also be done like https://youtu.be/E9sc1FnJF9k?t=191\n\n## Some more properties that can be proved using this relation\n\n* $n\\beta(m+1,n)=m\\beta(m,n+1)$\n* $\\beta(m,n)=\\beta(m,n+1)+\\beta(m+1,n)$\n\n## More properties\n\n* $\\Gamma(n)\\Gamma(1-n)=\\frac{\\pi}{\\sin(n\\pi)}$ (proof is out of the scope for now https://youtu.be/XgnPg0Ab6hE)\n* $\\Gamma(n)\\Gamma(n+0.5)=\\frac{\\sqrt{\\pi} \\cdot \\Gamma(2n)}{2^{2n-1}}$",
+    "lastmodified": "2023-05-22T10:50:18.6484159+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Gaussian-Integral-half-factorial": {
+    "title": "Gaussian Integral (half factorial)",
+    "content": "\nIntegration done by converting the integration wrt cartesian coordinates → polar coordinates.\n\n$$\n\\begin{align}\nI=\\int \\limits_0^\\infty e^{-x^2}dx = (\\frac{1}{2})!=\\frac{\\sqrt{\\pi}}{2}\n\\\\\nProof:\n\\\\\nI^2 = \\int \\limits_0^\\infty e^{-x^2}dx \\cdot \\int \\limits_0^\\infty e^{-y^2}dy\\\\\n=\\iint \\limits_0^\\infty e^{-(x^2+y^2)}dxdy\\\\\n=\\int \\limits_{r=0}^{r=\\infty} \\int \\limits_{\\theta=0}^{\\theta=\\frac{\\pi}{2}} e^{-r^2}rd\\theta dr\\\\\n=\\frac{\\pi}{2}\\cdot-\\frac{1}{2} \\int \\limits_{r=0}^{r=\\infty}e^{(-r^2)}(-2rdr)\\\\\n=\\frac{\\pi}{2}\\cdot-\\frac{1}{2} [e^{-r^2}]_0^\\infty=\\frac{\\pi}{4}\\\\\n\\\\\nI=\\frac{\\sqrt{\\pi}}{2}\n\\end{align}\n$$",
+    "lastmodified": "2023-02-25T11:53:21.7112556+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Integration-Formulae": {
+    "title": "Integration Formulae",
+    "content": "",
+    "lastmodified": "2023-03-01T09:31:17.2984706+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Jacobian": {
+    "title": "Jacobian",
+    "content": "$$\n\\begin{align}\nJ=\\frac{\\partial (u,v,w)}{\\partial (x,y,z)}\\\\\nJ=\n\\begin{vmatrix}\n     \\frac{\\partial u}{\\partial x} \u0026 \\frac{\\partial u}{\\partial y} \u0026 \\frac{\\partial u}{\\partial z}\\\\ \n     \\frac{\\partial v}{\\partial x} \u0026 \\frac{\\partial v}{\\partial y} \u0026 \\frac{\\partial v}{\\partial z}\\\\\n     \\frac{\\partial w}{\\partial x} \u0026 \\frac{\\partial w}{\\partial y} \u0026 \\frac{\\partial w}{\\partial z} \n\\end{vmatrix}\n\\end{align}\n$$\n## Property\nJJ'=1 where J'=$\\frac{\\partial (x,y,z)}{\\partial (u,v,w)}$\n\n## Proof\n$$\n\\begin{align}\nJJ' = \\begin{vmatrix}\n     \\frac{\\partial u}{\\partial x} \u0026 \\frac{\\partial u}{\\partial y} \u0026 \\frac{\\partial u}{\\partial z}\\\\ \n     \\frac{\\partial v}{\\partial x} \u0026 \\frac{\\partial v}{\\partial y} \u0026 \\frac{\\partial v}{\\partial z}\\\\\n     \\frac{\\partial w}{\\partial x} \u0026 \\frac{\\partial w}{\\partial y} \u0026 \\frac{\\partial w}{\\partial z} \n\\end{vmatrix} \\begin{vmatrix}\n     \\frac{\\partial x}{\\partial u} \u0026 \\frac{\\partial x}{\\partial v} \u0026 \\frac{\\partial x}{\\partial w}\\\\ \n     \\frac{\\partial y}{\\partial u} \u0026 \\frac{\\partial y}{\\partial v} \u0026 \\frac{\\partial y}{\\partial w}\\\\\n     \\frac{\\partial z}{\\partial u} \u0026 \\frac{\\partial z}{\\partial v} \u0026 \\frac{\\partial z}{\\partial w} \n\\end{vmatrix}=\n\\begin{vmatrix}\n     1 \u0026 0 \u0026 0\\\\ \n     0 \u0026 1 \u0026 0\\\\\n     0 \u0026 0 \u0026 1 \n\\end{vmatrix}\n=1\n\\end{align}\n$$\n\n# Change of Variables using the Jacobian\n\n\u003cdiv style=\"position:relative;padding-bottom:56.25%;\"\u003e  \n \u003ciframe style=\"width:100%;height:100%;position:absolute;left:0px;top:0px;\"  \n frameborder=\"0\" width=\"100%\" height=\"100%\"   \n allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen \n src=\"https://www.youtube-nocookie.com/embed/hhFzJvaY__U\"\u003e  \n\u003c/iframe\u003e  \n\u003c/div\u003e\n\nWhen transforming (x,y)→(new X, new Y)=$(f_x(x,y),f_y(x,y))$, there's a transformation that's doesn't have to be linear overall but linear locally represented by the matrix:\n\n$$\n\\begin{bmatrix}\n     \\frac{\\partial f_x}{\\partial x} \u0026 \\frac{\\partial f_x}{\\partial y}\\\\ \n     \\frac{\\partial f_y}{\\partial x} \u0026 \\frac{\\partial f_y}{\\partial y}\n\\end{bmatrix}\n$$\n\nThe determinant of the matrix represents how much the area is dilated during the transformation: $J=\\frac{\\partial (f_x,f_y)}{\\partial (x,y)}$\n\nTherefore, (the infinitesimally small area in the initial (x,y)) should only be ($\\frac{1}{J}\\cdot$ the infinitesimally small area in the final $(f_x,f_y)$)\n\n$$\n\\begin{align}\ndx\\cdot dy=\\frac{1}{J}\\cdot df_x \\cdot df_y\\\\\ndx\\cdot dy=\\frac{\\partial (x,y)}{\\partial (f_x,f_y)}\\cdot df_x\\cdot df_y\n\\end{align}\n$$\n\n## Example\n\nRelation between cartesian system's infinitesimal area to polar system's infinitesimal area\n\n$$\n\\begin{align}\ndx\\cdot dy=\\frac{\\partial (x,y)}{\\partial (r,\\theta)}\\cdot dr\\cdot d\\theta\\\\\n=\\begin{vmatrix}\n     \\cos\\theta \u0026 -r\\sin \\theta\\\\ \n     \\sin\\theta \u0026 r\\cos \\theta\\\\\n\\end{vmatrix} dr\\cdot d\\theta \\\\\ndx\\cdot dy = rdr\\cdot d\\theta\n\\end{align}\n$$",
+    "lastmodified": "2023-05-22T11:26:54.5222227+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Lagranges-Multipliers": {
+    "title": "Lagrange's Multipliers",
+    "content": "Given constraint: Φ(x,y,z)=0\nTrying to maximize: P(x,y,z)\n\nF(x,y,z)=P(x,y,z)+λΦ(x,y,z)\n$$\n\\begin{align}\n\\frac{\\partial F}{\\partial x}=0\\\\\n\\frac{\\partial F}{\\partial y}=0\\\\\n\\frac{\\partial F}{\\partial z}=0\\\\\n\\frac{\\partial F}{\\partial \\lambda}=0\\text{ we get back our constraint}\\\\\n\\end{align}\n$$\nBy solving these four equations we get (x₀,y₀,z₀) with λ₀ and our extremum: P(x₀,y₀,z₀)\n\n# How it works\n\n* Let R(x,y) be the function that we want to maximize (revenue)\n* Let B(x,y)=b be the constraint (budget)\n\n\nWe can visually and conceptually understand that at an extremum the gradient of **R** is a scalar version of the gradient of **B** ^[Since they both, B(x,y)=b and R(x,y)=M\\*, will tangentially touch each other at the extremum]\n\n$$\n\\begin{align}\n\\nabla R = \\lambda \\nabla B \\Rightarrow\\\\\n\\frac{\\partial R}{\\partial x}=\\lambda \\frac{\\partial B}{\\partial x}\\\\\n\\frac{\\partial R}{\\partial y}=\\lambda \\frac{\\partial B}{\\partial y}\n\\end{align}\n$$\n\nWe can pack these two equations + the constraint equation together using the Lagrangian $L(x,y,\\lambda )=R(x,y)-\\lambda (B(x,y)-b)$ and then solving for $\\nabla L = 0$\n\n$$\n\\begin{align}\n\\frac{\\partial L(x,y)}{\\partial x}=\\frac{\\partial R}{\\partial x}-\\lambda \\frac{\\partial B}{\\partial x}=0\\\\\n\\frac{\\partial L(x,y)}{\\partial y}=\\frac{\\partial R}{\\partial y}-\\lambda \\frac{\\partial B}{\\partial y}=0\\\\\n\\frac{\\partial L(x,y)}{\\partial \\lambda}=-(B(x,y)-b)=0\n\\end{align}\n$$\nWe get back our equations!\n\n\u003e This helps convert a constrained optimization problem → Unconstrained optimization problem (in a higher D)\n\n## Use of the λ\nLet (h\\*,s\\*,λ\\*) be the solution of ∇L=0 and maximum revenue $M^*=R(h^*,s^*)$\n\nNow making everything, a function of b:\n$$\n\\begin{align}\nM^\\*(b)=R(h^*(b),s^\\*(b))\\\\\nL^\\*(b)=L(h^\\*(b),s^\\*(b),\\lambda ^\\*(b),b)\\\\\n= R(h^\\*(b),s^\\*(b))-\\lambda ^\\*(B(h^\\*(b),s^\\*(b))-b)\\\\\n= R(h^\\*(b),s^\\*(b)) = M^\\*(b)\\\\\n\\\\\n\\frac{dL^\\*}{db}=\\frac{\\partial L}{\\partial h^\\*}\\frac{\\partial h^\\*}{\\partial b}+\\frac{\\partial L}{\\partial s^\\*}\\frac{\\partial s^\\*}{\\partial b}+\\frac{\\partial L}{\\partial \\lambda^\\*}\\frac{\\partial \\lambda^\\*}{\\partial b}+\\frac{\\partial L}{\\partial b}\\frac{\\partial b}{\\partial b}\\text{ because (12)}\\\\\n\\frac{\\partial L}{\\partial h^\\*,s^\\*,\\lambda^\\*}=0\\text{ because nabla L=0 at that point}\\\\\n\\frac{dL^\\*}{db}=\\frac{\\partial L}{\\partial b}\\\\\n\\Leftrightarrow \\frac{dM^\\*}{db}=-(-\\lambda)=\\lambda\n\\end{align}\n$$\n∴ The maximum revenue as a function of the budget changes with respect to it equal to the scalar difference between the revenue and budget at that maxima (λ\\*(b))\n\n---\n# Sources\nhttps://youtu.be/yuqB-d5MjZA",
+    "lastmodified": "2023-05-22T11:40:45.915612+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Math1": {
+    "title": "Math1",
+    "content": "Go back to [[_index]]\n\n# Files\n- [[Math/Math1/Approximating functions z=f(x,y)]]\n- [[Math/Math1/Approximating functions]]\n- [[Math/Math1/Coordinate systems for integration]]\n- [[Math/Math1/Curvature]]\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\n- [[Math/Math1/Curve Tracing]]\n- [[Math/Math1/Euler's Theorem]]\n- [[Math/Math1/Gamma and Beta Functions]]\n- [[Math/Math1/Gaussian Integral (half factorial)]]\n- [[Math/Math1/Integration Formulae]]\n- [[Math/Math1/Jacobian]]\n- [[Math/Math1/Lagrange's Multipliers]]\n- [[Math/Math1/nth derivative]]\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\n- [[Math/Math1/Synthetic Division]]\n- [[Math/Math1/Tangent and Normal]]\n- [[Math/Math1/Trig and hyperbolic functions]]\n",
+    "lastmodified": "2023-05-22T12:02:45.9549801+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Stationary-Points-in-Multivariable-Functions": {
+    "title": "Stationary Points in Multivariable Functions",
+    "content": "https://youtu.be/UID893EosM8\n# # Local Extrema, Critical Points, \u0026 Saddle Points of Multivariable Functions\nMultivariable function: z=f(x,y)\n\n```mermaid\ngraph TD\n\n    A[Start] --\u003e|fₓ=0 \u0026 f_y=0| B(\"Stationary points (x₀,y₀)\")\n\n    B --\u003e C[D=rt-s^2=f_xxf_yy-f_xy^2]\n\n    C --\u003eD[D\u003e0]\n\n    C --\u003eE[D\u003c0]\n\n    E --\u003eF[Saddle Point]\n\n    D --\u003eG[\"f_xx\u003e0\"]\n\n    D --\u003eH[\"f_xx\u003c0\"]\n\n    G ---|like upward parabola| I[\"Local Min\"]\n\n    H ---|like downward parabola| J[\"Local Max\"]\n```\n",
+    "lastmodified": "2023-05-22T11:50:06.8295102+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Synthetic-Division": {
+    "title": "Synthetic Division",
+    "content": "\nhttps://youtu.be/mdgWnxohHNg\n\n![[files/Pasted image 20230306080932.png]]\n\n![[files/Pasted image 20230306080935.png]]\n",
+    "lastmodified": "2023-05-22T11:55:03.6051043+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Tangent-and-Normal": {
+    "title": "Tangent and Normal",
+    "content": "# To a function f(x,y,z)=0 at $(x_0,y_0,z_0)$\n\n## Tangent\n$$\n(x-x_0)\\left(\\frac{\\partial f}{\\partial x}\\_{(x_0,y_0,z_0)}\\right) + (y-y\\_0)\\left(\\frac{\\partial f}{\\partial y}\\_{(x\\_0,y\\_0,z\\_0)}\\right) + (z-z\\_0)\\left(\\frac{\\partial f}{\\partial z}\\_{(x\\_0,y\\_0,z\\_0)}\\right)=0\n$$\n\n$$\\Leftrightarrow (\\vec{r}-\\vec{r_0})\\cdot \\nabla f(\\vec{r})_{\\vec{r_0}} = 0$$\n## Normal\n$$\n\\frac{(x-x\\_0)}{\\left(\\frac{\\partial f}{\\partial x}\\_{(x\\_0,y\\_0,z\\_0)}\\right)}=\\frac{(y-y\\_0)}{\\left(\\frac{\\partial f}{\\partial y}\\_{(x\\_0,y\\_0,z\\_0)}\\right)}=\\frac{(z-z\\_0)}{\\left(\\frac{\\partial f}{\\partial z}\\_{(x\\_0,y\\_0,z\\_0)}\\right)}\n$$\n### Normal Vector\n$$\n(x\\_0,y\\_0,z\\_0)+t\\cdot \\left\u003c\\left(\\frac{\\partial f}{\\partial x}\\_{(x_0,y\\_0,z\\_0)}\\right),\\left(\\frac{\\partial f}{\\partial y}\\_{(x_0,y\\_0,z\\_0)}\\right),\\left(\\frac{\\partial f}{\\partial z}\\_{(x_0,y\\_0,z\\_0)}\\right)\\right\u003e ⇔ \\vec{r\\_0}+t\\cdot \\nabla f(\\vec{r})\\_{\\vec{r\\_0}}\n$$\n",
+    "lastmodified": "2023-05-22T11:57:55.9116586+05:30",
+    "tags": []
+  },
+  "/Math/Math1/Trig-and-hyperbolic-functions": {
+    "title": "Trig and hyperbolic functions",
+    "content": "# Hyperbolic in terms of trig\n$\\cosh(z)=\\cos(iz)$\n$\\sinh(z)=-i\\sin(iz)$\n\n# Trig in terms of Hyperbolic\n$\\cos(z)=\\cosh(iz)$\n$\\sin(z)=-i\\sinh(iz)$\n\n# Inverse of sinh and cosh in terms of ln\n$\\cosh^{-1}(x)=ln(x+\\sqrt{x^2-1})$ \n$\\sinh^{-1}(x)=ln(x+\\sqrt{x^2+1})$\n",
+    "lastmodified": "2023-01-01T18:03:47.8097955+05:30",
+    "tags": []
+  },
+  "/Math/Math1/nth-derivative": {
+    "title": "nth derivative",
+    "content": "\n$D^n(\\[\\sin|\\cos\\](ax+b)) = a^n*\\[\\sin|\\cos\\](ax+b+n*\\frac{\\pi}{2})$\n\n$D^n[(ax+b)^m] = a^n(ax+b)^{m-n}*(\\frac{m!}{(m-n)!})$\n\n$D^n[(ax+b)^{m}] = a^n(ax+b)^{m-n}*((-1)^n\\frac{(-m+n-1)!}{(-m-1)!})$ if m\u003c0\n\n$D^n(\\log(ax+b))=\\frac{(-1)^{n-1}(n-1)!a^n}{(ax+b)^n}$\n\n$D^n(e^{ax}\\[\\sin|\\cos\\](bx+c) = r^ne^{ax}\\[\\sin|\\cos\\](bx+c+n\\theta)$ \nwhere $r=\\sqrt{a^2+b^2}$ and $\\theta=tan^{-1}\\frac{b}{a}$\n\n# Product rule for nth derivative\n\n$$D^n(f(x)\\cdot g(x)) = \\sum_{r=0}^{n}(^nC_r\\cdot f^{n-r}(x)\\cdot g^r(x))$$ \n",
+    "lastmodified": "2023-05-22T11:43:20.91837+05:30",
     "tags": []
   }
 }

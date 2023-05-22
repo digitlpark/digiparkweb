@@ -4,81 +4,451 @@
       "/": [
         {
           "source": "/",
-          "target": "/Hello-world",
-          "text": "Hello world"
+          "target": "/Math/Math1/Math1",
+          "text": "Math1"
         }
       ],
-      "/Hello-world": [
+      "/Math/Math1/Approximating-functions": [
         {
-          "source": "/Hello-world",
-          "target": "/hola/Hello-3",
-          "text": "Hello 3"
+          "source": "/Math/Math1/Approximating-functions",
+          "target": "/Math/Math1/nth-derivative",
+          "text": "Math/Math1/nth derivative"
         }
       ],
-      "/hola/Hello-2": [
+      "/Math/Math1/Approximating-functions-zfxy": [
         {
-          "source": "/hola/Hello-2",
-          "target": "/Hello-world",
-          "text": "Hello world"
+          "source": "/Math/Math1/Approximating-functions-zfxy",
+          "target": "/Math/Math1/Approximating-functions",
+          "text": "Math/Math1/Approximating functions"
         }
       ],
-      "/hola/Hello-3": [
+      "/Math/Math1/Coordinate-systems-for-integration": [
         {
-          "source": "/hola/Hello-3",
-          "target": "/hola/Hello-2",
-          "text": "Hello 2"
+          "source": "/Math/Math1/Coordinate-systems-for-integration",
+          "target": "/Math/Math1/Jacobian",
+          "text": "Math/Math1/Jacobian"
+        }
+      ],
+      "/Math/Math1/Curve-Tracing": [
+        {
+          "source": "/Math/Math1/Curve-Tracing",
+          "target": "/Math/Math1/Curve-Tracing-fxy0",
+          "text": "Math/Math1/Curve Tracing f(x,y)=0"
+        },
+        {
+          "source": "/Math/Math1/Curve-Tracing",
+          "target": "/Math/Math1/Curve-Tracing-fr%CE%B80",
+          "text": "Math/Math1/Curve Tracing f(r,θ)=0"
+        }
+      ],
+      "/Math/Math1/Gamma-and-Beta-Functions": [
+        {
+          "source": "/Math/Math1/Gamma-and-Beta-Functions",
+          "target": "/Math/Math1/Gaussian-Integral-half-factorial",
+          "text": "This"
+        }
+      ],
+      "/Math/Math1/Math1": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/_index",
+          "text": "_index"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Approximating-functions-zfxy",
+          "text": "Math/Math1/Approximating functions z=f(x,y)"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Approximating-functions",
+          "text": "Math/Math1/Approximating functions"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Coordinate-systems-for-integration",
+          "text": "Math/Math1/Coordinate systems for integration"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Curvature",
+          "text": "Math/Math1/Curvature"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Curve-Tracing-fr%CE%B80",
+          "text": "Math/Math1/Curve Tracing f(r,θ)=0"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Curve-Tracing-fxy0",
+          "text": "Math/Math1/Curve Tracing f(x,y)=0"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Curve-Tracing",
+          "text": "Math/Math1/Curve Tracing"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Eulers-Theorem",
+          "text": "Math/Math1/Euler's Theorem"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Gamma-and-Beta-Functions",
+          "text": "Math/Math1/Gamma and Beta Functions"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Gaussian-Integral-half-factorial",
+          "text": "Math/Math1/Gaussian Integral (half factorial)"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Integration-Formulae",
+          "text": "Math/Math1/Integration Formulae"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Jacobian",
+          "text": "Math/Math1/Jacobian"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Lagranges-Multipliers",
+          "text": "Math/Math1/Lagrange's Multipliers"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/nth-derivative",
+          "text": "Math/Math1/nth derivative"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Stationary-Points-in-Multivariable-Functions",
+          "text": "Math/Math1/Stationary Points in Multivariable Functions"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Synthetic-Division",
+          "text": "Math/Math1/Synthetic Division"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Tangent-and-Normal",
+          "text": "Math/Math1/Tangent and Normal"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Trig-and-hyperbolic-functions",
+          "text": "Math/Math1/Trig and hyperbolic functions"
         }
       ]
     },
     "backlinks": {
-      "/Hello-world": [
+      "/Math/Math1/Approximating-functions": [
         {
-          "source": "/",
-          "target": "/Hello-world",
-          "text": "Hello world"
+          "source": "/Math/Math1/Approximating-functions-zfxy",
+          "target": "/Math/Math1/Approximating-functions",
+          "text": "Math/Math1/Approximating functions"
         },
         {
-          "source": "/hola/Hello-2",
-          "target": "/Hello-world",
-          "text": "Hello world"
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Approximating-functions",
+          "text": "Math/Math1/Approximating functions"
         }
       ],
-      "/hola/Hello-2": [
+      "/Math/Math1/Approximating-functions-zfxy": [
         {
-          "source": "/hola/Hello-3",
-          "target": "/hola/Hello-2",
-          "text": "Hello 2"
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Approximating-functions-zfxy",
+          "text": "Math/Math1/Approximating functions z=f(x,y)"
         }
       ],
-      "/hola/Hello-3": [
+      "/Math/Math1/Coordinate-systems-for-integration": [
         {
-          "source": "/Hello-world",
-          "target": "/hola/Hello-3",
-          "text": "Hello 3"
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Coordinate-systems-for-integration",
+          "text": "Math/Math1/Coordinate systems for integration"
+        }
+      ],
+      "/Math/Math1/Curvature": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Curvature",
+          "text": "Math/Math1/Curvature"
+        }
+      ],
+      "/Math/Math1/Curve-Tracing": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Curve-Tracing",
+          "text": "Math/Math1/Curve Tracing"
+        }
+      ],
+      "/Math/Math1/Curve-Tracing-fr%CE%B80": [
+        {
+          "source": "/Math/Math1/Curve-Tracing",
+          "target": "/Math/Math1/Curve-Tracing-fr%CE%B80",
+          "text": "Math/Math1/Curve Tracing f(r,θ)=0"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Curve-Tracing-fr%CE%B80",
+          "text": "Math/Math1/Curve Tracing f(r,θ)=0"
+        }
+      ],
+      "/Math/Math1/Curve-Tracing-fxy0": [
+        {
+          "source": "/Math/Math1/Curve-Tracing",
+          "target": "/Math/Math1/Curve-Tracing-fxy0",
+          "text": "Math/Math1/Curve Tracing f(x,y)=0"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Curve-Tracing-fxy0",
+          "text": "Math/Math1/Curve Tracing f(x,y)=0"
+        }
+      ],
+      "/Math/Math1/Eulers-Theorem": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Eulers-Theorem",
+          "text": "Math/Math1/Euler's Theorem"
+        }
+      ],
+      "/Math/Math1/Gamma-and-Beta-Functions": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Gamma-and-Beta-Functions",
+          "text": "Math/Math1/Gamma and Beta Functions"
+        }
+      ],
+      "/Math/Math1/Gaussian-Integral-half-factorial": [
+        {
+          "source": "/Math/Math1/Gamma-and-Beta-Functions",
+          "target": "/Math/Math1/Gaussian-Integral-half-factorial",
+          "text": "This"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Gaussian-Integral-half-factorial",
+          "text": "Math/Math1/Gaussian Integral (half factorial)"
+        }
+      ],
+      "/Math/Math1/Integration-Formulae": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Integration-Formulae",
+          "text": "Math/Math1/Integration Formulae"
+        }
+      ],
+      "/Math/Math1/Jacobian": [
+        {
+          "source": "/Math/Math1/Coordinate-systems-for-integration",
+          "target": "/Math/Math1/Jacobian",
+          "text": "Math/Math1/Jacobian"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Jacobian",
+          "text": "Math/Math1/Jacobian"
+        }
+      ],
+      "/Math/Math1/Lagranges-Multipliers": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Lagranges-Multipliers",
+          "text": "Math/Math1/Lagrange's Multipliers"
+        }
+      ],
+      "/Math/Math1/Math1": [
+        {
+          "source": "/",
+          "target": "/Math/Math1/Math1",
+          "text": "Math1"
+        }
+      ],
+      "/Math/Math1/Stationary-Points-in-Multivariable-Functions": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Stationary-Points-in-Multivariable-Functions",
+          "text": "Math/Math1/Stationary Points in Multivariable Functions"
+        }
+      ],
+      "/Math/Math1/Synthetic-Division": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Synthetic-Division",
+          "text": "Math/Math1/Synthetic Division"
+        }
+      ],
+      "/Math/Math1/Tangent-and-Normal": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Tangent-and-Normal",
+          "text": "Math/Math1/Tangent and Normal"
+        }
+      ],
+      "/Math/Math1/Trig-and-hyperbolic-functions": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/Trig-and-hyperbolic-functions",
+          "text": "Math/Math1/Trig and hyperbolic functions"
+        }
+      ],
+      "/Math/Math1/nth-derivative": [
+        {
+          "source": "/Math/Math1/Approximating-functions",
+          "target": "/Math/Math1/nth-derivative",
+          "text": "Math/Math1/nth derivative"
+        },
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/Math/Math1/nth-derivative",
+          "text": "Math/Math1/nth derivative"
+        }
+      ],
+      "/_index": [
+        {
+          "source": "/Math/Math1/Math1",
+          "target": "/_index",
+          "text": "_index"
         }
       ]
     }
   },
   "links": [
     {
-      "source": "/Hello-world",
-      "target": "/hola/Hello-3",
-      "text": "Hello 3"
+      "source": "/Math/Math1/Approximating-functions-zfxy",
+      "target": "/Math/Math1/Approximating-functions",
+      "text": "Math/Math1/Approximating functions"
+    },
+    {
+      "source": "/Math/Math1/Approximating-functions",
+      "target": "/Math/Math1/nth-derivative",
+      "text": "Math/Math1/nth derivative"
+    },
+    {
+      "source": "/Math/Math1/Coordinate-systems-for-integration",
+      "target": "/Math/Math1/Jacobian",
+      "text": "Math/Math1/Jacobian"
+    },
+    {
+      "source": "/Math/Math1/Curve-Tracing",
+      "target": "/Math/Math1/Curve-Tracing-fxy0",
+      "text": "Math/Math1/Curve Tracing f(x,y)=0"
+    },
+    {
+      "source": "/Math/Math1/Curve-Tracing",
+      "target": "/Math/Math1/Curve-Tracing-fr%CE%B80",
+      "text": "Math/Math1/Curve Tracing f(r,θ)=0"
+    },
+    {
+      "source": "/Math/Math1/Gamma-and-Beta-Functions",
+      "target": "/Math/Math1/Gaussian-Integral-half-factorial",
+      "text": "This"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/_index",
+      "text": "_index"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Approximating-functions-zfxy",
+      "text": "Math/Math1/Approximating functions z=f(x,y)"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Approximating-functions",
+      "text": "Math/Math1/Approximating functions"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Coordinate-systems-for-integration",
+      "text": "Math/Math1/Coordinate systems for integration"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Curvature",
+      "text": "Math/Math1/Curvature"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Curve-Tracing-fr%CE%B80",
+      "text": "Math/Math1/Curve Tracing f(r,θ)=0"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Curve-Tracing-fxy0",
+      "text": "Math/Math1/Curve Tracing f(x,y)=0"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Curve-Tracing",
+      "text": "Math/Math1/Curve Tracing"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Eulers-Theorem",
+      "text": "Math/Math1/Euler's Theorem"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Gamma-and-Beta-Functions",
+      "text": "Math/Math1/Gamma and Beta Functions"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Gaussian-Integral-half-factorial",
+      "text": "Math/Math1/Gaussian Integral (half factorial)"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Integration-Formulae",
+      "text": "Math/Math1/Integration Formulae"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Jacobian",
+      "text": "Math/Math1/Jacobian"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Lagranges-Multipliers",
+      "text": "Math/Math1/Lagrange's Multipliers"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/nth-derivative",
+      "text": "Math/Math1/nth derivative"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Stationary-Points-in-Multivariable-Functions",
+      "text": "Math/Math1/Stationary Points in Multivariable Functions"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Synthetic-Division",
+      "text": "Math/Math1/Synthetic Division"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Tangent-and-Normal",
+      "text": "Math/Math1/Tangent and Normal"
+    },
+    {
+      "source": "/Math/Math1/Math1",
+      "target": "/Math/Math1/Trig-and-hyperbolic-functions",
+      "text": "Math/Math1/Trig and hyperbolic functions"
     },
     {
       "source": "/",
-      "target": "/Hello-world",
-      "text": "Hello world"
-    },
-    {
-      "source": "/hola/Hello-2",
-      "target": "/Hello-world",
-      "text": "Hello world"
-    },
-    {
-      "source": "/hola/Hello-3",
-      "target": "/hola/Hello-2",
-      "text": "Hello 2"
+      "target": "/Math/Math1/Math1",
+      "text": "Math1"
     }
   ]
 }

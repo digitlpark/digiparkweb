@@ -1,3 +1,2 @@
-[[Hello world]]
-
-[[hola/Hello 3|Hello 3]]
+🔢Math
+* [[Math/Math1/Math1|Math1]]
