@@ -4,42 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "63794128c44377bd",
+        "id": "9f7772188097c7cd",
         "type": "tabs",
-        "dimension": 61.641221374045806,
         "children": [
           {
-            "id": "47fa74fe0d34cd8b",
+            "id": "b875bddaf08b5615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math1/Trig and hyperbolic functions.md",
+                "file": "Math/Math1/Synthetic Division.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "9a1a23cbb3bb9a5f"
-          }
-        ]
-      },
-      {
-        "id": "5a725a996fd9dd84",
-        "type": "tabs",
-        "dimension": 38.3587786259542,
-        "children": [
-          {
-            "id": "1992ced5b712778c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Math1/Trig and hyperbolic functions.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "9a1a23cbb3bb9a5f"
+            }
           }
         ]
       }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Math1/Trig and hyperbolic functions.md",
+                "file": "Math/Math1/Synthetic Division.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Math1/Trig and hyperbolic functions.md",
+                "file": "Math/Math1/Synthetic Division.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Math1/Trig and hyperbolic functions.md"
+                "file": "Math/Math1/Synthetic Division.md"
               }
             }
           }
@@ -168,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47fa74fe0d34cd8b",
+  "active": "b875bddaf08b5615",
   "lastOpenFiles": [
+    "_index.md",
+    "Testing.md",
+    "Math/Math1/Trig and hyperbolic functions.md",
     "Math/Math1/Tangent and Normal.md",
     "Math/Math1/Synthetic Division.md",
     "Math/Math1/Stationary Points in Multivariable Functions.md",
@@ -188,10 +169,8 @@
     "Math/Math1/Approximating functions z=f(x,y).md",
     "Math/Math1/Approximating functions.md",
     "Math/Math1/Integration Formulae.md",
-    "_index.md",
     "files/Pasted image 20230306080935.png",
     "files/Pasted image 20230306080932.png",
-    "Math/Math1/Trig and hyperbolic functions.md",
     "Math/Math1",
     "Math",
     "New folder",
