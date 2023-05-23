@@ -106,11 +106,6 @@
         },
         {
           "source": "/Math/Math1/Math1",
-          "target": "/Math/Math1/Integration-Formulae",
-          "text": "Math/Math1/Integration Formulae"
-        },
-        {
-          "source": "/Math/Math1/Math1",
           "target": "/Math/Math1/Jacobian",
           "text": "Math/Math1/Jacobian"
         },
@@ -235,13 +230,6 @@
           "source": "/Math/Math1/Math1",
           "target": "/Math/Math1/Gaussian-Integral-half-factorial",
           "text": "Math/Math1/Gaussian Integral (half factorial)"
-        }
-      ],
-      "/Math/Math1/Integration-Formulae": [
-        {
-          "source": "/Math/Math1/Math1",
-          "target": "/Math/Math1/Integration-Formulae",
-          "text": "Math/Math1/Integration Formulae"
         }
       ],
       "/Math/Math1/Jacobian": [
@@ -404,11 +392,6 @@
       "source": "/Math/Math1/Math1",
       "target": "/Math/Math1/Gaussian-Integral-half-factorial",
       "text": "Math/Math1/Gaussian Integral (half factorial)"
-    },
-    {
-      "source": "/Math/Math1/Math1",
-      "target": "/Math/Math1/Integration-Formulae",
-      "text": "Math/Math1/Integration Formulae"
     },
     {
       "source": "/Math/Math1/Math1",

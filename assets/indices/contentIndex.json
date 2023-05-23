@@ -79,8 +79,8 @@
   },
   "/Math/Math1/Math1": {
     "title": "Math1",
-    "content": "Go back to [[_index]]\n\n# Files\n- [[Math/Math1/Approximating functions z=f(x,y)]]\n- [[Math/Math1/Approximating functions]]\n- [[Math/Math1/Coordinate systems for integration]]\n- [[Math/Math1/Curvature]]\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\n- [[Math/Math1/Curve Tracing]]\n- [[Math/Math1/Euler's Theorem]]\n- [[Math/Math1/Gamma and Beta Functions]]\n- [[Math/Math1/Gaussian Integral (half factorial)]]\n- [[Math/Math1/Integration Formulae]]\n- [[Math/Math1/Jacobian]]\n- [[Math/Math1/Lagrange's Multipliers]]\n- [[Math/Math1/nth derivative]]\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\n- [[Math/Math1/Synthetic Division]]\n- [[Math/Math1/Tangent and Normal]]\n- [[Math/Math1/Trig and hyperbolic functions]]\n",
-    "lastmodified": "2023-05-22T12:02:45.9549801+05:30",
+    "content": "Go back to [[_index]]\n\n# Files\n- [[Math/Math1/Approximating functions z=f(x,y)]]\n- [[Math/Math1/Approximating functions]]\n- [[Math/Math1/Coordinate systems for integration]]\n- [[Math/Math1/Curvature]]\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\n- [[Math/Math1/Curve Tracing]]\n- [[Math/Math1/Euler's Theorem]]\n- [[Math/Math1/Gamma and Beta Functions]]\n- [[Math/Math1/Gaussian Integral (half factorial)]]\n- [[Math/Math1/Jacobian]]\n- [[Math/Math1/Lagrange's Multipliers]]\n- [[Math/Math1/nth derivative]]\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\n- [[Math/Math1/Synthetic Division]]\n- [[Math/Math1/Tangent and Normal]]\n- [[Math/Math1/Trig and hyperbolic functions]]\n",
+    "lastmodified": "2023-05-23T07:38:18.5156655+05:30",
     "tags": []
   },
   "/Math/Math1/Stationary-Points-in-Multivariable-Functions": {

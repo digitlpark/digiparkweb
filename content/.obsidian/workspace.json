@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math1/Synthetic Division.md",
+                "file": "Math/Math1/Math1.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Math1/Synthetic Division.md",
+                "file": "Math/Math1/Math1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Math1/Synthetic Division.md",
+                "file": "Math/Math1/Math1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Math1/Synthetic Division.md"
+                "file": "Math/Math1/Math1.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
+    "Math/Math1/Synthetic Division.md",
     "_index.md",
     "Testing.md",
     "Math/Math1/Trig and hyperbolic functions.md",
     "Math/Math1/Tangent and Normal.md",
-    "Math/Math1/Synthetic Division.md",
     "Math/Math1/Stationary Points in Multivariable Functions.md",
     "Math/Math1/nth derivative.md",
     "Math/Math1/Math1.md",
