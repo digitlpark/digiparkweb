@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Discrete Mathematics.md",
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Discrete Mathematics.md",
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Discrete Mathematics/Discrete Mathematics.md",
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Discrete Mathematics/Discrete Mathematics.md",
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Discrete Mathematics/Discrete Mathematics.md"
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md"
               }
             }
           }
@@ -168,11 +168,11 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
+    "Math/Discrete Mathematics/Discrete Mathematics.md",
     "Math/Math1/Stationary Points in Multivariable Functions.md",
     "Math/Math1/Synthetic Division.md",
     "Math/Math1/Tangent and Normal.md",
     "Math/Math1/Trig and hyperbolic functions.md",
-    "Math/Discrete Mathematics/Discrete Mathematics.md",
     "Math/Math1/Power Set.md",
     "Math/Math1/Discrete Mathematics.md",
     "Math/Discrete Mathematics/Power Set.md",

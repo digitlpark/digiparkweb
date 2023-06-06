@@ -13,13 +13,6 @@
           "text": "Discrete Mathematics"
         }
       ],
-      "/Math/Discrete-Mathematics/Discrete-Mathematics": [
-        {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Power-Set",
-          "text": "Power Set"
-        }
-      ],
       "/Math/Math1/Approximating-functions": [
         {
           "source": "/Math/Math1/Approximating-functions",
@@ -154,13 +147,6 @@
           "source": "/",
           "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
           "text": "Discrete Mathematics"
-        }
-      ],
-      "/Math/Discrete-Mathematics/Power-Set": [
-        {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Power-Set",
-          "text": "Power Set"
         }
       ],
       "/Math/Math1/Approximating-functions": [
@@ -322,11 +308,6 @@
     }
   },
   "links": [
-    {
-      "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-      "target": "/Math/Discrete-Mathematics/Power-Set",
-      "text": "Power Set"
-    },
     {
       "source": "/Math/Math1/Approximating-functions-zfxy",
       "target": "/Math/Math1/Approximating-functions",
