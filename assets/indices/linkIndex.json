@@ -20,25 +20,6 @@
           "text": "Power Set"
         }
       ],
-      "/Math/Discrete-Mathematics/Power-Set": [
-        {
-          "source": "/Math/Discrete-Mathematics/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-          "text": "set"
-        },
-        {
-          "source": "/Math/Discrete-Mathematics/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-          "text": "subsets"
-        }
-      ],
-      "/Math/Math1/": [
-        {
-          "source": "/Math/Math1/",
-          "target": "/Math/Math1/Math-1",
-          "text": "ToC"
-        }
-      ],
       "/Math/Math1/Approximating-functions": [
         {
           "source": "/Math/Math1/Approximating-functions",
@@ -70,13 +51,6 @@
           "source": "/Math/Math1/Curve-Tracing",
           "target": "/Math/Math1/Curve-Tracing-fr%CE%B80",
           "text": "Math/Math1/Curve Tracing f(r,θ)=0"
-        }
-      ],
-      "/Math/Math1/Discrete-Mathematics": [
-        {
-          "source": "/Math/Math1/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Power-Set",
-          "text": "Power Set"
         }
       ],
       "/Math/Math1/Gamma-and-Beta-Functions": [
@@ -172,18 +146,6 @@
           "target": "/Math/Math1/Trig-and-hyperbolic-functions",
           "text": "Math/Math1/Trig and hyperbolic functions"
         }
-      ],
-      "/Math/Math1/Power-Set": [
-        {
-          "source": "/Math/Math1/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-          "text": "set"
-        },
-        {
-          "source": "/Math/Math1/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-          "text": "subsets"
-        }
       ]
     },
     "backlinks": {
@@ -194,36 +156,9 @@
           "text": "Discrete Mathematics"
         }
       ],
-      "/Math/Discrete-Mathematics/Intro-to-Set-Theory": [
-        {
-          "source": "/Math/Discrete-Mathematics/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-          "text": "set"
-        },
-        {
-          "source": "/Math/Discrete-Mathematics/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-          "text": "subsets"
-        },
-        {
-          "source": "/Math/Math1/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-          "text": "set"
-        },
-        {
-          "source": "/Math/Math1/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-          "text": "subsets"
-        }
-      ],
       "/Math/Discrete-Mathematics/Power-Set": [
         {
           "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Power-Set",
-          "text": "Power Set"
-        },
-        {
-          "source": "/Math/Math1/Discrete-Mathematics",
           "target": "/Math/Discrete-Mathematics/Power-Set",
           "text": "Power Set"
         }
@@ -339,11 +274,6 @@
       ],
       "/Math/Math1/Math-1": [
         {
-          "source": "/Math/Math1/",
-          "target": "/Math/Math1/Math-1",
-          "text": "ToC"
-        },
-        {
           "source": "/",
           "target": "/Math/Math1/Math-1",
           "text": "Math 1"
@@ -398,16 +328,6 @@
       "text": "Power Set"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Power-Set",
-      "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-      "text": "set"
-    },
-    {
-      "source": "/Math/Discrete-Mathematics/Power-Set",
-      "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-      "text": "subsets"
-    },
-    {
       "source": "/Math/Math1/Approximating-functions-zfxy",
       "target": "/Math/Math1/Approximating-functions",
       "text": "Math/Math1/Approximating functions"
@@ -431,11 +351,6 @@
       "source": "/Math/Math1/Curve-Tracing",
       "target": "/Math/Math1/Curve-Tracing-fr%CE%B80",
       "text": "Math/Math1/Curve Tracing f(r,θ)=0"
-    },
-    {
-      "source": "/Math/Math1/Discrete-Mathematics",
-      "target": "/Math/Discrete-Mathematics/Power-Set",
-      "text": "Power Set"
     },
     {
       "source": "/Math/Math1/Gamma-and-Beta-Functions",
@@ -526,21 +441,6 @@
       "source": "/Math/Math1/Math-1",
       "target": "/Math/Math1/Trig-and-hyperbolic-functions",
       "text": "Math/Math1/Trig and hyperbolic functions"
-    },
-    {
-      "source": "/Math/Math1/Power-Set",
-      "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-      "text": "set"
-    },
-    {
-      "source": "/Math/Math1/Power-Set",
-      "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
-      "text": "subsets"
-    },
-    {
-      "source": "/Math/Math1/",
-      "target": "/Math/Math1/Math-1",
-      "text": "ToC"
     },
     {
       "source": "/",

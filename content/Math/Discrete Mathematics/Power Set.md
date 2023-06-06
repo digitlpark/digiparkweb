@@ -1,4 +1,4 @@
-If 'A' is a finite set then [[Math/Discrete Mathematics/Intro to Set Theory#Set|set]] of all [[Math/Discrete Mathematics/Intro to Set Theory#Subset|subsets]] of A is called power set of 'A'.
+If 'A' is a finite set then of A is called power set of 'A'.
 
 ### Example
 A={1,2,3}

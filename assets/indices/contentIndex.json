@@ -13,14 +13,8 @@
   },
   "/Math/Discrete-Mathematics/Power-Set": {
     "title": "Power Set",
-    "content": "If 'A' is a finite set then [[Math/Discrete Mathematics/Intro to Set Theory#Set|set]] of all [[Math/Discrete Mathematics/Intro to Set Theory#Subset|subsets]] of A is called power set of 'A'.\n\n### Example\nA={1,2,3}\nP(A)={Φ,{1},{2},{3},{1,2},{2,3},{1,3},{1,2,3}}\n\n## Property\nIf B∈P(A), then B⊆A\n\n## Number of elements in Power Set\n|A|=n\n|P(A)|=number of subsets of A=2ⁿ",
-    "lastmodified": "2023-06-06T11:47:00.4941985+05:30",
-    "tags": []
-  },
-  "/Math/Math1/": {
-    "title": "Math 1",
-    "content": "Table of Contents: [[Math/Math1/Math 1|ToC]]",
-    "lastmodified": "2023-05-31T07:57:43.0121077+05:30",
+    "content": "If 'A' is a finite set then of A is called power set of 'A'.\n\n### Example\nA={1,2,3}\nP(A)={Φ,{1},{2},{3},{1,2},{2,3},{1,3},{1,2,3}}\n\n## Property\nIf B∈P(A), then B⊆A\n\n## Number of elements in Power Set\n|A|=n\n|P(A)|=number of subsets of A=2ⁿ",
+    "lastmodified": "2023-06-06T19:22:26.1120354+05:30",
     "tags": []
   },
   "/Math/Math1/Approximating-functions": {
@@ -65,12 +59,6 @@
     "lastmodified": "2023-05-22T10:36:06.0594644+05:30",
     "tags": []
   },
-  "/Math/Math1/Discrete-Mathematics": {
-    "title": "Discrete Mathematics",
-    "content": "# Files\n\nhttps://youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3\n\n\n\n# Power Set\nhttps://youtu.be/EaupQhQ4dsw?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Power Set|Power Set]]\n\n",
-    "lastmodified": "2023-06-06T18:43:43.756488+05:30",
-    "tags": []
-  },
   "/Math/Math1/Eulers-Theorem": {
     "title": "Euler's Theorem",
     "content": "# The theorem\nIf u is a homogeneous function of degree 'n' in x,y: u(x,y)=$x^nf(y/x)$  (OR) u(tx,ty)=tⁿu(x,y)\n$$ x\\frac{\\partial u(x,y)}{\\partial x}+y\\frac{\\partial u(x,y)}{\\partial y}=n\\cdot u(x,y) $$\n## Proof\n\n$$\n\\begin{align}\nu=x^nf\\left(\\frac{y}{x}\\right) \\\\\n\\frac{\\partial u}{\\partial x}= nx^{n-1}f\\left(\\frac{y}{x}\\right) + x^nf'\\left(\\frac{y}{x}\\right)\\frac{y}{-x^2}\\\\\n\\frac{\\partial u}{\\partial y} = x^{n-1}f'\\left(\\frac{y}{x}\\right)\\\\\n\\\\\nx\\frac{\\partial u}{\\partial x}+y\\frac{\\partial u}{\\partial y}=n\\left(x^nf\\left(\\frac{y}{x}\\right)\\right) = nu\\\\\n=g(u)\n\\end{align}\n$$\n# Modified Euler's Theorem\nIf u = Φ(v(x,y)) where v(x,y) is a homogeneous function of x,y of degree n:\n$$\nx\\left(\\frac{\\partial u}{\\partial x}\\right)+y\\left(\\frac{\\partial u}{\\partial y}\\right)=n\\cdot \\frac{\\Phi^{-1}(u)}{\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}}\n$$\n## Proof\n$$\n\\begin{align}\nx\\frac{\\partial v}{\\partial x}+y\\frac{\\partial v}{\\partial y} = nv\\\\\n\\Phi^{-1}(u)=v(x,y)\\\\\n\\frac{\\partial v}{\\partial x}=\\left(\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}\\right)\\left(\\frac{\\partial u}{\\partial x}\\right),\\\\ \n\\frac{\\partial v}{\\partial y}=\\left(\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}\\right)\\left(\\frac{\\partial u}{\\partial y}\\right)\\\\\n\\\\\n\\text{Substituting these in (7)}\\\\\nx\\left(\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}\\right)\\left(\\frac{\\partial u}{\\partial x}\\right)+y\\left(\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}\\right)\\left(\\frac{\\partial u}{\\partial y}\\right) = nv = n\\Phi^{-1}(u)\\\\\nx\\left(\\frac{\\partial u}{\\partial x}\\right)+y\\left(\\frac{\\partial u}{\\partial y}\\right)=n\\cdot \\frac{\\Phi^{-1}(u)}{\\frac{\\partial \\Phi^{-1}(u)}{\\partial u}}\\\\\n=g(u)\n\\end{align}\n$$\n\n\n# Euler's deduction II\n$$\nx^2\\frac{\\partial^2u}{\\partial x^2}+2xy\\frac{\\partial^2u}{\\partial x \\partial y}+y^2\\frac{\\partial^2u}{\\partial y^2} = g(u)[\\frac{\\partial g(u)}{\\partial u}-1]=g(u)[g'(u)-1]\n$$\nFor u being homogenous the RHS of this expression would be $nu(n-1)$\n",
@@ -105,12 +93,6 @@
     "title": "Math 1",
     "content": "# Files\n- [[Math/Math1/Approximating functions z=f(x,y)]]\n- [[Math/Math1/Approximating functions]]\n- [[Math/Math1/Coordinate systems for integration]]\n- [[Math/Math1/Curvature]]\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\n- [[Math/Math1/Curve Tracing]]\n- [[Math/Math1/Euler's Theorem]]\n- [[Math/Math1/Gamma and Beta Functions]]\n- [[Math/Math1/Gaussian Integral (half factorial)]]\n- [[Math/Math1/Jacobian]]\n- [[Math/Math1/Lagrange's Multipliers]]\n- [[Math/Math1/nth derivative]]\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\n- [[Math/Math1/Synthetic Division]]\n- [[Math/Math1/Tangent and Normal]]\n- [[Math/Math1/Trig and hyperbolic functions]]",
     "lastmodified": "2023-05-31T07:54:34.6574489+05:30",
-    "tags": []
-  },
-  "/Math/Math1/Power-Set": {
-    "title": "Power Set",
-    "content": "If 'A' is a finite set then [[Math/Discrete Mathematics/Intro to Set Theory#Set|set]] of all [[Math/Discrete Mathematics/Intro to Set Theory#Subset|subsets]] of A is called power set of 'A'.\n\n### Example\nA={1,2,3}\nP(A)={Φ,{1},{2},{3},{1,2},{2,3},{1,3},{1,2,3}}\n\n## Property\nIf B∈P(A), then B⊆A\n\n## Number of elements in Power Set\n|A|=n\n|P(A)|=number of subsets of A=2ⁿ",
-    "lastmodified": "2023-06-06T11:47:00.4941985+05:30",
     "tags": []
   },
   "/Math/Math1/Stationary-Points-in-Multivariable-Functions": {
