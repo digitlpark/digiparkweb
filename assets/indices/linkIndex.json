@@ -342,7 +342,7 @@
         },
         {
           "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Intro/Power-Set",
+          "target": "/Math/Discrete-Mathematics/Power-Set",
           "text": "number of subsets"
         },
         {
@@ -768,18 +768,16 @@
           "text": "subsets"
         }
       ],
-      "/Math/Discrete-Mathematics/Intro/Power-Set": [
-        {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Intro/Power-Set",
-          "text": "number of subsets"
-        }
-      ],
       "/Math/Discrete-Mathematics/Power-Set": [
         {
           "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
           "target": "/Math/Discrete-Mathematics/Power-Set",
           "text": "Power Set"
+        },
+        {
+          "source": "/Math/Discrete-Mathematics/Relation/Relation",
+          "target": "/Math/Discrete-Mathematics/Power-Set",
+          "text": "number of subsets"
         }
       ],
       "/Math/Discrete-Mathematics/Relation/All-the-relations": [
@@ -1419,7 +1417,7 @@
     },
     {
       "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Intro/Power-Set",
+      "target": "/Math/Discrete-Mathematics/Power-Set",
       "text": "number of subsets"
     },
     {
