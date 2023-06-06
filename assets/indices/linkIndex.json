@@ -72,6 +72,13 @@
           "text": "Math/Math1/Curve Tracing f(r,θ)=0"
         }
       ],
+      "/Math/Math1/Discrete-Mathematics": [
+        {
+          "source": "/Math/Math1/Discrete-Mathematics",
+          "target": "/Math/Discrete-Mathematics/Power-Set",
+          "text": "Power Set"
+        }
+      ],
       "/Math/Math1/Gamma-and-Beta-Functions": [
         {
           "source": "/Math/Math1/Gamma-and-Beta-Functions",
@@ -165,6 +172,18 @@
           "target": "/Math/Math1/Trig-and-hyperbolic-functions",
           "text": "Math/Math1/Trig and hyperbolic functions"
         }
+      ],
+      "/Math/Math1/Power-Set": [
+        {
+          "source": "/Math/Math1/Power-Set",
+          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "text": "set"
+        },
+        {
+          "source": "/Math/Math1/Power-Set",
+          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "text": "subsets"
+        }
       ]
     },
     "backlinks": {
@@ -185,11 +204,26 @@
           "source": "/Math/Discrete-Mathematics/Power-Set",
           "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
           "text": "subsets"
+        },
+        {
+          "source": "/Math/Math1/Power-Set",
+          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "text": "set"
+        },
+        {
+          "source": "/Math/Math1/Power-Set",
+          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "text": "subsets"
         }
       ],
       "/Math/Discrete-Mathematics/Power-Set": [
         {
           "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
+          "target": "/Math/Discrete-Mathematics/Power-Set",
+          "text": "Power Set"
+        },
+        {
+          "source": "/Math/Math1/Discrete-Mathematics",
           "target": "/Math/Discrete-Mathematics/Power-Set",
           "text": "Power Set"
         }
@@ -399,6 +433,11 @@
       "text": "Math/Math1/Curve Tracing f(r,θ)=0"
     },
     {
+      "source": "/Math/Math1/Discrete-Mathematics",
+      "target": "/Math/Discrete-Mathematics/Power-Set",
+      "text": "Power Set"
+    },
+    {
       "source": "/Math/Math1/Gamma-and-Beta-Functions",
       "target": "/Math/Math1/Gaussian-Integral-half-factorial",
       "text": "This"
@@ -487,6 +526,16 @@
       "source": "/Math/Math1/Math-1",
       "target": "/Math/Math1/Trig-and-hyperbolic-functions",
       "text": "Math/Math1/Trig and hyperbolic functions"
+    },
+    {
+      "source": "/Math/Math1/Power-Set",
+      "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+      "text": "set"
+    },
+    {
+      "source": "/Math/Math1/Power-Set",
+      "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+      "text": "subsets"
     },
     {
       "source": "/Math/Math1/",
