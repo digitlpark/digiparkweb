@@ -5,46 +5,16 @@
     "lastmodified": "2023-05-31T08:00:57.374717+05:30",
     "tags": []
   },
-  "/Math/Discrete-Mathematics/": {
-    "title": "Discrete Mathematics",
-    "content": "Table of Contents: [[Math/Discrete Mathematics/Discrete Mathematics|ToC]]",
-    "lastmodified": "2023-05-31T07:59:42.313137+05:30",
-    "tags": []
-  },
   "/Math/Discrete-Mathematics/Discrete-Mathematics": {
     "title": "Discrete Mathematics",
     "content": "# Files\n\nhttps://youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3\n\n\n\n# Power Set\nhttps://youtu.be/EaupQhQ4dsw?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Power Set|Power Set]]\n\n",
-    "lastmodified": "2023-06-06T18:41:33.3731897+05:30",
-    "tags": []
-  },
-  "/Math/Discrete-Mathematics/Equivalence-Class": {
-    "title": "Equivalence Class",
-    "content": "https://youtu.be/TbCk79SoCYw\n\nEquivalence class is the name given to a subset of some [[Math/Discrete Mathematics/Relation/Equivalence Relation|equivalence relation]] R which includes all elements that are equivalent to each other.\n\nLet R be an equivalence relation on a set A.  The set of all elements which are related to an element x of set A is called the equivalence class of x.\n\n$[x]=\\\\{y|(x,y)\\in R\\\\}$ is the equivalence class of x∈A\n\n## Example\nA={1,2,3,4,5}\nR = {(a,b) | a+b is even}\nR is an equivalence relation on set A.\n* \\[1\\]  = \\[3\\] = \\[5\\] = {1,3,5}\n*  \\[2\\] = \\[4\\] = {2,4}\n\n# Properties of Equivalence Class\n1. a∈\\[a\\][^1]\n\t1. \\[a\\]={b|(a,b)∈R} and (a,a)∈R[^5]\n\t2. ∴ aRa ⇒ and a∈\\[a\\]\n2. b∈\\[a\\] then \\[a\\]=\\[b\\][^2]\n\t1. b∈\\[a\\]: bRa and aRb[^3]\n\t2. If x∈\\[a\\] then xRa. xRa, aRb ⇒ xRb: x∈\\[b\\] ⇒ \\[a\\]⊆\\[b\\]\n\t3. If x∈\\[b\\] then xRb. xRb, bRa ⇒ xRa: x∈\\[a\\] ⇒ \\[b\\]⊆\\[a\\]\n\t4. By 2.,3. \\[a\\]=\\[b\\]\n3. \\[a\\]∩\\[b\\]≠Φ then \\[a\\]=\\[b\\][^4]\n\n[^1]: Description: The equivalence class of an element contains itself\n[^2]: Description: The equivalence classes of elements in an equivalence class are equal\n[^3]: symmetric property of equivalence classes\n[^4]: Description: No common elements exist between different equivalence classes. If any common element exists between two equivalence classes it means that they are completely equal\n[^5]: reflexive property of equivalence relations",
-    "lastmodified": "2023-06-06T11:44:49.2058962+05:30",
-    "tags": []
-  },
-  "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure": {
-    "title": "Field Structure and Order Structure",
-    "content": "# Field Structure\n**It is an [[Math/Discrete Mathematics/Groups/Abelian Group|abelian group]] under addition with 0 as the additive identity**; the nonzero elements are an abelian group under multiplication with 1 as the multiplicative identity; and multiplication distributes over addition.\n\n# Order Structure\nA [[#Field Structure|field]] S is an ordered field if it satisfies\n* Law of trichotomy\n* Transitivity\n* Compatibility of Order Relation with Addition\u0026Multiplication Composition\n\t* a-\u003eb, a+c-\u003eb+c\n\t* a-\u003eb, ac-\u003ebc\n\n\u003e An order structure can be partially ordered or totally ordered",
-    "lastmodified": "2023-05-30T19:12:05.8468618+05:30",
-    "tags": []
-  },
-  "/Math/Discrete-Mathematics/Intro-to-Set-Theory": {
-    "title": "Intro to Set Theory",
-    "content": "# Set\nA well defined unordered collection of distinct elements is called a set.\n\n## Null Set / Empty Set\nA set with no elements. Denoted as {}=Φ\n\n## Subset\nIf every element of B is also element of A then B⊆A.\n**Every set is a subset of itself**: A⊆A\n\n## Proper Subset\nAny subset of A which is not a trivial subset of A (*itself*) is called proper subset of A.\nB is a proper subset of A if B⊂A\n\n## Cardinality\nTotal number of elements in a set.\n\n### Property\nIf A⊆B and B⊆A ⇒ A=B",
-    "lastmodified": "2022-12-30T17:35:15.8947698+05:30",
+    "lastmodified": "2023-06-06T18:43:43.756488+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Power-Set": {
     "title": "Power Set",
     "content": "If 'A' is a finite set then [[Math/Discrete Mathematics/Intro to Set Theory#Set|set]] of all [[Math/Discrete Mathematics/Intro to Set Theory#Subset|subsets]] of A is called power set of 'A'.\n\n### Example\nA={1,2,3}\nP(A)={Φ,{1},{2},{3},{1,2},{2,3},{1,3},{1,2,3}}\n\n## Property\nIf B∈P(A), then B⊆A\n\n## Number of elements in Power Set\n|A|=n\n|P(A)|=number of subsets of A=2ⁿ",
     "lastmodified": "2023-06-06T11:47:00.4941985+05:30",
-    "tags": []
-  },
-  "/Math/Discrete-Mathematics/Quotient-Set": {
-    "title": "Quotient Set",
-    "content": "https://artofproblemsolving.com/wiki/index.php/Quotient_set\n\nThe set of [[Equivalence Class|equivalence classes]] of S wrt R is called the quotient of S by R and denoted by S/R.\n",
-    "lastmodified": "2023-03-06T20:59:30.6142516+05:30",
     "tags": []
   },
   "/Math/Math1/": {

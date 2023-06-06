@@ -13,37 +13,11 @@
           "text": "Discrete Mathematics"
         }
       ],
-      "/Math/Discrete-Mathematics/": [
-        {
-          "source": "/Math/Discrete-Mathematics/",
-          "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "text": "ToC"
-        }
-      ],
       "/Math/Discrete-Mathematics/Discrete-Mathematics": [
         {
           "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
           "target": "/Math/Discrete-Mathematics/Power-Set",
           "text": "Power Set"
-        }
-      ],
-      "/Math/Discrete-Mathematics/Equivalence-Class": [
-        {
-          "source": "/Math/Discrete-Mathematics/Equivalence-Class",
-          "target": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "text": "equivalence relation"
-        }
-      ],
-      "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure": [
-        {
-          "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
-          "target": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
-          "text": "abelian group"
-        },
-        {
-          "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
-          "target": "/",
-          "text": "field"
         }
       ],
       "/Math/Discrete-Mathematics/Power-Set": [
@@ -56,13 +30,6 @@
           "source": "/Math/Discrete-Mathematics/Power-Set",
           "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
           "text": "subsets"
-        }
-      ],
-      "/Math/Discrete-Mathematics/Quotient-Set": [
-        {
-          "source": "/Math/Discrete-Mathematics/Quotient-Set",
-          "target": "/Equivalence-Class",
-          "text": "equivalence classes"
         }
       ],
       "/Math/Math1/": [
@@ -201,37 +168,11 @@
       ]
     },
     "backlinks": {
-      "/": [
-        {
-          "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
-          "target": "/",
-          "text": "field"
-        }
-      ],
-      "/Equivalence-Class": [
-        {
-          "source": "/Math/Discrete-Mathematics/Quotient-Set",
-          "target": "/Equivalence-Class",
-          "text": "equivalence classes"
-        }
-      ],
       "/Math/Discrete-Mathematics/Discrete-Mathematics": [
-        {
-          "source": "/Math/Discrete-Mathematics/",
-          "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "text": "ToC"
-        },
         {
           "source": "/",
           "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
           "text": "Discrete Mathematics"
-        }
-      ],
-      "/Math/Discrete-Mathematics/Groups/Abelian-Group": [
-        {
-          "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
-          "target": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
-          "text": "abelian group"
         }
       ],
       "/Math/Discrete-Mathematics/Intro-to-Set-Theory": [
@@ -251,13 +192,6 @@
           "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
           "target": "/Math/Discrete-Mathematics/Power-Set",
           "text": "Power Set"
-        }
-      ],
-      "/Math/Discrete-Mathematics/Relation/Equivalence-Relation": [
-        {
-          "source": "/Math/Discrete-Mathematics/Equivalence-Class",
-          "target": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "text": "equivalence relation"
         }
       ],
       "/Math/Math1/Approximating-functions": [
@@ -430,21 +364,6 @@
       "text": "Power Set"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Equivalence-Class",
-      "target": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-      "text": "equivalence relation"
-    },
-    {
-      "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
-      "target": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
-      "text": "abelian group"
-    },
-    {
-      "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
-      "target": "/",
-      "text": "field"
-    },
-    {
       "source": "/Math/Discrete-Mathematics/Power-Set",
       "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
       "text": "set"
@@ -453,16 +372,6 @@
       "source": "/Math/Discrete-Mathematics/Power-Set",
       "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
       "text": "subsets"
-    },
-    {
-      "source": "/Math/Discrete-Mathematics/Quotient-Set",
-      "target": "/Equivalence-Class",
-      "text": "equivalence classes"
-    },
-    {
-      "source": "/Math/Discrete-Mathematics/",
-      "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-      "text": "ToC"
     },
     {
       "source": "/Math/Math1/Approximating-functions-zfxy",
