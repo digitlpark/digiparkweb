@@ -1,4 +1,4 @@
-A [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] 'R' is said to be antisymmetric if xRy then !(yRx) ∀x,y∈A
+A [[Math/DiscreteMathematics/Relation/Relation#Relation|relation]] 'R' is said to be antisymmetric if xRy then !(yRx) ∀x,y∈A
 If (x,y)∈R then (y,x)∉R ∀x,y∈A
 
 That means R contains elements of the form (c,d) but must not contain (d,c)
@@ -11,4 +11,4 @@ R={(1,2),(1,3),(1,1)}
 * R is not asymmetric: contains (1,1)
 
 ## Note
-Every Asymmetric is [[Math/Discrete Mathematics/Relation/Antisymmetric Relation|Antisymmetric]].
+Every Asymmetric is [[Math/DiscreteMathematics/Relation/Antisymmetric Relation|Antisymmetric]].

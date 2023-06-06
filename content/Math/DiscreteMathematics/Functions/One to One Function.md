@@ -1,5 +1,5 @@
 # (Injection)
-A [[Math/Discrete Mathematics/Functions/Functions|function]] f from set 'A' to set 'B' is one to one if no two elements in 'A' are mapped to some element in 'B'
+A [[Math/DiscreteMathematics/Functions/Functions|function]] f from set 'A' to set 'B' is one to one if no two elements in 'A' are mapped to some element in 'B'
 Image of every member of domain is distinct.
 $a\ne b\Rightarrow f(a)\ne f(b)$ or $f(a)=f(b) \Rightarrow a=b$
 

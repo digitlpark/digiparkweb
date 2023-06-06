@@ -9,404 +9,404 @@
         },
         {
           "source": "/",
-          "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Discrete-Mathematics",
           "text": "Discrete Mathematics"
         }
       ],
-      "/Math/Discrete-Mathematics/Discrete-Mathematics": [
+      "/Math/DiscreteMathematics/Discrete-Mathematics": [
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Intro-to-Set-Theory",
           "text": "Intro to Set Theory"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Power-Set",
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Power-Set",
           "text": "Power Set"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
-          "text": "Math/Discrete Mathematics/Relation/Relation"
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
+          "text": "Math/DiscreteMathematics/Relation/Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "text": "Math/Discrete Mathematics/Groups/Intro to Group Theory"
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "text": "Math/DiscreteMathematics/Groups/Intro to Group Theory"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Functions/Functions",
-          "text": "Math/Discrete Mathematics/Functions/Functions"
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Functions/Functions",
+          "text": "Math/DiscreteMathematics/Functions/Functions"
         }
       ],
-      "/Math/Discrete-Mathematics/Equivalence-Class": [
+      "/Math/DiscreteMathematics/Equivalence-Class": [
         {
-          "source": "/Math/Discrete-Mathematics/Equivalence-Class",
-          "target": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
+          "source": "/Math/DiscreteMathematics/Equivalence-Class",
+          "target": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
           "text": "equivalence relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure": [
+      "/Math/DiscreteMathematics/Field-Structure-and-Order-Structure": [
         {
-          "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
-          "target": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
+          "source": "/Math/DiscreteMathematics/Field-Structure-and-Order-Structure",
+          "target": "/Math/DiscreteMathematics/Groups/Abelian-Group",
           "text": "abelian group"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
+          "source": "/Math/DiscreteMathematics/Field-Structure-and-Order-Structure",
           "target": "/",
           "text": "field"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/Bijective-Function": [
+      "/Math/DiscreteMathematics/Functions/Bijective-Function": [
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-          "target": "/Math/Discrete-Mathematics/Functions/Functions",
+          "source": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+          "target": "/Math/DiscreteMathematics/Functions/Functions",
           "text": "function"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-          "target": "/Math/Discrete-Mathematics/Functions/One-to-One-Function",
+          "source": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+          "target": "/Math/DiscreteMathematics/Functions/One-to-One-Function",
           "text": "One-one"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-          "target": "/Math/Discrete-Mathematics/Functions/Onto-function",
+          "source": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+          "target": "/Math/DiscreteMathematics/Functions/Onto-function",
           "text": "Onto"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/Counting-functions": [
+      "/Math/DiscreteMathematics/Functions/Counting-functions": [
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Counting-functions",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Functions/Counting-functions",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "Number of relations"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Counting-functions",
+          "source": "/Math/DiscreteMathematics/Functions/Counting-functions",
           "target": "/",
           "text": "Number of functions"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/Functions": [
+      "/Math/DiscreteMathematics/Functions/Functions": [
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Functions/Counting-functions",
-          "text": "Math/Discrete Mathematics/Functions/Counting functions"
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Functions/Counting-functions",
+          "text": "Math/DiscreteMathematics/Functions/Counting functions"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Functions/One-to-One-Function",
-          "text": "Math/Discrete Mathematics/Functions/One to One Function"
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Functions/One-to-One-Function",
+          "text": "Math/DiscreteMathematics/Functions/One to One Function"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Functions/Onto-function",
-          "text": "Math/Discrete Mathematics/Functions/Onto function"
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Functions/Onto-function",
+          "text": "Math/DiscreteMathematics/Functions/Onto function"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-          "text": "Math/Discrete Mathematics/Functions/Bijective Function"
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+          "text": "Math/DiscreteMathematics/Functions/Bijective Function"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/One-to-One-Function": [
+      "/Math/DiscreteMathematics/Functions/One-to-One-Function": [
         {
-          "source": "/Math/Discrete-Mathematics/Functions/One-to-One-Function",
-          "target": "/Math/Discrete-Mathematics/Functions/Functions",
+          "source": "/Math/DiscreteMathematics/Functions/One-to-One-Function",
+          "target": "/Math/DiscreteMathematics/Functions/Functions",
           "text": "function"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/Onto-function": [
+      "/Math/DiscreteMathematics/Functions/Onto-function": [
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Onto-function",
-          "target": "/Math/Discrete-Mathematics/Functions/Functions",
+          "source": "/Math/DiscreteMathematics/Functions/Onto-function",
+          "target": "/Math/DiscreteMathematics/Functions/Functions",
           "text": "function"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Abelian-Group": [
+      "/Math/DiscreteMathematics/Groups/Abelian-Group": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
-          "target": "/Math/Discrete-Mathematics/Groups/Group",
+          "source": "/Math/DiscreteMathematics/Groups/Abelian-Group",
+          "target": "/Math/DiscreteMathematics/Groups/Group",
           "text": "group"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Group": [
+      "/Math/DiscreteMathematics/Groups/Group": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Group",
-          "target": "/Math/Discrete-Mathematics/Groups/Monoid",
+          "source": "/Math/DiscreteMathematics/Groups/Group",
+          "target": "/Math/DiscreteMathematics/Groups/Monoid",
           "text": "monoid"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Groups": [
+      "/Math/DiscreteMathematics/Groups/Groups": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/_index",
           "text": "_index"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Abelian-Group",
           "text": "Abelian Group"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Algebraic-Structure",
           "text": "Algebraic Structure"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Group",
           "text": "Group"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Groups",
           "text": "Groups"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Intro-to-Group-Theory",
           "text": "Intro to Group Theory"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Monoid",
           "text": "Monoid"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Semigroup",
           "text": "Semigroup"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory": [
+      "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Algebraic-Structure",
-          "text": "Math/Discrete Mathematics/Groups/Algebraic Structure"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Algebraic-Structure",
+          "text": "Math/DiscreteMathematics/Groups/Algebraic Structure"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Semigroup",
-          "text": "Math/Discrete Mathematics/Groups/Semigroup"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Semigroup",
+          "text": "Math/DiscreteMathematics/Groups/Semigroup"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Monoid",
-          "text": "Math/Discrete Mathematics/Groups/Monoid"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Monoid",
+          "text": "Math/DiscreteMathematics/Groups/Monoid"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Group",
-          "text": "Math/Discrete Mathematics/Groups/Group"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Group",
+          "text": "Math/DiscreteMathematics/Groups/Group"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
-          "text": "Math/Discrete Mathematics/Groups/Abelian Group"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Abelian-Group",
+          "text": "Math/DiscreteMathematics/Groups/Abelian Group"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Monoid": [
+      "/Math/DiscreteMathematics/Groups/Monoid": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Monoid",
-          "target": "/Math/Discrete-Mathematics/Groups/Semigroup",
+          "source": "/Math/DiscreteMathematics/Groups/Monoid",
+          "target": "/Math/DiscreteMathematics/Groups/Semigroup",
           "text": "semigroup"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Semigroup": [
+      "/Math/DiscreteMathematics/Groups/Semigroup": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Semigroup",
-          "target": "/Math/Discrete-Mathematics/Groups/Algebraic-Structure",
+          "source": "/Math/DiscreteMathematics/Groups/Semigroup",
+          "target": "/Math/DiscreteMathematics/Groups/Algebraic-Structure",
           "text": "algebraic structure"
         }
       ],
-      "/Math/Discrete-Mathematics/Power-Set": [
+      "/Math/DiscreteMathematics/Power-Set": [
         {
-          "source": "/Math/Discrete-Mathematics/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "source": "/Math/DiscreteMathematics/Power-Set",
+          "target": "/Math/DiscreteMathematics/Intro-to-Set-Theory",
           "text": "set"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "source": "/Math/DiscreteMathematics/Power-Set",
+          "target": "/Math/DiscreteMathematics/Intro-to-Set-Theory",
           "text": "subsets"
         }
       ],
-      "/Math/Discrete-Mathematics/Quotient-Set": [
+      "/Math/DiscreteMathematics/Quotient-Set": [
         {
-          "source": "/Math/Discrete-Mathematics/Quotient-Set",
-          "target": "/Equivalence-Class",
+          "source": "/Math/DiscreteMathematics/Quotient-Set",
+          "target": "/Math/DiscreteMathematics/Equivalence-Class",
           "text": "equivalence classes"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation": [
+      "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Asymmetric-Relation": [
+      "/Math/DiscreteMathematics/Relation/Asymmetric-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Asymmetric-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Asymmetric-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Asymmetric-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Asymmetric-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
           "text": "Antisymmetric"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Equivalence-Relation": [
+      "/Math/DiscreteMathematics/Relation/Equivalence-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
           "text": "Reflexive"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Symmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Symmetric-Relation",
           "text": "Symmetric"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
           "text": "Transitive"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation": [
+      "/Math/DiscreteMathematics/Relation/Irreflexive-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Irreflexive-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Irreflexive-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
           "text": "reflexive"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation": [
+      "/Math/DiscreteMathematics/Relation/Partial-Order-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
           "text": "Reflexive"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
           "text": "Antisymmetric"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
           "text": "Transitive"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Reflexive-Relation": [
+      "/Math/DiscreteMathematics/Relation/Reflexive-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Relation": [
+      "/Math/DiscreteMathematics/Relation/Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
           "target": "/",
           "text": "#Property"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Power-Set",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Power-Set",
           "text": "number of subsets"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
           "text": "Reflexive Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Irreflexive-Relation",
           "text": "Irreflexive Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Symmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Symmetric-Relation",
           "text": "Symmetric Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
           "text": "Antisymmetric Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
           "text": "Antisymmetric Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
           "text": "Transitive Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
           "text": "Equivalence Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
           "text": "Partial Order Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Totally-Ordered-Set",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Totally-Ordered-Set",
           "text": "Totally Ordered Set"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/All-the-relations",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/All-the-relations",
           "text": "All the relations"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Symmetric-Relation": [
+      "/Math/DiscreteMathematics/Relation/Symmetric-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Symmetric-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Symmetric-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Totally-Ordered-Set": [
+      "/Math/DiscreteMathematics/Relation/Totally-Ordered-Set": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Totally-Ordered-Set",
-          "target": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Totally-Ordered-Set",
+          "target": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
           "text": "POSET"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Transitive-Relation": [
+      "/Math/DiscreteMathematics/Relation/Transitive-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         }
       ],
@@ -541,398 +541,398 @@
     "backlinks": {
       "/": [
         {
-          "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
+          "source": "/Math/DiscreteMathematics/Field-Structure-and-Order-Structure",
           "target": "/",
           "text": "field"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Counting-functions",
+          "source": "/Math/DiscreteMathematics/Functions/Counting-functions",
           "target": "/",
           "text": "Number of functions"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
           "target": "/",
           "text": "#Property"
         }
       ],
       "/Abelian-Group": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Abelian-Group",
           "text": "Abelian Group"
         }
       ],
       "/Algebraic-Structure": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Algebraic-Structure",
           "text": "Algebraic Structure"
         }
       ],
-      "/Equivalence-Class": [
-        {
-          "source": "/Math/Discrete-Mathematics/Quotient-Set",
-          "target": "/Equivalence-Class",
-          "text": "equivalence classes"
-        }
-      ],
       "/Group": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Group",
           "text": "Group"
         }
       ],
       "/Groups": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Groups",
           "text": "Groups"
         }
       ],
       "/Intro-to-Group-Theory": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Intro-to-Group-Theory",
           "text": "Intro to Group Theory"
         }
       ],
-      "/Math/Discrete-Mathematics/Discrete-Mathematics": [
+      "/Math/DiscreteMathematics/Discrete-Mathematics": [
         {
           "source": "/",
-          "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Discrete-Mathematics",
           "text": "Discrete Mathematics"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/Bijective-Function": [
+      "/Math/DiscreteMathematics/Equivalence-Class": [
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-          "text": "Math/Discrete Mathematics/Functions/Bijective Function"
+          "source": "/Math/DiscreteMathematics/Quotient-Set",
+          "target": "/Math/DiscreteMathematics/Equivalence-Class",
+          "text": "equivalence classes"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/Counting-functions": [
+      "/Math/DiscreteMathematics/Functions/Bijective-Function": [
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Functions/Counting-functions",
-          "text": "Math/Discrete Mathematics/Functions/Counting functions"
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+          "text": "Math/DiscreteMathematics/Functions/Bijective Function"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/Functions": [
+      "/Math/DiscreteMathematics/Functions/Counting-functions": [
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Functions/Functions",
-          "text": "Math/Discrete Mathematics/Functions/Functions"
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Functions/Counting-functions",
+          "text": "Math/DiscreteMathematics/Functions/Counting functions"
+        }
+      ],
+      "/Math/DiscreteMathematics/Functions/Functions": [
+        {
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Functions/Functions",
+          "text": "Math/DiscreteMathematics/Functions/Functions"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-          "target": "/Math/Discrete-Mathematics/Functions/Functions",
+          "source": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+          "target": "/Math/DiscreteMathematics/Functions/Functions",
           "text": "function"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/One-to-One-Function",
-          "target": "/Math/Discrete-Mathematics/Functions/Functions",
+          "source": "/Math/DiscreteMathematics/Functions/One-to-One-Function",
+          "target": "/Math/DiscreteMathematics/Functions/Functions",
           "text": "function"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Onto-function",
-          "target": "/Math/Discrete-Mathematics/Functions/Functions",
+          "source": "/Math/DiscreteMathematics/Functions/Onto-function",
+          "target": "/Math/DiscreteMathematics/Functions/Functions",
           "text": "function"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/One-to-One-Function": [
+      "/Math/DiscreteMathematics/Functions/One-to-One-Function": [
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-          "target": "/Math/Discrete-Mathematics/Functions/One-to-One-Function",
+          "source": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+          "target": "/Math/DiscreteMathematics/Functions/One-to-One-Function",
           "text": "One-one"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Functions/One-to-One-Function",
-          "text": "Math/Discrete Mathematics/Functions/One to One Function"
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Functions/One-to-One-Function",
+          "text": "Math/DiscreteMathematics/Functions/One to One Function"
         }
       ],
-      "/Math/Discrete-Mathematics/Functions/Onto-function": [
+      "/Math/DiscreteMathematics/Functions/Onto-function": [
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-          "target": "/Math/Discrete-Mathematics/Functions/Onto-function",
+          "source": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+          "target": "/Math/DiscreteMathematics/Functions/Onto-function",
           "text": "Onto"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Functions/Onto-function",
-          "text": "Math/Discrete Mathematics/Functions/Onto function"
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Functions/Onto-function",
+          "text": "Math/DiscreteMathematics/Functions/Onto function"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Abelian-Group": [
+      "/Math/DiscreteMathematics/Groups/Abelian-Group": [
         {
-          "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
-          "target": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
+          "source": "/Math/DiscreteMathematics/Field-Structure-and-Order-Structure",
+          "target": "/Math/DiscreteMathematics/Groups/Abelian-Group",
           "text": "abelian group"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
-          "text": "Math/Discrete Mathematics/Groups/Abelian Group"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Abelian-Group",
+          "text": "Math/DiscreteMathematics/Groups/Abelian Group"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Algebraic-Structure": [
+      "/Math/DiscreteMathematics/Groups/Algebraic-Structure": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Algebraic-Structure",
-          "text": "Math/Discrete Mathematics/Groups/Algebraic Structure"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Algebraic-Structure",
+          "text": "Math/DiscreteMathematics/Groups/Algebraic Structure"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Semigroup",
-          "target": "/Math/Discrete-Mathematics/Groups/Algebraic-Structure",
+          "source": "/Math/DiscreteMathematics/Groups/Semigroup",
+          "target": "/Math/DiscreteMathematics/Groups/Algebraic-Structure",
           "text": "algebraic structure"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Group": [
+      "/Math/DiscreteMathematics/Groups/Group": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
-          "target": "/Math/Discrete-Mathematics/Groups/Group",
+          "source": "/Math/DiscreteMathematics/Groups/Abelian-Group",
+          "target": "/Math/DiscreteMathematics/Groups/Group",
           "text": "group"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Group",
-          "text": "Math/Discrete Mathematics/Groups/Group"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Group",
+          "text": "Math/DiscreteMathematics/Groups/Group"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory": [
+      "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory": [
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "text": "Math/Discrete Mathematics/Groups/Intro to Group Theory"
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "text": "Math/DiscreteMathematics/Groups/Intro to Group Theory"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Monoid": [
+      "/Math/DiscreteMathematics/Groups/Monoid": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Group",
-          "target": "/Math/Discrete-Mathematics/Groups/Monoid",
+          "source": "/Math/DiscreteMathematics/Groups/Group",
+          "target": "/Math/DiscreteMathematics/Groups/Monoid",
           "text": "monoid"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Monoid",
-          "text": "Math/Discrete Mathematics/Groups/Monoid"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Monoid",
+          "text": "Math/DiscreteMathematics/Groups/Monoid"
         }
       ],
-      "/Math/Discrete-Mathematics/Groups/Semigroup": [
+      "/Math/DiscreteMathematics/Groups/Semigroup": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-          "target": "/Math/Discrete-Mathematics/Groups/Semigroup",
-          "text": "Math/Discrete Mathematics/Groups/Semigroup"
+          "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+          "target": "/Math/DiscreteMathematics/Groups/Semigroup",
+          "text": "Math/DiscreteMathematics/Groups/Semigroup"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Monoid",
-          "target": "/Math/Discrete-Mathematics/Groups/Semigroup",
+          "source": "/Math/DiscreteMathematics/Groups/Monoid",
+          "target": "/Math/DiscreteMathematics/Groups/Semigroup",
           "text": "semigroup"
         }
       ],
-      "/Math/Discrete-Mathematics/Intro-to-Set-Theory": [
+      "/Math/DiscreteMathematics/Intro-to-Set-Theory": [
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Intro-to-Set-Theory",
           "text": "Intro to Set Theory"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "source": "/Math/DiscreteMathematics/Power-Set",
+          "target": "/Math/DiscreteMathematics/Intro-to-Set-Theory",
           "text": "set"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Power-Set",
-          "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+          "source": "/Math/DiscreteMathematics/Power-Set",
+          "target": "/Math/DiscreteMathematics/Intro-to-Set-Theory",
           "text": "subsets"
         }
       ],
-      "/Math/Discrete-Mathematics/Power-Set": [
+      "/Math/DiscreteMathematics/Power-Set": [
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Power-Set",
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Power-Set",
           "text": "Power Set"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Power-Set",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Power-Set",
           "text": "number of subsets"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/All-the-relations": [
+      "/Math/DiscreteMathematics/Relation/All-the-relations": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/All-the-relations",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/All-the-relations",
           "text": "All the relations"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation": [
+      "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Asymmetric-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Asymmetric-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
           "text": "Antisymmetric"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
           "text": "Antisymmetric"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
           "text": "Antisymmetric Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
           "text": "Antisymmetric Relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Equivalence-Relation": [
+      "/Math/DiscreteMathematics/Relation/Equivalence-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Equivalence-Class",
-          "target": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
+          "source": "/Math/DiscreteMathematics/Equivalence-Class",
+          "target": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
           "text": "equivalence relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
           "text": "Equivalence Relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation": [
+      "/Math/DiscreteMathematics/Relation/Irreflexive-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Irreflexive-Relation",
           "text": "Irreflexive Relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation": [
+      "/Math/DiscreteMathematics/Relation/Partial-Order-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
           "text": "Partial Order Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Totally-Ordered-Set",
-          "target": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Totally-Ordered-Set",
+          "target": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
           "text": "POSET"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Reflexive-Relation": [
+      "/Math/DiscreteMathematics/Relation/Reflexive-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
           "text": "Reflexive"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Irreflexive-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
           "text": "reflexive"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
           "text": "Reflexive"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
           "text": "Reflexive Relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Relation": [
+      "/Math/DiscreteMathematics/Relation/Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
-          "text": "Math/Discrete Mathematics/Relation/Relation"
+          "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
+          "text": "Math/DiscreteMathematics/Relation/Relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Counting-functions",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Functions/Counting-functions",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "Number of relations"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Functions/Functions",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Functions/Functions",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Asymmetric-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Asymmetric-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Irreflexive-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Symmetric-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Symmetric-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Relation",
           "text": "relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Symmetric-Relation": [
+      "/Math/DiscreteMathematics/Relation/Symmetric-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Symmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Symmetric-Relation",
           "text": "Symmetric"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Symmetric-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Symmetric-Relation",
           "text": "Symmetric Relation"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Totally-Ordered-Set": [
+      "/Math/DiscreteMathematics/Relation/Totally-Ordered-Set": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Totally-Ordered-Set",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Totally-Ordered-Set",
           "text": "Totally Ordered Set"
         }
       ],
-      "/Math/Discrete-Mathematics/Relation/Transitive-Relation": [
+      "/Math/DiscreteMathematics/Relation/Transitive-Relation": [
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
           "text": "Transitive"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
           "text": "Transitive"
         },
         {
-          "source": "/Math/Discrete-Mathematics/Relation/Relation",
-          "target": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
+          "source": "/Math/DiscreteMathematics/Relation/Relation",
+          "target": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
           "text": "Transitive Relation"
         }
       ],
@@ -1094,21 +1094,21 @@
       ],
       "/Monoid": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Monoid",
           "text": "Monoid"
         }
       ],
       "/Semigroup": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/Semigroup",
           "text": "Semigroup"
         }
       ],
       "/_index": [
         {
-          "source": "/Math/Discrete-Mathematics/Groups/Groups",
+          "source": "/Math/DiscreteMathematics/Groups/Groups",
           "target": "/_index",
           "text": "_index"
         }
@@ -1117,348 +1117,348 @@
   },
   "links": [
     {
-      "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-      "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+      "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+      "target": "/Math/DiscreteMathematics/Intro-to-Set-Theory",
       "text": "Intro to Set Theory"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-      "target": "/Math/Discrete-Mathematics/Power-Set",
+      "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+      "target": "/Math/DiscreteMathematics/Power-Set",
       "text": "Power Set"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
-      "text": "Math/Discrete Mathematics/Relation/Relation"
+      "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
+      "text": "Math/DiscreteMathematics/Relation/Relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-      "target": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-      "text": "Math/Discrete Mathematics/Groups/Intro to Group Theory"
+      "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+      "target": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+      "text": "Math/DiscreteMathematics/Groups/Intro to Group Theory"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
-      "target": "/Math/Discrete-Mathematics/Functions/Functions",
-      "text": "Math/Discrete Mathematics/Functions/Functions"
+      "source": "/Math/DiscreteMathematics/Discrete-Mathematics",
+      "target": "/Math/DiscreteMathematics/Functions/Functions",
+      "text": "Math/DiscreteMathematics/Functions/Functions"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Equivalence-Class",
-      "target": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
+      "source": "/Math/DiscreteMathematics/Equivalence-Class",
+      "target": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
       "text": "equivalence relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
-      "target": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
+      "source": "/Math/DiscreteMathematics/Field-Structure-and-Order-Structure",
+      "target": "/Math/DiscreteMathematics/Groups/Abelian-Group",
       "text": "abelian group"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure",
+      "source": "/Math/DiscreteMathematics/Field-Structure-and-Order-Structure",
       "target": "/",
       "text": "field"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-      "target": "/Math/Discrete-Mathematics/Functions/Functions",
+      "source": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+      "target": "/Math/DiscreteMathematics/Functions/Functions",
       "text": "function"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-      "target": "/Math/Discrete-Mathematics/Functions/One-to-One-Function",
+      "source": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+      "target": "/Math/DiscreteMathematics/Functions/One-to-One-Function",
       "text": "One-one"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-      "target": "/Math/Discrete-Mathematics/Functions/Onto-function",
+      "source": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+      "target": "/Math/DiscreteMathematics/Functions/Onto-function",
       "text": "Onto"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Counting-functions",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Functions/Counting-functions",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "Number of relations"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Counting-functions",
+      "source": "/Math/DiscreteMathematics/Functions/Counting-functions",
       "target": "/",
       "text": "Number of functions"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Functions",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Functions/Functions",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Functions",
-      "target": "/Math/Discrete-Mathematics/Functions/Counting-functions",
-      "text": "Math/Discrete Mathematics/Functions/Counting functions"
+      "source": "/Math/DiscreteMathematics/Functions/Functions",
+      "target": "/Math/DiscreteMathematics/Functions/Counting-functions",
+      "text": "Math/DiscreteMathematics/Functions/Counting functions"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Functions",
-      "target": "/Math/Discrete-Mathematics/Functions/One-to-One-Function",
-      "text": "Math/Discrete Mathematics/Functions/One to One Function"
+      "source": "/Math/DiscreteMathematics/Functions/Functions",
+      "target": "/Math/DiscreteMathematics/Functions/One-to-One-Function",
+      "text": "Math/DiscreteMathematics/Functions/One to One Function"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Functions",
-      "target": "/Math/Discrete-Mathematics/Functions/Onto-function",
-      "text": "Math/Discrete Mathematics/Functions/Onto function"
+      "source": "/Math/DiscreteMathematics/Functions/Functions",
+      "target": "/Math/DiscreteMathematics/Functions/Onto-function",
+      "text": "Math/DiscreteMathematics/Functions/Onto function"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Functions",
-      "target": "/Math/Discrete-Mathematics/Functions/Bijective-Function",
-      "text": "Math/Discrete Mathematics/Functions/Bijective Function"
+      "source": "/Math/DiscreteMathematics/Functions/Functions",
+      "target": "/Math/DiscreteMathematics/Functions/Bijective-Function",
+      "text": "Math/DiscreteMathematics/Functions/Bijective Function"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/One-to-One-Function",
-      "target": "/Math/Discrete-Mathematics/Functions/Functions",
+      "source": "/Math/DiscreteMathematics/Functions/One-to-One-Function",
+      "target": "/Math/DiscreteMathematics/Functions/Functions",
       "text": "function"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Functions/Onto-function",
-      "target": "/Math/Discrete-Mathematics/Functions/Functions",
+      "source": "/Math/DiscreteMathematics/Functions/Onto-function",
+      "target": "/Math/DiscreteMathematics/Functions/Functions",
       "text": "function"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
-      "target": "/Math/Discrete-Mathematics/Groups/Group",
+      "source": "/Math/DiscreteMathematics/Groups/Abelian-Group",
+      "target": "/Math/DiscreteMathematics/Groups/Group",
       "text": "group"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Group",
-      "target": "/Math/Discrete-Mathematics/Groups/Monoid",
+      "source": "/Math/DiscreteMathematics/Groups/Group",
+      "target": "/Math/DiscreteMathematics/Groups/Monoid",
       "text": "monoid"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Groups",
+      "source": "/Math/DiscreteMathematics/Groups/Groups",
       "target": "/_index",
       "text": "_index"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Groups",
+      "source": "/Math/DiscreteMathematics/Groups/Groups",
       "target": "/Abelian-Group",
       "text": "Abelian Group"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Groups",
+      "source": "/Math/DiscreteMathematics/Groups/Groups",
       "target": "/Algebraic-Structure",
       "text": "Algebraic Structure"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Groups",
+      "source": "/Math/DiscreteMathematics/Groups/Groups",
       "target": "/Group",
       "text": "Group"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Groups",
+      "source": "/Math/DiscreteMathematics/Groups/Groups",
       "target": "/Groups",
       "text": "Groups"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Groups",
+      "source": "/Math/DiscreteMathematics/Groups/Groups",
       "target": "/Intro-to-Group-Theory",
       "text": "Intro to Group Theory"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Groups",
+      "source": "/Math/DiscreteMathematics/Groups/Groups",
       "target": "/Monoid",
       "text": "Monoid"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Groups",
+      "source": "/Math/DiscreteMathematics/Groups/Groups",
       "target": "/Semigroup",
       "text": "Semigroup"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-      "target": "/Math/Discrete-Mathematics/Groups/Algebraic-Structure",
-      "text": "Math/Discrete Mathematics/Groups/Algebraic Structure"
+      "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+      "target": "/Math/DiscreteMathematics/Groups/Algebraic-Structure",
+      "text": "Math/DiscreteMathematics/Groups/Algebraic Structure"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-      "target": "/Math/Discrete-Mathematics/Groups/Semigroup",
-      "text": "Math/Discrete Mathematics/Groups/Semigroup"
+      "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+      "target": "/Math/DiscreteMathematics/Groups/Semigroup",
+      "text": "Math/DiscreteMathematics/Groups/Semigroup"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-      "target": "/Math/Discrete-Mathematics/Groups/Monoid",
-      "text": "Math/Discrete Mathematics/Groups/Monoid"
+      "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+      "target": "/Math/DiscreteMathematics/Groups/Monoid",
+      "text": "Math/DiscreteMathematics/Groups/Monoid"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-      "target": "/Math/Discrete-Mathematics/Groups/Group",
-      "text": "Math/Discrete Mathematics/Groups/Group"
+      "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+      "target": "/Math/DiscreteMathematics/Groups/Group",
+      "text": "Math/DiscreteMathematics/Groups/Group"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
-      "target": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
-      "text": "Math/Discrete Mathematics/Groups/Abelian Group"
+      "source": "/Math/DiscreteMathematics/Groups/Intro-to-Group-Theory",
+      "target": "/Math/DiscreteMathematics/Groups/Abelian-Group",
+      "text": "Math/DiscreteMathematics/Groups/Abelian Group"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Monoid",
-      "target": "/Math/Discrete-Mathematics/Groups/Semigroup",
+      "source": "/Math/DiscreteMathematics/Groups/Monoid",
+      "target": "/Math/DiscreteMathematics/Groups/Semigroup",
       "text": "semigroup"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Groups/Semigroup",
-      "target": "/Math/Discrete-Mathematics/Groups/Algebraic-Structure",
+      "source": "/Math/DiscreteMathematics/Groups/Semigroup",
+      "target": "/Math/DiscreteMathematics/Groups/Algebraic-Structure",
       "text": "algebraic structure"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Power-Set",
-      "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+      "source": "/Math/DiscreteMathematics/Power-Set",
+      "target": "/Math/DiscreteMathematics/Intro-to-Set-Theory",
       "text": "set"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Power-Set",
-      "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
+      "source": "/Math/DiscreteMathematics/Power-Set",
+      "target": "/Math/DiscreteMathematics/Intro-to-Set-Theory",
       "text": "subsets"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Quotient-Set",
-      "target": "/Equivalence-Class",
+      "source": "/Math/DiscreteMathematics/Quotient-Set",
+      "target": "/Math/DiscreteMathematics/Equivalence-Class",
       "text": "equivalence classes"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Asymmetric-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Asymmetric-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Asymmetric-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Asymmetric-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
       "text": "Antisymmetric"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
       "text": "Reflexive"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Symmetric-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Symmetric-Relation",
       "text": "Symmetric"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
       "text": "Transitive"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Irreflexive-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Irreflexive-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
       "text": "reflexive"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
       "text": "Reflexive"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
       "text": "Antisymmetric"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
       "text": "Transitive"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
       "target": "/",
       "text": "#Property"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Power-Set",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Power-Set",
       "text": "number of subsets"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Reflexive-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Reflexive-Relation",
       "text": "Reflexive Relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Irreflexive-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Irreflexive-Relation",
       "text": "Irreflexive Relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Symmetric-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Symmetric-Relation",
       "text": "Symmetric Relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
       "text": "Antisymmetric Relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Antisymmetric-Relation",
       "text": "Antisymmetric Relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
       "text": "Transitive Relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Equivalence-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Equivalence-Relation",
       "text": "Equivalence Relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
       "text": "Partial Order Relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Totally-Ordered-Set",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Totally-Ordered-Set",
       "text": "Totally Ordered Set"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/All-the-relations",
+      "source": "/Math/DiscreteMathematics/Relation/Relation",
+      "target": "/Math/DiscreteMathematics/Relation/All-the-relations",
       "text": "All the relations"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Symmetric-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Symmetric-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "relation"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Totally-Ordered-Set",
-      "target": "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Totally-Ordered-Set",
+      "target": "/Math/DiscreteMathematics/Relation/Partial-Order-Relation",
       "text": "POSET"
     },
     {
-      "source": "/Math/Discrete-Mathematics/Relation/Transitive-Relation",
-      "target": "/Math/Discrete-Mathematics/Relation/Relation",
+      "source": "/Math/DiscreteMathematics/Relation/Transitive-Relation",
+      "target": "/Math/DiscreteMathematics/Relation/Relation",
       "text": "relation"
     },
     {
@@ -1583,7 +1583,7 @@
     },
     {
       "source": "/",
-      "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
+      "target": "/Math/DiscreteMathematics/Discrete-Mathematics",
       "text": "Discrete Mathematics"
     }
   ]

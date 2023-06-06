@@ -1,4 +1,4 @@
-A [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] 'R' on a set 'A' is said to be irreflexive if (x,x)∉R ∀x∈A
+A [[Math/DiscreteMathematics/Relation/Relation#Relation|relation]] 'R' on a set 'A' is said to be irreflexive if (x,x)∉R ∀x∈A
 
 ### Note
 Not reflexive ≠ Irreflexive
@@ -10,7 +10,7 @@ R is ***not reflexive*** because (3,3)∉R and that doesn't mean it's irreflexiv
 ## How many irreflexive relations possible?
 If |A|=n
 Number of reflexive relations: 2^(n²-n)
-Same as that for [[Math/Discrete Mathematics/Relation/Reflexive Relation#How many reflexive relations possible?|reflexive]].
+Same as that for [[Math/DiscreteMathematics/Relation/Reflexive Relation#How many reflexive relations possible?|reflexive]].
 
 ### Example
 A={1,2}

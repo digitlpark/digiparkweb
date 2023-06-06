@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
+                "file": "Math/DiscreteMathematics/Discrete Mathematics.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
-                "mode": "source",
+                "file": "Math/DiscreteMathematics/Discrete Mathematics.md",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
+                "file": "Math/DiscreteMathematics/Discrete Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
+                "file": "Math/DiscreteMathematics/Discrete Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md"
+                "file": "Math/DiscreteMathematics/Discrete Mathematics.md"
               }
             }
           }
@@ -166,38 +166,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b875bddaf08b5615",
+  "active": "4fdbd2a249d3c3b0",
   "lastOpenFiles": [
-    "Math/Discrete Mathematics/Intro to Set Theory.md",
-    "Math/Discrete Mathematics/Quotient Set.md",
-    "Math/Discrete Mathematics/Field Structure and Order Structure.md",
+    "_index.md",
+    "Math/Math1/Stationary Points in Multivariable Functions.md",
+    "Math/DiscreteMathematics/Intro to Set Theory.md",
+    "Math/DiscreteMathematics/Quotient Set.md",
+    "Math/DiscreteMathematics/Field Structure and Order Structure.md",
     "Math/Discrete Mathematics/_index.md",
-    "Math/Discrete Mathematics/Discrete Mathematics.md",
-    "Math/Discrete Mathematics/Groups/_index.md",
-    "Math/Discrete Mathematics/Groups/Semigroup.md",
-    "Math/Discrete Mathematics/Groups/Monoid.md",
-    "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
-    "Math/Discrete Mathematics/Groups/Groups.md",
-    "Math/Discrete Mathematics/Groups/Algebraic Structure.md",
-    "Math/Discrete Mathematics/Groups/Group.md",
-    "Math/Discrete Mathematics/Groups/Abelian Group.md",
-    "Math/Discrete Mathematics/Groups",
-    "Math/Discrete Mathematics/Functions/_index.md",
-    "Math/Discrete Mathematics/Functions/Onto function.md",
-    "Math/Discrete Mathematics/Functions/One to One Function.md",
-    "Math/Discrete Mathematics/Functions/Functions.md",
-    "Math/Discrete Mathematics/Functions/Counting functions.md",
-    "Math/Discrete Mathematics/Functions/Bijective Function.md",
-    "Math/Discrete Mathematics/Functions",
-    "Math/Discrete Mathematics/Relation/_index.md",
-    "Math/Discrete Mathematics/Relation/Transitive Relation.md",
-    "Math/Discrete Mathematics/Relation/Totally Ordered Set.md",
-    "Math/Discrete Mathematics/Relation/Symmetric Relation.md",
-    "Math/Discrete Mathematics/Relation/Relation.md",
-    "Math/Discrete Mathematics/Relation/Reflexive Relation.md",
-    "Math/Discrete Mathematics/Relation/Partial Order Relation.md",
-    "Math/Discrete Mathematics/Relation",
-    "Math/Discrete Mathematics",
+    "Math/DiscreteMathematics/Discrete Mathematics.md",
+    "Math/DiscreteMathematics/Groups/_index.md",
+    "Math/DiscreteMathematics/Groups/Semigroup.md",
+    "Math/DiscreteMathematics/Groups/Monoid.md",
+    "Math/DiscreteMathematics/Groups/Intro to Group Theory.md",
+    "Math/DiscreteMathematics/Groups/Groups.md",
+    "Math/DiscreteMathematics/Groups/Algebraic Structure.md",
+    "Math/DiscreteMathematics/Groups/Group.md",
+    "Math/DiscreteMathematics/Groups/Abelian Group.md",
+    "Math/DiscreteMathematics/Groups",
+    "Math/DiscreteMathematics/Functions/_index.md",
+    "Math/DiscreteMathematics/Functions/Onto function.md",
+    "Math/DiscreteMathematics/Functions/One to One Function.md",
+    "Math/DiscreteMathematics/Functions/Functions.md",
+    "Math/DiscreteMathematics/Functions/Counting functions.md",
+    "Math/DiscreteMathematics/Functions/Bijective Function.md",
+    "Math/DiscreteMathematics/Functions",
+    "Math/DiscreteMathematics/Relation/_index.md",
+    "Math/DiscreteMathematics/Relation/Transitive Relation.md",
+    "Math/DiscreteMathematics/Relation/Totally Ordered Set.md",
+    "Math/DiscreteMathematics/Relation/Symmetric Relation.md",
+    "Math/DiscreteMathematics/Relation/Relation.md",
+    "Math/DiscreteMathematics/Relation",
+    "Math/DiscreteMathematics",
     "Math/New folder",
     "Math/Discrete Mathematics/Group Theory/New",
     "Math/Discrete Mathematics/Group Theory",

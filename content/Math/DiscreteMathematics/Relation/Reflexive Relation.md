@@ -1,4 +1,4 @@
-A [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] 'R' on a set 'A' is said to be reflexive if (x,x)∈R ∀x∈A
+A [[Math/DiscreteMathematics/Relation/Relation#Relation|relation]] 'R' on a set 'A' is said to be reflexive if (x,x)∈R ∀x∈A
 
 ### Example
 

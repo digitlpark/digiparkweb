@@ -1,7 +1,7 @@
 # (Bijection)
-A [[Math/Discrete Mathematics/Functions/Functions|function]] f:A→B is bijection if 'f' is:
-1. [[Math/Discrete Mathematics/Functions/One to One Function|One-one]] (Injective)
-2. [[Math/Discrete Mathematics/Functions/Onto function|Onto]] (Surjective)
+A [[Math/DiscreteMathematics/Functions/Functions|function]] f:A→B is bijection if 'f' is:
+1. [[Math/DiscreteMathematics/Functions/One to One Function|One-one]] (Injective)
+2. [[Math/DiscreteMathematics/Functions/Onto function|Onto]] (Surjective)
 
 If f:A→B is bijective, |A|=x and |B|=y, 
 * By one-one: x≤y

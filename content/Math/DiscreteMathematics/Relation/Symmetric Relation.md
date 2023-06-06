@@ -1,4 +1,4 @@
-A [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] R on a set 'A' is said to be symmetric if xRy then yRx ∀x,y∈A
+A [[Math/DiscreteMathematics/Relation/Relation#Relation|relation]] R on a set 'A' is said to be symmetric if xRy then yRx ∀x,y∈A
 if (x,y)∈R⇒(y,x)∈R ∀x,y∈A
 
 ### Example

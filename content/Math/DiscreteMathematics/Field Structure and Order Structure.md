@@ -1,5 +1,5 @@
 # Field Structure
-**It is an [[Math/Discrete Mathematics/Groups/Abelian Group|abelian group]] under addition with 0 as the additive identity**; the nonzero elements are an abelian group under multiplication with 1 as the multiplicative identity; and multiplication distributes over addition.
+**It is an [[Math/DiscreteMathematics/Groups/Abelian Group|abelian group]] under addition with 0 as the additive identity**; the nonzero elements are an abelian group under multiplication with 1 as the multiplicative identity; and multiplication distributes over addition.
 
 # Order Structure
 A [[#Field Structure|field]] S is an ordered field if it satisfies

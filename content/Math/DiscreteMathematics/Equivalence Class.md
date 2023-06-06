@@ -1,6 +1,6 @@
 https://youtu.be/TbCk79SoCYw
 
-Equivalence class is the name given to a subset of some [[Math/Discrete Mathematics/Relation/Equivalence Relation|equivalence relation]] R which includes all elements that are equivalent to each other.
+Equivalence class is the name given to a subset of some [[Math/DiscreteMathematics/Relation/Equivalence Relation|equivalence relation]] R which includes all elements that are equivalent to each other.
 
 Let R be an equivalence relation on a set A.  The set of all elements which are related to an element x of set A is called the equivalence class of x.
 

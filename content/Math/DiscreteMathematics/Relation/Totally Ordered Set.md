@@ -1,6 +1,6 @@
 > Also called linearly ordered set
 
-A [[Math/Discrete Mathematics/Relation/Partial Order Relation#Partially Ordered Set (POSET)|POSET]] \[A;R\] is called a totally ordered set if every pair of elements in A are comparable. (An additional [trichotomy law](https://mathworld.wolfram.com/TrichotomyLaw.html) on top of conditions from POSET)
+A [[Math/DiscreteMathematics/Relation/Partial Order Relation#Partially Ordered Set (POSET)|POSET]] \[A;R\] is called a totally ordered set if every pair of elements in A are comparable. (An additional [trichotomy law](https://mathworld.wolfram.com/TrichotomyLaw.html) on top of conditions from POSET)
 aRb or bRa ∀a,b∈A
 
 ### Note

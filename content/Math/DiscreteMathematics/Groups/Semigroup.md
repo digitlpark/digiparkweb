@@ -1,4 +1,4 @@
-An [[Math/Discrete Mathematics/Groups/Algebraic Structure|algebraic structure]] (S,\*) is called a semigroup if it follows associative property
+An [[Math/DiscreteMathematics/Groups/Algebraic Structure|algebraic structure]] (S,\*) is called a semigroup if it follows associative property
 (a\*b)\*c = a\*(b\*c) ∀a,b,c∈S
 
 ### Example

@@ -1,4 +1,4 @@
-A [[Math/Discrete Mathematics/Groups/Semigroup|semigroup]] (S,\*) is called a monoid if there exists an element e∈S such that (a\*e)=(e\*a)=a ∀a∈S
+A [[Math/DiscreteMathematics/Groups/Semigroup|semigroup]] (S,\*) is called a monoid if there exists an element e∈S such that (a\*e)=(e\*a)=a ∀a∈S
 Element 'e' is called identity element of S wrt '\*'
 
 ### Example
