@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Relation.md",
+                "file": "Math/Discrete Mathematics/Discrete Mathematics.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Relation.md",
+                "file": "Math/Discrete Mathematics/Discrete Mathematics.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Relation.md",
+                "file": "Math/Discrete Mathematics/Discrete Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Relation.md",
+                "file": "Math/Discrete Mathematics/Discrete Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Relation.md"
+                "file": "Math/Discrete Mathematics/Discrete Mathematics.md"
               }
             }
           }
@@ -168,12 +168,14 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
+    "Math/Discrete Mathematics/Power Set.md",
+    "Math/Discrete Mathematics/Discrete Mathematics.md",
+    "Math/Discrete Mathematics/_index.md",
+    "Math/Discrete Mathematics/Relation/Relation.md",
     "Math/Discrete Mathematics/Relation/Reflexive Relation.md",
     "Math/Discrete Mathematics/Relation/Irreflexive Relation.md",
-    "Math/Discrete Mathematics/Power Set.md",
     "Math/Discrete Mathematics/Equivalence Class.md",
     "Math/Discrete Mathematics/Relation/_index.md",
-    "Math/Discrete Mathematics/Discrete Mathematics.md",
     "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
     "Math/Discrete Mathematics/Intro to Set Theory.md",
     "Math/Discrete Mathematics/Intro/Discrete Math.md",
@@ -182,14 +184,12 @@
     "Math/Discrete Mathematics/Groups/Groups.md",
     "Math/Discrete Mathematics/Groups/_index.md",
     "Math/Discrete Mathematics/Functions/_index.md",
-    "Math/Discrete Mathematics/_index.md",
     "_index.md",
     "Math/Math1/_index.md",
     "Math/Math1/Math 1.md",
     "Math/Math1/Math1.md",
     "Math/Discrete Mathematics/Functions/Counting functions.md",
     "Math/Discrete Mathematics/Intro/Intro to Set Theory.md",
-    "Math/Discrete Mathematics/Relation/Relation.md",
     "Reflexive relations possible.md",
     "Math/Discrete Mathematics/Relation/All the relations.md",
     "Math/Math1/Stationary Points in Multivariable Functions.md",
