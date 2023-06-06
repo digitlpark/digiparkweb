@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math1/Math1.md",
+                "file": "Math/Discrete Mathematics/Relation/Relation.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "de97f37aa1ddfa76"
+          }
+        ]
+      },
+      {
+        "id": "63d300ea9517117c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "345eaaadd4a3b0c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Discrete Mathematics/Relation/Relation.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "de97f37aa1ddfa76"
           }
         ]
       }
@@ -48,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "saddle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Math1/Math1.md",
+                "file": "Math/Discrete Mathematics/Relation/Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Math1/Math1.md",
+                "file": "Math/Discrete Mathematics/Relation/Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Math1/Math1.md"
+                "file": "Math/Discrete Mathematics/Relation/Relation.md"
               }
             }
           }
@@ -148,41 +168,43 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
-    "Math/Math1/Synthetic Division.md",
+    "Math/Discrete Mathematics/Relation/Reflexive Relation.md",
+    "Math/Discrete Mathematics/Relation/Irreflexive Relation.md",
+    "Math/Discrete Mathematics/Power Set.md",
+    "Math/Discrete Mathematics/Equivalence Class.md",
+    "Math/Discrete Mathematics/Relation/_index.md",
+    "Math/Discrete Mathematics/Discrete Mathematics.md",
+    "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
+    "Math/Discrete Mathematics/Intro to Set Theory.md",
+    "Math/Discrete Mathematics/Intro/Discrete Math.md",
+    "Math/Discrete Mathematics/Intro/Power Set.md",
+    "Math/Discrete Mathematics/Intro/Intro.md",
+    "Math/Discrete Mathematics/Groups/Groups.md",
+    "Math/Discrete Mathematics/Groups/_index.md",
+    "Math/Discrete Mathematics/Functions/_index.md",
+    "Math/Discrete Mathematics/_index.md",
     "_index.md",
-    "Testing.md",
-    "Math/Math1/Trig and hyperbolic functions.md",
-    "Math/Math1/Tangent and Normal.md",
-    "Math/Math1/Stationary Points in Multivariable Functions.md",
-    "Math/Math1/nth derivative.md",
+    "Math/Math1/_index.md",
+    "Math/Math1/Math 1.md",
     "Math/Math1/Math1.md",
-    "Math/Math1/Lagrange's Multipliers.md",
-    "Math/Math1/Jacobian.md",
-    "Math/Math1/Gaussian Integral (half factorial).md",
-    "Math/Math1/Gamma and Beta Functions.md",
-    "Math/Math1/Euler's Theorem.md",
-    "Math/Math1/Curve Tracing f(x,y)=0.md",
-    "Math/Math1/Curve Tracing f(r,θ)=0.md",
-    "Math/Math1/Curve Tracing.md",
-    "Math/Math1/Curvature.md",
-    "Math/Math1/Coordinate systems for integration.md",
-    "Math/Math1/Approximating functions z=f(x,y).md",
-    "Math/Math1/Approximating functions.md",
-    "Math/Math1/Integration Formulae.md",
+    "Math/Discrete Mathematics/Functions/Counting functions.md",
+    "Math/Discrete Mathematics/Intro/Intro to Set Theory.md",
+    "Math/Discrete Mathematics/Relation/Relation.md",
+    "Reflexive relations possible.md",
+    "Math/Discrete Mathematics/Relation/All the relations.md",
+    "Math/Math1/Stationary Points in Multivariable Functions.md",
+    "Math/Discrete Mathematics/Group Theory/New/Normal Subgroups and Quotient Group.md",
+    "Math/Discrete Mathematics/Group Theory/New",
+    "Math/Discrete Mathematics/Group Theory",
+    "Math/Discrete Mathematics/Functions",
+    "Math/Discrete Mathematics/Groups",
+    "Math/Discrete Mathematics/Relation",
+    "Math/Discrete Mathematics/Intro",
+    "Math/Discrete Mathematics",
     "files/Pasted image 20230306080935.png",
     "files/Pasted image 20230306080932.png",
     "Math/Math1",
     "Math",
-    "New folder",
-    "files",
-    "Hello world.md",
-    "Math1/Coordinate systems for integration.md",
-    "Math1/Jacobian.md",
-    "Math1/Euler's Theorem.md",
-    "_index.md.md",
-    "Untitled",
-    "hola",
-    "templates",
-    "content"
+    "New folder"
   ]
 }
