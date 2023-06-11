@@ -90,9 +90,9 @@
     "tags": []
   },
   "/Math/Math1/Math-1": {
-    "title": "Math 1",
+    "title": "Table of Contents",
     "content": "# Files\n- [[Math/Math1/Approximating functions z=f(x,y)]]\n- [[Math/Math1/Approximating functions]]\n- [[Math/Math1/Coordinate systems for integration]]\n- [[Math/Math1/Curvature]]\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\n- [[Math/Math1/Curve Tracing]]\n- [[Math/Math1/Euler's Theorem]]\n- [[Math/Math1/Gamma and Beta Functions]]\n- [[Math/Math1/Gaussian Integral (half factorial)]]\n- [[Math/Math1/Jacobian]]\n- [[Math/Math1/Lagrange's Multipliers]]\n- [[Math/Math1/nth derivative]]\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\n- [[Math/Math1/Synthetic Division]]\n- [[Math/Math1/Tangent and Normal]]\n- [[Math/Math1/Trig and hyperbolic functions]]",
-    "lastmodified": "2023-05-31T07:54:34.6574489+05:30",
+    "lastmodified": "2023-06-11T21:01:28.2049589+05:30",
     "tags": []
   },
   "/Math/Math1/Stationary-Points-in-Multivariable-Functions": {
@@ -103,8 +103,8 @@
   },
   "/Math/Math1/Synthetic-Division": {
     "title": "Synthetic Division",
-    "content": "https://youtu.be/mdgWnxohHNg\n\n![[files/Pasted image 20230306080932.png]]\n\n![[files/Pasted image 20230306080935.png]]\n\n\n![Image1](/files/Pasted image 20230306080932.png)",
-    "lastmodified": "2023-06-10T06:18:31.2281542+05:30",
+    "content": "https://youtu.be/mdgWnxohHNg\n\n![[files/Pasted image 20230306080932.png]]\n\n![[files/Pasted image 20230306080935.png]]\n\n",
+    "lastmodified": "2023-06-11T21:11:47.8711252+05:30",
     "tags": []
   },
   "/Math/Math1/Tangent-and-Normal": {

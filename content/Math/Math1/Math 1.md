@@ -1,3 +1,6 @@
+---
+title: Table of Contents
+---
 # Files
 - [[Math/Math1/Approximating functions z=f(x,y)]]
 - [[Math/Math1/Approximating functions]]

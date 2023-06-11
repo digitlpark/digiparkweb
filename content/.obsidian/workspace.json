@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world2.md",
+                "file": "Math/Math1/Synthetic Division.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world2.md",
+                "file": "Math/Math1/Synthetic Division.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world2.md",
+                "file": "Math/Math1/Synthetic Division.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world2.md",
+                "file": "Math/Math1/Synthetic Division.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world2.md"
+                "file": "Math/Math1/Synthetic Division.md"
               }
             }
           }
@@ -169,11 +169,12 @@
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
     "Math/DiscreteMathematics/hello world.md",
-    "Math/Math1/Curvature.md",
-    "Math/DiscreteMathematics/hello world2.md",
-    "Math/Math1/Synthetic Division.md",
     "Math/Math1/Math 1.md",
     "_index.md",
+    "Pasted image 20230611205932.png",
+    "Math/DiscreteMathematics/hello world2.md",
+    "Math/Math1/Curvature.md",
+    "Math/Math1/Synthetic Division.md",
     "Math/Math1/Stationary Points in Multivariable Functions.md",
     "Math/DiscreteMathematics/Discrete Mathematics.md",
     "Math/DiscreteMathematics/Intro to Set Theory.md",
@@ -194,7 +195,6 @@
     "Math/DiscreteMathematics/Functions/One to One Function.md",
     "Math/DiscreteMathematics/Functions/Functions.md",
     "Math/DiscreteMathematics/Functions/Counting functions.md",
-    "Math/DiscreteMathematics/Functions/Bijective Function.md",
     "Math/DiscreteMathematics/Functions",
     "Math/DiscreteMathematics/Relation",
     "Math/DiscreteMathematics",
