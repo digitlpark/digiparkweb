@@ -1,1 +1,4 @@
+---
+title: hello world
+---
 [[Math/DiscreteMathematics/hello world2|hello world2]]

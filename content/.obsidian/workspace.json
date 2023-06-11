@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world.md",
+                "file": "Math/DiscreteMathematics/hello world2.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world.md",
+                "file": "Math/DiscreteMathematics/hello world2.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world.md",
+                "file": "Math/DiscreteMathematics/hello world2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world.md",
+                "file": "Math/DiscreteMathematics/hello world2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/DiscreteMathematics/hello world.md"
+                "file": "Math/DiscreteMathematics/hello world2.md"
               }
             }
           }
@@ -168,8 +168,11 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
-    "Math/DiscreteMathematics/hello world2.md",
     "Math/DiscreteMathematics/hello world.md",
+    "Math/Math1/Curvature.md",
+    "Math/DiscreteMathematics/hello world2.md",
+    "Math/Math1/Synthetic Division.md",
+    "Math/Math1/Math 1.md",
     "_index.md",
     "Math/Math1/Stationary Points in Multivariable Functions.md",
     "Math/DiscreteMathematics/Discrete Mathematics.md",
@@ -193,9 +196,6 @@
     "Math/DiscreteMathematics/Functions/Counting functions.md",
     "Math/DiscreteMathematics/Functions/Bijective Function.md",
     "Math/DiscreteMathematics/Functions",
-    "Math/DiscreteMathematics/Relation/_index.md",
-    "Math/DiscreteMathematics/Relation/Transitive Relation.md",
-    "Math/DiscreteMathematics/Relation/Totally Ordered Set.md",
     "Math/DiscreteMathematics/Relation",
     "Math/DiscreteMathematics",
     "Math/New folder",
