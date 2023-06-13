@@ -11,6 +11,264 @@
           "source": "/",
           "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
           "text": "Discrete Mathematics"
+        },
+        {
+          "source": "/",
+          "target": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "text": "Applied Chemistry"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Applied-Chemistry": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Applied-Chemistry",
+          "text": "Applied Chemistry"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Chemistry-of-Materials",
+          "text": "Chemistry of Materials"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Alloys",
+          "text": "Alloys"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Chemistry-of-Materials",
+          "text": "Chemistry of Materials"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Composite-Material",
+          "text": "Composite Material"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Green-Chemistry-Principles",
+          "text": "Green Chemistry Principles"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Nano-materials",
+          "text": "Nano materials"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Corrosion",
+          "text": "Corrosion"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Drugs",
+          "text": "Drugs"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Dyes",
+          "text": "Dyes"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Calorimetry",
+          "text": "Calorimetry"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Conductometry",
+          "text": "Conductometry"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/pH-metry",
+          "text": "pH-metry"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Potentiometry",
+          "text": "Potentiometry"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Polymers",
+          "text": "Polymers"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Addition-Polymerization",
+          "text": "Addition Polymerization"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Condensation-Polymerization",
+          "text": "Condensation Polymerization"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Molecular-Weight-and-Degree",
+          "text": "Molecular Weight and Degree"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Plastics",
+          "text": "Plastics"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Polymers",
+          "text": "Polymers"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Properties",
+          "text": "Properties"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Rubber",
+          "text": "Rubber"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Stereochemistry-of-Polymers",
+          "text": "Stereochemistry of Polymers"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Thermoplastics",
+          "text": "Thermoplastics"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Thermosetting-Resins",
+          "text": "Thermosetting Resins"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Boilers",
+          "text": "Boilers"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Chemical-Analysis-of-Water",
+          "text": "Chemical Analysis of Water"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Questions",
+          "text": "Questions"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Softening-of-Water",
+          "text": "Softening of Water"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Treatment-for-Domestic-Use",
+          "text": "Treatment for Domestic Use"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Water",
+          "text": "Water"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry/Chemistry-of-Materials/Alloys",
+          "text": "Chemistry/Chemistry of Materials/Alloys"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry/Chemistry-of-Materials/Composite-Material",
+          "text": "Chemistry/Chemistry of Materials/Composite Material"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry/Chemistry-of-Materials/Nano-materials",
+          "text": "Chemistry/Chemistry of Materials/Nano materials"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry/Chemistry-of-Materials/Green-Chemistry-Principles",
+          "text": "Chemistry/Chemistry of Materials/Green Chemistry Principles"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
+          "target": "/Chemistry/Polymers/Polymers",
+          "text": "polymers"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Polymers/Plastics": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Plastics",
+          "target": "/Chemistry/Polymers/Thermoplastics",
+          "text": "Thermoplastic Resins"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Plastics",
+          "target": "/Chemistry/Polymers/Thermosetting-Resins",
+          "text": "Thermosetting Resins"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Polymers/Polymers": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Stereochemistry-of-Polymers",
+          "text": "Classification on the basis of tacticity"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Thermoplastics",
+          "text": "Thermoplastics"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Thermosetting-Resins",
+          "text": "Thermosetting plastic"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Addition-Polymerization",
+          "text": "Addition polymers"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Condensation-Polymerization",
+          "text": "Condensation polymers"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Polymers/Properties": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Properties",
+          "target": "/Chemistry/Polymers/Polymers",
+          "text": "Polymers"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Water-Treatment/Boilers": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Water-Treatment/Boilers",
+          "target": "/Chemistry/Water-Treatment/Water",
+          "text": "creates problems in boilers"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Water-Treatment/Softening-of-Water": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Water-Treatment/Softening-of-Water",
+          "target": "/Chemistry/Water-Treatment/Boilers",
+          "text": "boilers"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Water-Treatment/Treatment-for-Domestic-Use": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Water-Treatment/Treatment-for-Domestic-Use",
+          "target": "/Chemistry/Water-Treatment/Water",
+          "text": "domestic use"
         }
       ],
       "/Math/Discrete-Mathematics/": [
@@ -570,11 +828,225 @@
           "text": "Abelian Group"
         }
       ],
+      "/Addition-Polymerization": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Addition-Polymerization",
+          "text": "Addition Polymerization"
+        }
+      ],
       "/Algebraic-Structure": [
         {
           "source": "/Math/Discrete-Mathematics/Groups/Groups",
           "target": "/Algebraic-Structure",
           "text": "Algebraic Structure"
+        }
+      ],
+      "/Alloys": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Alloys",
+          "text": "Alloys"
+        }
+      ],
+      "/Applied-Chemistry": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Applied-Chemistry",
+          "text": "Applied Chemistry"
+        }
+      ],
+      "/Boilers": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Boilers",
+          "text": "Boilers"
+        }
+      ],
+      "/Calorimetry": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Calorimetry",
+          "text": "Calorimetry"
+        }
+      ],
+      "/Chemical-Analysis-of-Water": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Chemical-Analysis-of-Water",
+          "text": "Chemical Analysis of Water"
+        }
+      ],
+      "/Chemistry-of-Materials": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Chemistry-of-Materials",
+          "text": "Chemistry of Materials"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Chemistry-of-Materials",
+          "text": "Chemistry of Materials"
+        }
+      ],
+      "/Chemistry/Applied-Chemistry/Applied-Chemistry": [
+        {
+          "source": "/",
+          "target": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "text": "Applied Chemistry"
+        }
+      ],
+      "/Chemistry/Chemistry-of-Materials/Alloys": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry/Chemistry-of-Materials/Alloys",
+          "text": "Chemistry/Chemistry of Materials/Alloys"
+        }
+      ],
+      "/Chemistry/Chemistry-of-Materials/Composite-Material": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry/Chemistry-of-Materials/Composite-Material",
+          "text": "Chemistry/Chemistry of Materials/Composite Material"
+        }
+      ],
+      "/Chemistry/Chemistry-of-Materials/Green-Chemistry-Principles": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry/Chemistry-of-Materials/Green-Chemistry-Principles",
+          "text": "Chemistry/Chemistry of Materials/Green Chemistry Principles"
+        }
+      ],
+      "/Chemistry/Chemistry-of-Materials/Nano-materials": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry/Chemistry-of-Materials/Nano-materials",
+          "text": "Chemistry/Chemistry of Materials/Nano materials"
+        }
+      ],
+      "/Chemistry/Polymers/Addition-Polymerization": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Addition-Polymerization",
+          "text": "Addition polymers"
+        }
+      ],
+      "/Chemistry/Polymers/Condensation-Polymerization": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Condensation-Polymerization",
+          "text": "Condensation polymers"
+        }
+      ],
+      "/Chemistry/Polymers/Polymers": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
+          "target": "/Chemistry/Polymers/Polymers",
+          "text": "polymers"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Properties",
+          "target": "/Chemistry/Polymers/Polymers",
+          "text": "Polymers"
+        }
+      ],
+      "/Chemistry/Polymers/Stereochemistry-of-Polymers": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Stereochemistry-of-Polymers",
+          "text": "Classification on the basis of tacticity"
+        }
+      ],
+      "/Chemistry/Polymers/Thermoplastics": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Plastics",
+          "target": "/Chemistry/Polymers/Thermoplastics",
+          "text": "Thermoplastic Resins"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Thermoplastics",
+          "text": "Thermoplastics"
+        }
+      ],
+      "/Chemistry/Polymers/Thermosetting-Resins": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Plastics",
+          "target": "/Chemistry/Polymers/Thermosetting-Resins",
+          "text": "Thermosetting Resins"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry/Polymers/Thermosetting-Resins",
+          "text": "Thermosetting plastic"
+        }
+      ],
+      "/Chemistry/Water-Treatment/Boilers": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Water-Treatment/Softening-of-Water",
+          "target": "/Chemistry/Water-Treatment/Boilers",
+          "text": "boilers"
+        }
+      ],
+      "/Chemistry/Water-Treatment/Water": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Water-Treatment/Boilers",
+          "target": "/Chemistry/Water-Treatment/Water",
+          "text": "creates problems in boilers"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Water-Treatment/Treatment-for-Domestic-Use",
+          "target": "/Chemistry/Water-Treatment/Water",
+          "text": "domestic use"
+        }
+      ],
+      "/Composite-Material": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Composite-Material",
+          "text": "Composite Material"
+        }
+      ],
+      "/Condensation-Polymerization": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Condensation-Polymerization",
+          "text": "Condensation Polymerization"
+        }
+      ],
+      "/Conductometry": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Conductometry",
+          "text": "Conductometry"
+        }
+      ],
+      "/Corrosion": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Corrosion",
+          "text": "Corrosion"
+        }
+      ],
+      "/Drugs": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Drugs",
+          "text": "Drugs"
+        }
+      ],
+      "/Dyes": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Dyes",
+          "text": "Dyes"
+        }
+      ],
+      "/Green-Chemistry-Principles": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Green-Chemistry-Principles",
+          "text": "Green Chemistry Principles"
         }
       ],
       "/Group": [
@@ -1104,11 +1576,72 @@
           "text": "Math/Math1/nth derivative"
         }
       ],
+      "/Molecular-Weight-and-Degree": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Molecular-Weight-and-Degree",
+          "text": "Molecular Weight and Degree"
+        }
+      ],
       "/Monoid": [
         {
           "source": "/Math/Discrete-Mathematics/Groups/Groups",
           "target": "/Monoid",
           "text": "Monoid"
+        }
+      ],
+      "/Nano-materials": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Nano-materials",
+          "text": "Nano materials"
+        }
+      ],
+      "/Plastics": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Plastics",
+          "text": "Plastics"
+        }
+      ],
+      "/Polymers": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Polymers",
+          "text": "Polymers"
+        },
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Polymers",
+          "text": "Polymers"
+        }
+      ],
+      "/Potentiometry": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Potentiometry",
+          "text": "Potentiometry"
+        }
+      ],
+      "/Properties": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Properties",
+          "text": "Properties"
+        }
+      ],
+      "/Questions": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Questions",
+          "text": "Questions"
+        }
+      ],
+      "/Rubber": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Rubber",
+          "text": "Rubber"
         }
       ],
       "/Semigroup": [
@@ -1118,16 +1651,300 @@
           "text": "Semigroup"
         }
       ],
+      "/Softening-of-Water": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Softening-of-Water",
+          "text": "Softening of Water"
+        }
+      ],
+      "/Stereochemistry-of-Polymers": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Stereochemistry-of-Polymers",
+          "text": "Stereochemistry of Polymers"
+        }
+      ],
+      "/Thermoplastics": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Thermoplastics",
+          "text": "Thermoplastics"
+        }
+      ],
+      "/Thermosetting-Resins": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Thermosetting-Resins",
+          "text": "Thermosetting Resins"
+        }
+      ],
+      "/Treatment-for-Domestic-Use": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Treatment-for-Domestic-Use",
+          "text": "Treatment for Domestic Use"
+        }
+      ],
+      "/Water": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Water",
+          "text": "Water"
+        }
+      ],
       "/_index": [
         {
           "source": "/Math/Discrete-Mathematics/Groups/Groups",
           "target": "/_index",
           "text": "_index"
         }
+      ],
+      "/pH-metry": [
+        {
+          "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+          "target": "/pH-metry",
+          "text": "pH-metry"
+        }
       ]
     }
   },
   "links": [
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Applied-Chemistry",
+      "text": "Applied Chemistry"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Chemistry-of-Materials",
+      "text": "Chemistry of Materials"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Alloys",
+      "text": "Alloys"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Chemistry-of-Materials",
+      "text": "Chemistry of Materials"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Composite-Material",
+      "text": "Composite Material"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Green-Chemistry-Principles",
+      "text": "Green Chemistry Principles"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Nano-materials",
+      "text": "Nano materials"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Corrosion",
+      "text": "Corrosion"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Drugs",
+      "text": "Drugs"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Dyes",
+      "text": "Dyes"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Calorimetry",
+      "text": "Calorimetry"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Conductometry",
+      "text": "Conductometry"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/pH-metry",
+      "text": "pH-metry"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Potentiometry",
+      "text": "Potentiometry"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Polymers",
+      "text": "Polymers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Addition-Polymerization",
+      "text": "Addition Polymerization"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Condensation-Polymerization",
+      "text": "Condensation Polymerization"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Molecular-Weight-and-Degree",
+      "text": "Molecular Weight and Degree"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Plastics",
+      "text": "Plastics"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Polymers",
+      "text": "Polymers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Properties",
+      "text": "Properties"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Rubber",
+      "text": "Rubber"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Stereochemistry-of-Polymers",
+      "text": "Stereochemistry of Polymers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Thermoplastics",
+      "text": "Thermoplastics"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Thermosetting-Resins",
+      "text": "Thermosetting Resins"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Boilers",
+      "text": "Boilers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Chemical-Analysis-of-Water",
+      "text": "Chemical Analysis of Water"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Questions",
+      "text": "Questions"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Softening-of-Water",
+      "text": "Softening of Water"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Treatment-for-Domestic-Use",
+      "text": "Treatment for Domestic Use"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "target": "/Water",
+      "text": "Water"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+      "target": "/Chemistry/Chemistry-of-Materials/Alloys",
+      "text": "Chemistry/Chemistry of Materials/Alloys"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+      "target": "/Chemistry/Chemistry-of-Materials/Composite-Material",
+      "text": "Chemistry/Chemistry of Materials/Composite Material"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+      "target": "/Chemistry/Chemistry-of-Materials/Nano-materials",
+      "text": "Chemistry/Chemistry of Materials/Nano materials"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+      "target": "/Chemistry/Chemistry-of-Materials/Green-Chemistry-Principles",
+      "text": "Chemistry/Chemistry of Materials/Green Chemistry Principles"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
+      "target": "/Chemistry/Polymers/Polymers",
+      "text": "polymers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Polymers/Plastics",
+      "target": "/Chemistry/Polymers/Thermoplastics",
+      "text": "Thermoplastic Resins"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Polymers/Plastics",
+      "target": "/Chemistry/Polymers/Thermosetting-Resins",
+      "text": "Thermosetting Resins"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+      "target": "/Chemistry/Polymers/Stereochemistry-of-Polymers",
+      "text": "Classification on the basis of tacticity"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+      "target": "/Chemistry/Polymers/Thermoplastics",
+      "text": "Thermoplastics"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+      "target": "/Chemistry/Polymers/Thermosetting-Resins",
+      "text": "Thermosetting plastic"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+      "target": "/Chemistry/Polymers/Addition-Polymerization",
+      "text": "Addition polymers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Polymers/Polymers",
+      "target": "/Chemistry/Polymers/Condensation-Polymerization",
+      "text": "Condensation polymers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Polymers/Properties",
+      "target": "/Chemistry/Polymers/Polymers",
+      "text": "Polymers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Water-Treatment/Boilers",
+      "target": "/Chemistry/Water-Treatment/Water",
+      "text": "creates problems in boilers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Water-Treatment/Softening-of-Water",
+      "target": "/Chemistry/Water-Treatment/Boilers",
+      "text": "boilers"
+    },
+    {
+      "source": "/Chemistry/Applied-Chemistry/Water-Treatment/Treatment-for-Domestic-Use",
+      "target": "/Chemistry/Water-Treatment/Water",
+      "text": "domestic use"
+    },
     {
       "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
       "target": "/Math/Discrete-Mathematics/Intro-to-Set-Theory",
@@ -1602,6 +2419,11 @@
       "source": "/",
       "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
       "text": "Discrete Mathematics"
+    },
+    {
+      "source": "/",
+      "target": "/Chemistry/Applied-Chemistry/Applied-Chemistry",
+      "text": "Applied Chemistry"
     }
   ]
 }

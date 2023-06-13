@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md",
+                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md",
+                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transitive relation",
+                "query": "symmetric relation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md",
+                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md",
+                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md"
+                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md"
               }
             }
           }
@@ -166,46 +166,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b875bddaf08b5615",
+  "active": "345eaaadd4a3b0c5",
   "lastOpenFiles": [
-    "Math/Discrete Mathematics/Relation/Totally Ordered Set.md",
-    "Math/Discrete Mathematics/Relation/Symmetric Relation.md",
-    "Math/Discrete Mathematics/Relation/Relation.md",
-    "Math/Discrete Mathematics/Relation/Reflexive Relation.md",
-    "Math/Discrete Mathematics/Relation/Partial Order Relation.md",
-    "Math/Discrete Mathematics/Relation/Irreflexive Relation.md",
-    "Math/Discrete Mathematics/Relation/Equivalence Relation.md",
-    "Math/Discrete Mathematics/Relation/Asymmetric Relation.md",
-    "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
-    "Math/Discrete Mathematics/Relation/All the relations.md",
-    "Math/Discrete Mathematics/Relation/Transitive Relation.md",
-    "Math/Discrete Mathematics/Quotient Set.md",
-    "Math/Discrete Mathematics/Power Set.md",
-    "Math/Discrete Mathematics/Equivalence Class.md",
-    "Math/Discrete Mathematics/Discrete Mathematics.md",
-    "Math/Discrete Mathematics/_index.md",
-    "Math/Discrete Mathematics/Groups/Semigroup.md",
-    "Math/Discrete Mathematics/Groups/Monoid.md",
-    "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
-    "Math/Discrete Mathematics/Groups/Groups.md",
-    "Math/Discrete Mathematics/Groups/Group.md",
-    "Math/Discrete Mathematics/Groups/Algebraic Structure.md",
-    "Math/Discrete Mathematics/Groups/Abelian Group.md",
-    "Math/Discrete Mathematics/Functions/Onto function.md",
-    "Math/Discrete Mathematics/Functions/One to One Function.md",
-    "Math/Discrete Mathematics/Functions/Functions.md",
-    "Math/Discrete Mathematics/Groups",
-    "Math/Discrete Mathematics/Functions",
-    "Math/Discrete Mathematics/Relation",
+    "_index.md",
+    "Math/Math1/Math 1.md",
+    "Chemistry/Applied Chemistry/Water Treatment/Water.md",
+    "Chemistry/Applied Chemistry/Water Treatment/Treatment for Domestic Use.md",
+    "Chemistry/Applied Chemistry/Water Treatment/Softening of Water.md",
+    "Chemistry/Applied Chemistry/Water Treatment/Questions.md",
+    "Chemistry/Applied Chemistry/Water Treatment/Boilers.md",
+    "Chemistry/Applied Chemistry/Water Treatment/Chemical Analysis of Water.md",
+    "Chemistry/Applied Chemistry/Polymers/Thermosetting Resins.md",
+    "Chemistry/Applied Chemistry/Polymers/Thermoplastics.md",
+    "Chemistry/Applied Chemistry/Polymers/Stereochemistry of Polymers.md",
+    "Chemistry/Applied Chemistry/Polymers/Rubber.md",
+    "Chemistry/Applied Chemistry/Polymers/Polymers.md",
+    "Chemistry/Applied Chemistry/Polymers/Properties.md",
+    "Chemistry/Applied Chemistry/Polymers/Plastics.md",
+    "Chemistry/Applied Chemistry/Polymers/Addition Polymerization.md",
+    "Chemistry/Applied Chemistry/Polymers/Molecular Weight and Degree.md",
+    "Chemistry/Applied Chemistry/Polymers/Condensation Polymerization.md",
+    "Chemistry/Applied Chemistry/Instrumental techniques/Potentiometry.md",
+    "Chemistry/Applied Chemistry/Instrumental techniques/pH-metry.md",
+    "Chemistry/Applied Chemistry/Chemistry of Materials/Chemistry of Materials.md",
+    "Chemistry/Applied Chemistry/Instrumental techniques/Conductometry.md",
+    "Chemistry/Applied Chemistry/Instrumental techniques/Calorimetry.md",
+    "Chemistry/Applied Chemistry/Chemistry of Materials/Nano materials.md",
+    "Chemistry/Applied Chemistry/Chemistry of Materials/Green Chemistry Principles.md",
+    "Chemistry/Applied Chemistry/Chemistry of Materials/Composite Material.md",
+    "Chemistry/Applied Chemistry/Water Treatment",
+    "Chemistry/Applied Chemistry/Polymers",
+    "Chemistry/Applied Chemistry/Instrumental techniques",
+    "Chemistry/Applied Chemistry/Chemistry of Materials",
+    "Chemistry/Applied Chemistry",
+    "Chemistry",
+    "New folder",
+    "Applied Chemistry/Water Treatment",
+    "Applied Chemistry/Polymers",
+    "Applied Chemistry/Instrumental techniques",
     "Pasted image 20230611205932.png",
-    "Math/Discrete Mathematics",
-    "Math/New folder",
-    "Math/Discrete Mathematics/Group Theory/New",
-    "Math/Discrete Mathematics/Group Theory",
-    "Math/Discrete Mathematics/Intro",
     "files/Pasted image 20230306080935.png",
-    "files/Pasted image 20230306080932.png",
-    "Math/Math1",
-    "Math"
+    "files/Pasted image 20230306080932.png"
   ]
 }
