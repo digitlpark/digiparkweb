@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
+                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
+                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "partial order",
+                "query": "transitive relation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
+                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
+                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md"
+                "file": "Math/Discrete Mathematics/Relation/Transitive Relation.md"
               }
             }
           }
@@ -168,8 +168,17 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
-    "Math/Discrete Mathematics/Relation/All the relations.md",
+    "Math/Discrete Mathematics/Relation/Totally Ordered Set.md",
+    "Math/Discrete Mathematics/Relation/Symmetric Relation.md",
+    "Math/Discrete Mathematics/Relation/Relation.md",
+    "Math/Discrete Mathematics/Relation/Reflexive Relation.md",
     "Math/Discrete Mathematics/Relation/Partial Order Relation.md",
+    "Math/Discrete Mathematics/Relation/Irreflexive Relation.md",
+    "Math/Discrete Mathematics/Relation/Equivalence Relation.md",
+    "Math/Discrete Mathematics/Relation/Asymmetric Relation.md",
+    "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
+    "Math/Discrete Mathematics/Relation/All the relations.md",
+    "Math/Discrete Mathematics/Relation/Transitive Relation.md",
     "Math/Discrete Mathematics/Quotient Set.md",
     "Math/Discrete Mathematics/Power Set.md",
     "Math/Discrete Mathematics/Equivalence Class.md",
@@ -185,15 +194,6 @@
     "Math/Discrete Mathematics/Functions/Onto function.md",
     "Math/Discrete Mathematics/Functions/One to One Function.md",
     "Math/Discrete Mathematics/Functions/Functions.md",
-    "Math/Discrete Mathematics/Functions/Counting functions.md",
-    "Math/Discrete Mathematics/Functions/Bijective Function.md",
-    "Math/Discrete Mathematics/Relation/_index.md",
-    "_index.md",
-    "Math/Discrete Mathematics/Field Structure and Order Structure.md",
-    "Math/Discrete Mathematics/Intro to Set Theory.md",
-    "Math/Math1/Curvature.md",
-    "Math/Math1/Jacobian.md",
-    "Math/Discrete Mathematics/Groups/_index.md",
     "Math/Discrete Mathematics/Groups",
     "Math/Discrete Mathematics/Functions",
     "Math/Discrete Mathematics/Relation",

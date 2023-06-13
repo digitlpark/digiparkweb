@@ -1,3 +1,6 @@
+---
+title: Irreflexive Relation
+---
 A [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] 'R' on a set 'A' is said to be irreflexive if (x,x)∉R ∀x∈A
 
 ### Note

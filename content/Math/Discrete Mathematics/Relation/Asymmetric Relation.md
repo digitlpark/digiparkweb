@@ -1,3 +1,6 @@
+---
+title: Asymmetric Relation
+---
 A [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] 'R' is said to be antisymmetric if xRy then !(yRx) ∀x,y∈A
 If (x,y)∈R then (y,x)∉R ∀x,y∈A
 

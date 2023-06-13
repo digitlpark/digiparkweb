@@ -1,3 +1,6 @@
+---
+title: Transitive Relation
+---
 A [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] R on a set A is said to be transitive if xRy and yRz then xRz ∀x,y,z∈A
 If (x,y)∈R & (y,z)∈R ⇒ (x,z)∈R ∀x,y,z∈A
 

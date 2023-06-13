@@ -1,3 +1,6 @@
+---
+title: Relation
+---
 # Cartesian Product
 Cartesian product of A and B: A×B={(a,b) ; a∈A,b∈B}
 
