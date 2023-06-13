@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iframe",
+                "query": "partial order",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "Math/Discrete Mathematics/Relation/Antisymmetric Relation.md"
               }
             }
           }
@@ -168,34 +168,34 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
-    "Math/Discrete Mathematics/Functions/Bijective Function.md",
-    "Math/Discrete Mathematics/Functions/Counting functions.md",
-    "Math/Discrete Mathematics/Functions/Functions.md",
-    "Math/Discrete Mathematics/Functions/One to One Function.md",
-    "Math/Discrete Mathematics/Functions/Onto function.md",
-    "Math/Discrete Mathematics/Discrete Mathematics.md",
-    "Math/Discrete Mathematics/Equivalence Class.md",
-    "Math/Discrete Mathematics/Field Structure and Order Structure.md",
-    "Math/Discrete Mathematics/Intro to Set Theory.md",
-    "Math/Discrete Mathematics/Power Set.md",
+    "Math/Discrete Mathematics/Relation/All the relations.md",
+    "Math/Discrete Mathematics/Relation/Partial Order Relation.md",
     "Math/Discrete Mathematics/Quotient Set.md",
-    "_index.md",
-    "Math/Math1/Curvature.md",
-    "Math/Math1/Jacobian.md",
+    "Math/Discrete Mathematics/Power Set.md",
+    "Math/Discrete Mathematics/Equivalence Class.md",
+    "Math/Discrete Mathematics/Discrete Mathematics.md",
     "Math/Discrete Mathematics/_index.md",
-    "Math/Discrete Mathematics/Groups/_index.md",
     "Math/Discrete Mathematics/Groups/Semigroup.md",
     "Math/Discrete Mathematics/Groups/Monoid.md",
     "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
-    "Math/Discrete Mathematics/Groups/Algebraic Structure.md",
     "Math/Discrete Mathematics/Groups/Groups.md",
     "Math/Discrete Mathematics/Groups/Group.md",
+    "Math/Discrete Mathematics/Groups/Algebraic Structure.md",
     "Math/Discrete Mathematics/Groups/Abelian Group.md",
-    "Math/Discrete Mathematics/Groups",
-    "Math/Discrete Mathematics/Functions/_index.md",
-    "Math/Discrete Mathematics/Functions",
+    "Math/Discrete Mathematics/Functions/Onto function.md",
+    "Math/Discrete Mathematics/Functions/One to One Function.md",
+    "Math/Discrete Mathematics/Functions/Functions.md",
+    "Math/Discrete Mathematics/Functions/Counting functions.md",
+    "Math/Discrete Mathematics/Functions/Bijective Function.md",
     "Math/Discrete Mathematics/Relation/_index.md",
-    "Math/Discrete Mathematics/Relation/Transitive Relation.md",
+    "_index.md",
+    "Math/Discrete Mathematics/Field Structure and Order Structure.md",
+    "Math/Discrete Mathematics/Intro to Set Theory.md",
+    "Math/Math1/Curvature.md",
+    "Math/Math1/Jacobian.md",
+    "Math/Discrete Mathematics/Groups/_index.md",
+    "Math/Discrete Mathematics/Groups",
+    "Math/Discrete Mathematics/Functions",
     "Math/Discrete Mathematics/Relation",
     "Pasted image 20230611205932.png",
     "Math/Discrete Mathematics",

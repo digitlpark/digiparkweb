@@ -20,13 +20,13 @@
   "/Math/Discrete-Mathematics/Equivalence-Class": {
     "title": "Equivalence Class",
     "content": "https://youtu.be/TbCk79SoCYw\n\nEquivalence class is the name given to a subset of some [[Math/Discrete Mathematics/Relation/Equivalence Relation|equivalence relation]] R which includes all elements that are equivalent to each other.\n\nLet R be an equivalence relation on a set A.  The set of all elements which are related to an element x of set A is called the equivalence class of x.\n\n$[x]=\\\\{y|(x,y)\\in R\\\\}$ is the equivalence class of x∈A\n\n## Example\nA={1,2,3,4,5}\nR = {(a,b) | a+b is even}\nR is an equivalence relation on set A.\n* \\[1\\]  = \\[3\\] = \\[5\\] = {1,3,5}\n*  \\[2\\] = \\[4\\] = {2,4}\n\n# Properties of Equivalence Class\n1. a∈\\[a\\][^1]\n\t1. \\[a\\]={b|(a,b)∈R} and (a,a)∈R[^5]\n\t2. ∴ aRa ⇒ and a∈\\[a\\]\n2. b∈\\[a\\] then \\[a\\]=\\[b\\][^2]\n\t1. b∈\\[a\\]: bRa and aRb[^3]\n\t2. If x∈\\[a\\] then xRa. xRa, aRb ⇒ xRb: x∈\\[b\\] ⇒ \\[a\\]⊆\\[b\\]\n\t3. If x∈\\[b\\] then xRb. xRb, bRa ⇒ xRa: x∈\\[a\\] ⇒ \\[b\\]⊆\\[a\\]\n\t4. By 2.,3. \\[a\\]=\\[b\\]\n3. \\[a\\]∩\\[b\\]≠Φ then \\[a\\]=\\[b\\][^4]\n\n[^1]: Description: The equivalence class of an element contains itself\n[^2]: Description: The equivalence classes of elements in an equivalence class are equal\n[^3]: symmetric property of equivalence classes\n[^4]: Description: No common elements exist between different equivalence classes. If any common element exists between two equivalence classes it means that they are completely equal\n[^5]: reflexive property of equivalence relations",
-    "lastmodified": "2023-06-06T11:44:49.2058962+05:30",
+    "lastmodified": "2023-06-13T11:14:35.830276+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Field-Structure-and-Order-Structure": {
     "title": "Field Structure and Order Structure",
     "content": "# Field Structure\n**It is an [[Math/Discrete Mathematics/Groups/Abelian Group|abelian group]] under addition with 0 as the additive identity**; the nonzero elements are an abelian group under multiplication with 1 as the multiplicative identity; and multiplication distributes over addition.\n\n# Order Structure\nA [[#Field Structure|field]] S is an ordered field if it satisfies\n* Law of trichotomy\n* Transitivity\n* Compatibility of Order Relation with Addition\u0026Multiplication Composition\n\t* a-\u003eb, a+c-\u003eb+c\n\t* a-\u003eb, ac-\u003ebc\n\n\u003e An order structure can be partially ordered or totally ordered",
-    "lastmodified": "2023-05-30T19:12:05.8468618+05:30",
+    "lastmodified": "2023-06-13T11:14:49.8599318+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Functions/": {
@@ -38,31 +38,31 @@
   "/Math/Discrete-Mathematics/Functions/Bijective-Function": {
     "title": "Bijective Function",
     "content": "# (Bijection)\nA [[Math/Discrete Mathematics/Functions/Functions|function]] f:A→B is bijection if 'f' is:\n1. [[Math/Discrete Mathematics/Functions/One to One Function|One-one]] (Injective)\n2. [[Math/Discrete Mathematics/Functions/Onto function|Onto]] (Surjective)\n\nIf f:A→B is bijective, |A|=x and |B|=y, \n* By one-one: x≤y\n* By onto: x≥y\n* ∴ x=y\n\n## Number of bijective functions possible\nIf f:A→B is one-to-one, |A|=x and |B|=y, x=y=n\nnumber of functions possible = $n*(n-1)*(n-2)...(1)=n!$\n",
-    "lastmodified": "2023-05-30T19:10:08.6192834+05:30",
+    "lastmodified": "2023-06-13T11:13:20.687516+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Functions/Counting-functions": {
     "title": "Counting functions",
     "content": "## How many functions possible?\nIf |A|=x and |B|=y, the number of functions f:A→B = $y^x$\nEvery element of A must be mapped to some element (amongst \\#y) in B\n\n## How many relations which are not functions?\nIf |A|=x and |B|=y,\n[[Math/Discrete Mathematics/Relation/Relation#Number of Relations possible|Number of relations]]-[[#How many functions possible?|Number of functions]]\n$=2^{xy}-y^x$ are the \\# of relations there are, which aren't functions.\n",
-    "lastmodified": "2023-05-30T19:32:11.4666164+05:30",
+    "lastmodified": "2023-06-13T11:13:30.1484265+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Functions/Functions": {
     "title": "Functions",
     "content": "A [[Math/Discrete Mathematics/Relation/Relation|relation]] 'f' from a set A to a set B is called function if to each element a∈A, we can assign a unique (only one) element of B.\n\n# Domain\nIf there's a function f:A→B, A is called the domain.\n\n# Codomain\nIf there's a function f:A→B, B is called the codomain.\n\n# Range\nIf there's a function f:A→B, {y;y=f(x);x∈A} is called the range.\nAll the elements∈B that have atleast one preimage in A make up the range.\n\n\n# Linking\n## How many functions possible\nhttps://youtu.be/MkAttwDquoc?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Functions/Counting functions]]\n\n## One to One function\nhttps://youtu.be/z810qMsf5So?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Functions/One to One Function]]\n\n## Onto function\nhttps://youtu.be/jqaNaJRrg3s?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Functions/Onto function]]\n\n## Bijective function\nhttps://youtu.be/zv2ONqtOK7g?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Functions/Bijective Function]]\n",
-    "lastmodified": "2023-05-30T19:12:00.1994201+05:30",
+    "lastmodified": "2023-06-13T11:13:35.3356068+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Functions/One-to-One-Function": {
     "title": "One to One Function",
     "content": "# (Injection)\nA [[Math/Discrete Mathematics/Functions/Functions|function]] f from set 'A' to set 'B' is one to one if no two elements in 'A' are mapped to some element in 'B'\nImage of every member of domain is distinct.\n$a\\ne b\\Rightarrow f(a)\\ne f(b)$ or $f(a)=f(b) \\Rightarrow a=b$\n\n## Property\nIf f:A→B is one-to-one, |A|=x and |B|=y, then **x≤y**\n\n## Number of possible one to one functions\nIf f:A→B is one-to-one, |A|=x and |B|=y\npossible functions: y⋅(y-1)⋅(y-2)... x number of times= y!/(y-x)! = $^{y}P_{x}$\n\n",
-    "lastmodified": "2023-05-30T19:10:08.6329037+05:30",
+    "lastmodified": "2023-06-13T11:13:59.3078434+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Functions/Onto-function": {
     "title": "Onto function",
     "content": "# (Surjection)\nA [[Math/Discrete Mathematics/Functions/Functions|function]] f from set 'A' to set 'B' is onto if each and every element of B is mapped/associated to atleast one element of A\nIf $b\\in B\\ \\exists a\\in A\\ s.t.\\ f(a)=b$\n\n### Property/Condition\n* Codomain of f = B = range of f\n* If f:A→B is onto, |A|=x and |B|=y, then **x≥y**\n\n",
-    "lastmodified": "2023-05-30T19:10:08.6262216+05:30",
+    "lastmodified": "2023-06-13T11:14:08.0188516+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Groups/": {
@@ -74,61 +74,61 @@
   "/Math/Discrete-Mathematics/Groups/Abelian-Group": {
     "title": "Abelian Group",
     "content": "A [[Math/Discrete Mathematics/Groups/Group|group]] (G,\\*) is said to be abelian if (a\\*b)=(b\\*a) ∀a,b∈G\n\n### Examples\n* (Z,+): yes\n\t* We know it's a group because it follows the properties of closure, associativity, has an identity element and inverse of a number from the set.\n\t* a+b=b+a ∀a,b∈Z\n* (R\\*,⋅): yes\n\t* We know it's a group\n\t* a\\*b=b\\*a ∀a,b∈R",
-    "lastmodified": "2023-05-30T19:12:05.8776357+05:30",
+    "lastmodified": "2023-06-13T11:28:03.986155+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Groups/Algebraic-Structure": {
     "title": "Algebraic Structure",
     "content": "A non-empty set S is called algebraic structure wrt binary operation * if (a\\*b)∈S ∀a,b∈S\n\n**'\\*' is a closure operation on S**\n\n### Examples\n* (N,+): yes\n* (N,⋅): yes\n* (N,-): no; \n\t* 3-5=-2 ∉N; 3,5∈N\n* (N,÷): no\n\t* 3/5∉N; 3,5∈N\n* (Z,+,⋅,-): yes\n* (R,+,⋅,-,÷): yes\n* Q\n\t* (Q,÷):no; 5/0∉Q; 5,0∈Q\n\t* (Q*,÷):yes",
-    "lastmodified": "2022-12-31T06:51:06.2540726+05:30",
+    "lastmodified": "2023-06-13T11:28:12.8578341+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Groups/Group": {
     "title": "Group",
     "content": "A [[Math/Discrete Mathematics/Groups/Monoid|monoid]] (S,\\*) with identity element 'e' is called a group if to each element a∈S, there exist an element b∈S such that (a\\*b)=(b\\*a)=e\nthen 'b' is called inverse of a (denoted as a⁻¹).\nb=a⁻¹ and a=b⁻¹\n\n### Example\n* (Z,+): yes\n\t* It is a monoid because it has the properties of closure, associativity, and has an identity element '0'.\n\t* a+b=e=0 ∀a∈Z. b=-a∈Z. 'a' has an inverse b=-a\n* (R,⋅): no\n\t* It is a monoid because it has the properties of closure, associativity and has an identity element '1'\n\t* a⋅b=1 ∀a∈R b=1/a but for a=0, an inverse 'b' doesn't exist under multiplication belonging to the set R.\n\t* *But (R\\*,⋅) is a group when we exclude 0 from R.*\n",
-    "lastmodified": "2023-05-30T19:12:05.8831878+05:30",
+    "lastmodified": "2023-06-13T11:28:21.9155698+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Groups/Groups": {
     "title": "Groups",
     "content": "%% Begin Waypoint %%\n- [[_index]]\n- [[Abelian Group]]\n- [[Algebraic Structure]]\n- [[Group]]\n- [[Groups]]\n- [[Intro to Group Theory]]\n- [[Monoid]]\n- [[Semigroup]]\n\n%% End Waypoint %%",
-    "lastmodified": "2023-06-11T21:42:56.4684501+05:30",
+    "lastmodified": "2023-06-13T11:28:28.7491627+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory": {
     "title": "Intro to Group Theory",
     "content": "Common set names:\n\n* N: natural numbers {1,2,...∞}\n* Z: integers {-∞,...-3,-2,-1,0,1,2...∞}\n\t* Z⁻={-1,-2,-3,...-∞}\n\t* Z⁺={1,2,3,...∞}\n* Q: rational numbers {p/q; p,q∈Z}\n\t* Q* = Q-{0}\n* R: real numbers\n* I: imaginary numbers\n* C: set of complex numbers 'a+bi'\n\n# Linking\n## Algebraic Structure\nhttps://youtu.be/_i_XRDXcCJY?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Groups/Algebraic Structure]]\n\n## Semigroup\nhttps://youtu.be/CxffkidIty4?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Groups/Semigroup]]\n\n## Monoid\nhttps://youtu.be/wYPEEJLVjXg?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Groups/Monoid]]\n\n## Group\nhttps://youtu.be/JAvICe01xj0?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Groups/Group]]\n\n## Abelian Group\nhttps://youtu.be/vAEK1d6KFog?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Groups/Abelian Group]]\n",
-    "lastmodified": "2023-05-30T19:12:05.9009657+05:30",
+    "lastmodified": "2023-06-13T11:28:42.0262888+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Groups/Monoid": {
     "title": "Monoid",
     "content": "A [[Math/Discrete Mathematics/Groups/Semigroup|semigroup]] (S,\\*) is called a monoid if there exists an element e∈S such that (a\\*e)=(e\\*a)=a ∀a∈S\nElement 'e' is called identity element of S wrt '\\*'\n\n### Example\n* (Z,+): yes\n\t* It is a semigroup because it has the properties of closure and associativity.\n\t* a+e=a ∀a∈Z, then we know that e=0. There exists an identity element of Z wrt '+'\n* (N,\\*): yes\n\t* It is a semigroup because it has the properties of closure and associativity.\n\t* a\\*e=a ∀a∈N, e=1. There exists an identity element of N wrt '\\*'\n* (R,÷): no\n\t* It is not an algebraic structure because real numbers are not closer under division (cuz of 0)\n* (R*,÷): no\n\t* It is an algebraic structure but not a semigroup because it doesn't follow associative property\n* (S={2ⁿ; n∈Z}, \\*): yes\n\t* We know it's a semigroup because it has the properties of closure and associativity.\n\t* 2ⁿ\\*2ˣ=2ⁿ ∀n∈Z. 2ˣ=1 =\u003e x=0∈Z. There exists an identity element of S wrt '\\*'",
-    "lastmodified": "2023-05-30T19:12:05.8889238+05:30",
+    "lastmodified": "2023-06-13T11:29:00.6189273+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Groups/Semigroup": {
     "title": "Semigroup",
     "content": "An [[Math/Discrete Mathematics/Groups/Algebraic Structure|algebraic structure]] (S,\\*) is called a semigroup if it follows associative property\n(a\\*b)\\*c = a\\*(b\\*c) ∀a,b,c∈S\n\n### Example\n* (N,+): yes\n\t* It has the closure property, therefore it's a algebraic structure.\n\t* (a+b)+c=a+(b+c) ∀a,b,c∈N: follows associative property\n* (Z,\\*): yes\n\t* It has the closure property, therefore it's a algebraic structure.\n\t* (a\\*b)\\*c=a\\*(b\\*c) ∀a,b,c∈Z: follows associative property\n* (Z,-): no\n\t* It has the closure property, therefore it's a algebraic structure.\n\t* (a-b)-c≠a-(b-c) ∀a,b,c∈Z: **doesn't** follow associative property.\n* (S={2ⁿ; n∈Z}, \\*): yes\n\t* 2ᵃ \\* 2ᵇ = 2ᵃ⁺ᵇ = 2ᶜ ∀2ᵃ,2ᵇ∈S and also 2ᶜ∈S: follows closure property.\n\t* (2ᵃ\\*2ᵇ)\\*2ᶜ=2ᵃ\\*(2ᵇ\\*2ᶜ) ∀a,b,c∈S: follows associative property.\n",
-    "lastmodified": "2023-05-30T19:12:05.895265+05:30",
+    "lastmodified": "2023-06-13T11:29:05.5387738+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Intro-to-Set-Theory": {
     "title": "Intro to Set Theory",
     "content": "# Set\nA well defined unordered collection of distinct elements is called a set.\n\n## Null Set / Empty Set\nA set with no elements. Denoted as {}=Φ\n\n## Subset\nIf every element of B is also element of A then B⊆A.\n**Every set is a subset of itself**: A⊆A\n\n## Proper Subset\nAny subset of A which is not a trivial subset of A (*itself*) is called proper subset of A.\nB is a proper subset of A if B⊂A\n\n## Cardinality\nTotal number of elements in a set.\n\n### Property\nIf A⊆B and B⊆A ⇒ A=B",
-    "lastmodified": "2022-12-30T17:35:15.8947698+05:30",
+    "lastmodified": "2023-06-13T11:14:56.7622851+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Power-Set": {
     "title": "Power Set",
     "content": "If 'A' is a finite set then [[Math/Discrete Mathematics/Intro to Set Theory#Set|set]] of all [[Math/Discrete Mathematics/Intro to Set Theory#Subset|subsets]] of A is called power set of 'A'.\n\n### Example\nA={1,2,3}\nP(A)={Φ,{1},{2},{3},{1,2},{2,3},{1,3},{1,2,3}}\n\n## Property\nIf B∈P(A), then B⊆A\n\n## Number of elements in Power Set\n|A|=n\n|P(A)|=number of subsets of A=2ⁿ",
-    "lastmodified": "2023-06-06T11:47:00.4941985+05:30",
+    "lastmodified": "2023-06-13T11:15:11.7923864+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Quotient-Set": {
-    "title": "Quotient Set",
+    "title": "Curvature",
     "content": "https://artofproblemsolving.com/wiki/index.php/Quotient_set\n\nThe set of [[Math/Discrete Mathematics/Equivalence Class|equivalence classes]] of S wrt R is called the quotient of S by R and denoted by S/R.\n",
-    "lastmodified": "2023-06-11T21:42:55.9965252+05:30",
+    "lastmodified": "2023-06-13T11:15:15.1954085+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Relation/": {
@@ -140,13 +140,13 @@
   "/Math/Discrete-Mathematics/Relation/All-the-relations": {
     "title": "All the relations",
     "content": "|A|=n\n|A×A|=n²\n\nA={1,2,3}\nA×A={(1,1),(2,2),(3,3)  ,  (1,2),(2,1),(1,3),(3,1),(2,3),(3,2)}\n             n                   +             n²-n\n\n\n|  | Reflexive | Irreflexive | Symmetric | Antisymmetric | Asymmetric | Transitive |\n| ----------- | ----------- |  ----------- |  ----------- |  ----------- |  ----------- |  ----------- |  \n| Cardinality of smallest relation | n | 0 | 0 | 0 | 0 | 0 |\n| Cardinality of largest relation | $n^2$ | $n^2-n$ | $n^2$ | $n+\\frac{n^2-n}{2}=\\frac{n(n+1)}{2}$ | $\\frac{n^2-n}{2}$ | $n^2$ | \n| Number of relations | $2^{n^2-n}$ | $2^{n^2-n}$ | $2^n*2^{\\frac{n^2-n}{2}}$ | $2^n*3^{\\frac{n^2-n}{2}}$ | $3^{\\frac{n^2-n}{2}}$ | No formula |\n\n",
-    "lastmodified": "2022-12-30T22:05:10.0605521+05:30",
+    "lastmodified": "2023-06-13T11:31:45.3045854+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Relation/Antisymmetric-Relation": {
-    "title": "Antisymmetric Relation",
+    "title": "Antisymmetric",
     "content": "A [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] 'R' is said to be antisymmetric if xRy and yRx then x=y ∀x,y∈A\nIf (x,y)∈R then (y,x)∈R only if x=y ∀x,y∈A\n\nThat means R can contain elements of the form (a,a),(c,d) but must not contain (d,c)",
-    "lastmodified": "2023-05-30T19:12:00.2358323+05:30",
+    "lastmodified": "2023-06-13T11:31:50.8132484+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Relation/Asymmetric-Relation": {
@@ -170,7 +170,7 @@
   "/Math/Discrete-Mathematics/Relation/Partial-Order-Relation": {
     "title": "Partial Order Relation",
     "content": "# Partial Ordering Relation\nA [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] R is said to be a partial order relation if R is:\n1. [[Math/Discrete Mathematics/Relation/Reflexive Relation|Reflexive]]\n2. [[Math/Discrete Mathematics/Relation/Antisymmetric Relation|Antisymmetric]]\n3. [[Math/Discrete Mathematics/Relation/Transitive Relation|Transitive]]\n\n# Partially Ordered Set (POSET)\nA set 'A' with partially ordering relation 'R' defined on 'A' is called POSET.\nDenoted by \"\\[A;R\\]\" \n\n## Example\n\nIf 'A' is any set of real numbers then \\[A;\u003c=\\] is a POSET cuz it is reflexive, antisymmetric \u0026 transitive.\n",
-    "lastmodified": "2023-05-30T19:12:00.2125533+05:30",
+    "lastmodified": "2023-06-13T11:31:35.419118+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Relation/Reflexive-Relation": {

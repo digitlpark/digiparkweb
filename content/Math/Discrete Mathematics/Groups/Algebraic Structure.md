@@ -1,3 +1,6 @@
+---
+title: Algebraic Structure
+---
 A non-empty set S is called algebraic structure wrt binary operation * if (a\*b)∈S ∀a,b∈S
 
 **'\*' is a closure operation on S**

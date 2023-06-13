@@ -1,3 +1,6 @@
+---
+title: Abelian Group
+---
 A [[Math/Discrete Mathematics/Groups/Group|group]] (G,\*) is said to be abelian if (a\*b)=(b\*a) ∀a,b∈G
 
 ### Examples

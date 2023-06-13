@@ -1,3 +1,6 @@
+---
+title: All the relations
+---
 |A|=n
 |A×A|=n²
 

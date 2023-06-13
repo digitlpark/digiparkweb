@@ -1,3 +1,6 @@
+---
+title: Groups
+---
 %% Begin Waypoint %%
 - [[_index]]
 - [[Abelian Group]]

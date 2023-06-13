@@ -1,3 +1,6 @@
+---
+title: Intro to Group Theory
+---
 Common set names:
 
 * N: natural numbers {1,2,...∞}

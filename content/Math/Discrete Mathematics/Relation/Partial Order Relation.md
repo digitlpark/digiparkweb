@@ -1,3 +1,6 @@
+---
+title: Partial Order Relation
+---
 # Partial Ordering Relation
 A [[Math/Discrete Mathematics/Relation/Relation#Relation|relation]] R is said to be a partial order relation if R is:
 1. [[Math/Discrete Mathematics/Relation/Reflexive Relation|Reflexive]]
