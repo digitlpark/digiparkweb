@@ -35,7 +35,7 @@ Polymers can be classified in many different ways: 
         
 4.  On the basis of arrangement of functional groups, side chain or branches 
     
-    1.  [[Chemistry/Polymers/Stereochemistry of Polymers|Classification on the basis of tacticity]] 
+    1.  [[Chemistry_s/Applied Chemistry/Polymers/Stereochemistry of Polymers|Classification on the basis of tacticity]] 
         
         1.  Isotactic 
             
@@ -45,13 +45,13 @@ Polymers can be classified in many different ways: 
             
 5.  On the basis of molecular forces 
     
-    1.  [[Chemistry/Polymers/Thermoplastics|Thermoplastics]] 
+    1.  [[Chemistry_s/Applied Chemistry/Polymers/Thermoplastics|Thermoplastics]] 
         
         1.  They are linear long chain polymers which can be softened on heating and hardened on cooling. 
             
         2.  Ex: PE, PP, PS 
             
-    2.  [[Chemistry/Polymers/Thermosetting Resins|Thermosetting plastic]] 
+    2.  [[Chemistry_s/Applied Chemistry/Polymers/Thermosetting Resins|Thermosetting Plastics]] 
         
         1.  They have crosslinked 3D network which once hardened cannot be softened or reversed again. 
             
@@ -67,7 +67,7 @@ Polymers can be classified in many different ways: 
             
 6.  On the basis of synthesis 
     
-    1.  [[Chemistry/Polymers/Addition Polymerization|Addition polymers]] 
+    1.  [[Chemistry_s/Applied Chemistry/Polymers/Addition Polymerization|Addition Polymers]] 
         
         1.  They are formed when the repeating units are added one by one to the main chain. 
             
@@ -75,7 +75,7 @@ Polymers can be classified in many different ways: 
             
         3.  Monomers always have one or more double bonds 
             
-    2.  [[Chemistry/Polymers/Condensation Polymerization|Condensation polymers]] 
+    2.  [[Chemistry_s/Applied Chemistry/Polymers/Condensation Polymerization|Condensation polymers]] 
         
         1.  2 different types of monomeric units react through their functional groups and combine together. 
             
@@ -84,3 +84,13 @@ Polymers can be classified in many different ways: 
         3.  Ex: Nylon 6,6 
             
         4.  PDI: polydispersity index: Mₘ/Mₙ
+
+# ToC
+
+1. [[Chemistry_s/Applied Chemistry/Polymers/Addition Polymerization|Addition Polymerization]]
+2. [[Chemistry_s/Applied Chemistry/Polymers/Condensation Polymerization|Condensation Polymerization]]
+3. [[Chemistry_s/Applied Chemistry/Polymers/Stereochemistry of Polymers|Stereochemistry of Polymers]]
+4. [[Chemistry_s/Applied Chemistry/Polymers/Properties|Properties]]
+5. [[Chemistry_s/Applied Chemistry/Polymers/Plastics|Plastics]]
+6. [[Chemistry_s/Applied Chemistry/Polymers/Thermoplastics|Thermoplastics]]
+7. [[Chemistry_s/Applied Chemistry/Polymers/Thermosetting Resins|Thermosetting Resins]]

@@ -1,7 +1,7 @@
 ---
 title: Boilers
 ---
-Elaborating how it [[Chemistry/Water Treatment/Water#^743482|creates problems in boilers]]
+Elaborating how it [[Chemistry_s/Applied Chemistry/Water Treatment/Water#^743482|creates problems in boilers]]
 
 # Sludge and Scale formation
 On continuous evaporation on hard water in boilers, the salts present in it get saturated and are finally deposited in the areas where the flow is slow.

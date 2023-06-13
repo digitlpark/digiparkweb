@@ -1,7 +1,7 @@
 ---
 title: Properties
 ---
-Properties of [[Chemistry/Polymers/Polymers|Polymers]]
+Properties of [[Chemistry_s/Applied Chemistry/Polymers/Polymers|Polymers]]
 1.  Strength:  
     
     1.  Strength of polymers increases with the chain length or the molecular weight of the polymer.No molecular polymer are soft or gummy and they are also brittle at low temperatures. The mechanical strength of the polymers increases rapidly when the degree of polymerization is more than 150. High molecular weight polymers have more strength and more resistance to heat. The mechanical strength of any polymer also depends upon the nature of inter molecular forces present. 

@@ -1,7 +1,7 @@
 ---
 title: Treatment for Domestic Use
 ---
-Treatment for [[Chemistry/Water Treatment/Water#^1a9b58|domestic use]]
+Treatment for [[Chemistry_s/Applied Chemistry/Water Treatment/Water#^1a9b58|domestic use]]
 ## Requirements for drinking water
 1. Clear and Odourless and devoid of unpleasant taste.
 2. Devoid of heavy metals and arsenic

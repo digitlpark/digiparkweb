@@ -37,3 +37,9 @@ Expressed in ppm as CaCO₃
 	6. Concrete Making
 	7. Pharmaceutical Industry
 	8. Creates problems in Boilers ^743482
+
+# ToC
+1. [[Chemistry_s/Applied Chemistry/Water Treatment/Boilers|Boilers]]
+2. [[Chemistry_s/Applied Chemistry/Water Treatment/Softening of Water|Softening of Water]]
+3. [[Chemistry_s/Applied Chemistry/Water Treatment/Treatment for Domestic Use|Treatment for Domestic Use]]
+4. [[Chemistry_s/Applied Chemistry/Water Treatment/Chemical Analysis of Water|Chemical Analysis of Water]]

@@ -7,8 +7,8 @@ Resins: Binders used for plastics.
 These two terms are used synonymously.
 
 ### Types
-1. [[Chemistry/Polymers/Thermoplastics|Thermoplastic Resins]]
-2. [[Chemistry/Polymers/Thermosetting Resins|Thermosetting Resins]]
+1. [[Chemistry_s/Applied Chemistry/Polymers/Thermoplastics|Thermoplastic Resins]]
+2. [[Chemistry_s/Applied Chemistry/Polymers/Thermosetting Resins|Thermosetting Resins]]
 
 # Compounding
 Polymers are generally mixed with a wide variety of substances which impart a certain functionality or a desired property to the polymers. The finished product after the molding process is known as plastic.

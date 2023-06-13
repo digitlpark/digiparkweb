@@ -3,7 +3,7 @@ title: Molecular Weight and Degree
 ---
 # Molecular weight of a polymer
 
-There are different types of molecular weights of [[Chemistry/Polymers/Polymers|polymers]]
+There are different types of molecular weights of [[Chemistry_s/Applied Chemistry/Polymers/Polymers|polymers]]
 
 $N_i$: Number of molecules of mass $M_i$
 

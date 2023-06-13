@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md",
+                "file": "_index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "symmetric relation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Applied Chemistry/Applied Chemistry.md"
+                "file": "_index.md"
               }
             }
           }
@@ -166,40 +166,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "345eaaadd4a3b0c5",
+  "active": "b875bddaf08b5615",
   "lastOpenFiles": [
+    "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
+    "Math/Discrete Mathematics/Groups/Group.md",
+    "Math/Discrete Mathematics/Groups/Groups.md",
+    "Math/Discrete Mathematics/Groups/_index.md",
+    "Math/Discrete Mathematics/Discrete Mathematics.md",
+    "Chemistry_s/Applied Chemistry/Applied Chemistry.md",
     "_index.md",
-    "Math/Math1/Math 1.md",
-    "Chemistry/Applied Chemistry/Water Treatment/Water.md",
-    "Chemistry/Applied Chemistry/Water Treatment/Treatment for Domestic Use.md",
-    "Chemistry/Applied Chemistry/Water Treatment/Softening of Water.md",
-    "Chemistry/Applied Chemistry/Water Treatment/Questions.md",
-    "Chemistry/Applied Chemistry/Water Treatment/Boilers.md",
-    "Chemistry/Applied Chemistry/Water Treatment/Chemical Analysis of Water.md",
-    "Chemistry/Applied Chemistry/Polymers/Thermosetting Resins.md",
-    "Chemistry/Applied Chemistry/Polymers/Thermoplastics.md",
-    "Chemistry/Applied Chemistry/Polymers/Stereochemistry of Polymers.md",
-    "Chemistry/Applied Chemistry/Polymers/Rubber.md",
-    "Chemistry/Applied Chemistry/Polymers/Polymers.md",
-    "Chemistry/Applied Chemistry/Polymers/Properties.md",
-    "Chemistry/Applied Chemistry/Polymers/Plastics.md",
-    "Chemistry/Applied Chemistry/Polymers/Addition Polymerization.md",
-    "Chemistry/Applied Chemistry/Polymers/Molecular Weight and Degree.md",
-    "Chemistry/Applied Chemistry/Polymers/Condensation Polymerization.md",
-    "Chemistry/Applied Chemistry/Instrumental techniques/Potentiometry.md",
-    "Chemistry/Applied Chemistry/Instrumental techniques/pH-metry.md",
-    "Chemistry/Applied Chemistry/Chemistry of Materials/Chemistry of Materials.md",
-    "Chemistry/Applied Chemistry/Instrumental techniques/Conductometry.md",
-    "Chemistry/Applied Chemistry/Instrumental techniques/Calorimetry.md",
-    "Chemistry/Applied Chemistry/Chemistry of Materials/Nano materials.md",
-    "Chemistry/Applied Chemistry/Chemistry of Materials/Green Chemistry Principles.md",
-    "Chemistry/Applied Chemistry/Chemistry of Materials/Composite Material.md",
-    "Chemistry/Applied Chemistry/Water Treatment",
-    "Chemistry/Applied Chemistry/Polymers",
-    "Chemistry/Applied Chemistry/Instrumental techniques",
-    "Chemistry/Applied Chemistry/Chemistry of Materials",
-    "Chemistry/Applied Chemistry",
-    "Chemistry",
+    "Chemistry_s/Applied Chemistry/_index.md",
+    "Chemistry_s/Applied Chemistry/Chemistry of Materials/Chemistry of Materials.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Polymers.md",
+    "Chemistry_s/Applied Chemistry/Water Treatment/Water.md",
+    "Chemistry_s/Applied Chemistry/Water Treatment/Treatment for Domestic Use.md",
+    "Chemistry_s/Applied Chemistry/Water Treatment/Softening of Water.md",
+    "Chemistry_s/Applied Chemistry/Water Treatment/Questions.md",
+    "Chemistry_s/Applied Chemistry/Water Treatment/Chemical Analysis of Water.md",
+    "Chemistry_s/Applied Chemistry/Water Treatment/Boilers.md",
+    "Chemistry_s/Applied Chemistry/Water Treatment",
+    "Chemistry_s/Applied Chemistry/Polymers/Thermosetting Resins.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Thermoplastics.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Stereochemistry of Polymers.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Rubber.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Properties.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Plastics.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Molecular Weight and Degree.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Condensation Polymerization.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Addition Polymerization.md",
+    "Chemistry_s/Applied Chemistry/Polymers",
+    "Chemistry_s/Applied Chemistry/Instrumental techniques/Potentiometry.md",
+    "Chemistry_s/Applied Chemistry/Instrumental techniques",
+    "Chemistry_s/Applied Chemistry/Chemistry of Materials",
+    "Chemistry_s/Applied Chemistry",
+    "Chemistry_s",
     "New folder",
     "Applied Chemistry/Water Treatment",
     "Applied Chemistry/Polymers",
