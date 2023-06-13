@@ -5,7 +5,7 @@ https://youtu.be/UID893EosM8
 # # Local Extrema, Critical Points, & Saddle Points of Multivariable Functions
 Multivariable function: z=f(x,y)
 
-```mermaid
+{{< mermaid >}}
 graph TD
 
     A[Start] -->|fₓ=0 & f_y=0| B("Stationary points (x₀,y₀)")
@@ -25,4 +25,4 @@ graph TD
     G ---|like upward parabola| I["Local Min"]
 
     H ---|like downward parabola| J["Local Max"]
-```
+{{< /mermaid >}}

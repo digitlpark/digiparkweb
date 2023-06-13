@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mermaid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "Math/Math1/Stationary Points in Multivariable Functions.md"
               }
             }
           }
@@ -168,13 +169,13 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
+    "_index.md",
     "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
     "Math/Discrete Mathematics/Groups/Group.md",
     "Math/Discrete Mathematics/Groups/Groups.md",
     "Math/Discrete Mathematics/Groups/_index.md",
     "Math/Discrete Mathematics/Discrete Mathematics.md",
     "Chemistry_s/Applied Chemistry/Applied Chemistry.md",
-    "_index.md",
     "Chemistry_s/Applied Chemistry/_index.md",
     "Chemistry_s/Applied Chemistry/Chemistry of Materials/Chemistry of Materials.md",
     "Chemistry_s/Applied Chemistry/Polymers/Polymers.md",
