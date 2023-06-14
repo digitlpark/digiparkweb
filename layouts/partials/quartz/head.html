@@ -107,6 +107,7 @@ resources.Minify }}
     const pathBase = siteBaseURL.pathname;
     const pathWindow = window.location.pathname;
     const isHome = pathBase == pathWindow;
+    const isLocal2 = ({{$.Site.Data.graphConfig.localGraphVariation2}}).map(x=>pathBase+x).filter(x=>x==pathWindow).length>0;
 
     {{if $data.enableCodeBlockCopy | default $.Site.Params.enableCodeBlockCopy -}}
     addCopyButtons();
@@ -141,7 +142,7 @@ resources.Minify }}
           {{strings.TrimRight "/" .Site.BaseURL}},
           drawGlobal,
           {{$.Site.Data.graphConfig.paths}},
-          drawGlobal ? {{$.Site.Data.graphConfig.globalGraph}} : {{$.Site.Data.graphConfig.localGraph}}
+          drawGlobal ? {{$.Site.Data.graphConfig.globalGraph}} : (isLocal2 ? {{$.Site.Data.graphConfig.localGraph2}} : {{$.Site.Data.graphConfig.localGraph}})
         );
 
       }

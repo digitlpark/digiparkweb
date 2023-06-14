@@ -2,6 +2,7 @@
 # A different set of Local Graphs will be shown on sub pages.
 # if false, Local Graph will be default on every page as usual
 enableGlobalGraph: true
+localGraphVariation2: ["Math/Discrete-Mathematics/Discrete-Mathematics/","Chemistry_s/Applied-Chemistry/Applied-Chemistry/"]
 
 ### Local Graph ###
 
@@ -10,6 +11,21 @@ localGraph:
     enableDrag: true
     enableZoom: true
     depth: 1 # set to -1 to show full graph
+    scale: 1.2
+    repelForce: 2
+    centerForce: 1
+    linkDistance: 1
+    fontSize: 0.6
+    opacityScale: 3
+
+### Local Graph Variation###
+
+localGraph2:
+    enableLegend: false
+    enableDrag: true
+    enableZoom: true
+    depth: 1 # set to -1 to show full graph
+    excludeBacklinks: false
     scale: 1.2
     repelForce: 2
     centerForce: 1

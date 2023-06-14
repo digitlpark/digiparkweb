@@ -463,8 +463,8 @@
   },
   "/Math/Math1/Stationary-Points-in-Multivariable-Functions": {
     "title": "Stationary Points in Multivariable Functions",
-    "content": "https://youtu.be/UID893EosM8\n# # Local Extrema, Critical Points, \u0026 Saddle Points of Multivariable Functions\nMultivariable function: z=f(x,y)\n\n\n{{\u003c/* mermaid [class=\"text-center\"]*/\u003e}}\nstateDiagram-v2\n    State1: The state with a note\n    note right of State1\n        Important information! You can write\n        notes.\n    end note\n    State1 --\u003e State2\n    note left of State2 : This is the note to the left.\n{{\u003c/* /mermaid */\u003e}}\n",
-    "lastmodified": "2023-06-14T04:51:41.81527+05:30",
+    "content": "https://youtu.be/UID893EosM8\n# # Local Extrema, Critical Points, \u0026 Saddle Points of Multivariable Functions\nMultivariable function: z=f(x,y)\n\n{{\u003c mermaid \u003e}}\ngraph TD\n\n    A[Start] --\u003e|fₓ=0 \u0026 f_y=0| B(\"Stationary points (x₀,y₀)\")\n\n    B --\u003e C[D=rt-s^2=f_xxf_yy-f_xy^2]\n\n    C --\u003eD[D\u003e0]\n\n    C --\u003eE[D\u003c0]\n\n    E --\u003eF[Saddle Point]\n\n    D --\u003eG[\"f_xx\u003e0\"]\n\n    D --\u003eH[\"f_xx\u003c0\"]\n\n    G ---|like upward parabola| I[\"Local Min\"]\n\n    H ---|like downward parabola| J[\"Local Max\"]\n{{\u003c /mermaid \u003e}}\n",
+    "lastmodified": "2023-06-14T04:55:23.3811506+05:30",
     "tags": []
   },
   "/Math/Math1/Synthetic-Division": {

@@ -7,7 +7,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   opacityScale,
   scale,
   repelForce,
-  fontSize} = graphConfig;
+  fontSize,
+  excludeBacklinks} = graphConfig;
 
   const container = document.getElementById("graph-container")
   const { index, links, content } = await fetchData
@@ -35,10 +36,16 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         depth--
         wl.push("__SENTINEL")
       } else {
-        neighbours.add(cur)
-        const outgoing = index.links[cur] || []
-        const incoming = index.backlinks[cur] || []
-        wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
+        if (excludeBacklinks){
+          neighbours.add(cur)
+          const outgoing = index.links[cur] || []
+          wl.push(...outgoing.map((l) => l.target))
+        } else {
+          neighbours.add(cur)
+          const outgoing = index.links[cur] || []
+          const incoming = index.backlinks[cur] || []
+          wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
+        }
       }
     }
   } else {
