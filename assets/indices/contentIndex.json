@@ -1,8 +1,8 @@
 {
   "/": {
     "title": "Garden 🌱",
-    "content": "\r\n🔢Math\r\n* [[Math/Math1/Math 1|Math 1]]\r\n* [[Math/Discrete Mathematics/Discrete Mathematics|Discrete Mathematics]]\r\n\r\nChemistry\r\n* [[Chemistry_s/Applied Chemistry/Applied Chemistry|Applied Chemistry]]",
-    "lastmodified": "2023-06-17T16:33:20.2297097+05:30",
+    "content": "\n🔢Math\n* [[Math/Math1/Math 1|Math 1]]\n* [[Math/Discrete Mathematics/Discrete Mathematics|Discrete Mathematics]]\n\nChemistry\n* [[Chemistry_s/Applied Chemistry/Applied Chemistry|Applied Chemistry]]",
+    "lastmodified": "2023-06-17T16:35:34.7305404+05:30",
     "tags": []
   },
   "/Chemistry_s/Applied-Chemistry/": {
@@ -194,13 +194,13 @@
   "/Math/Discrete-Mathematics/": {
     "title": "Discrete Mathematics",
     "content": "Table of Contents: [[Math/Discrete Mathematics/Discrete Mathematics|ToC]]",
-    "lastmodified": "2023-06-17T16:33:20.2031649+05:30",
+    "lastmodified": "2023-06-17T16:38:02.8056343+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Discrete-Mathematics": {
     "title": "Table of Contents",
-    "content": "# Files\r\n\r\nhttps://youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3\r\n\r\n# Intro to Set Theory\r\nhttps://youtu.be/QMutqqG7CJE?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Intro to Set Theory|Intro to Set Theory]]\r\n\r\n# Power Set\r\nhttps://youtu.be/EaupQhQ4dsw?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Power Set|Power Set]]\r\n\r\n# Relation\r\nhttps://youtu.be/a81yyR60N3k?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Relation/Relation]]\r\n\r\n# Introduction to Group Theory\r\nhttps://youtu.be/K6gRKzkd1mI?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Groups/Intro to Group Theory]]\r\n\r\n# Functions\r\nhttps://youtu.be/CClqErMJ-38?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Functions/Functions]]",
-    "lastmodified": "2023-06-17T16:33:20.1918004+05:30",
+    "content": "# Files\n\nhttps://youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3\n\n# Intro to Set Theory\nhttps://youtu.be/QMutqqG7CJE?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Intro to Set Theory|Intro to Set Theory]]\n\n# Power Set\nhttps://youtu.be/EaupQhQ4dsw?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Power Set|Power Set]]\n\n# Relation\nhttps://youtu.be/a81yyR60N3k?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Relation/Relation]]\n\n# Introduction to Group Theory\nhttps://youtu.be/K6gRKzkd1mI?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Groups/Intro to Group Theory]]\n\n# Functions\nhttps://youtu.be/CClqErMJ-38?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Functions/Functions]]",
+    "lastmodified": "2023-06-17T16:37:51.5849393+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Equivalence-Class": {
@@ -385,8 +385,8 @@
   },
   "/Math/Math1/": {
     "title": "Math 1",
-    "content": "# Files\n- [[Math/Math1/Approximating functions z=f(x,y)]]\n- [[Math/Math1/Approximating functions]]\n- [[Math/Math1/Coordinate systems for integration]]\n- [[Math/Math1/Curvature]]\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\n- [[Math/Math1/Curve Tracing]]\n- [[Math/Math1/Euler's Theorem]]\n- [[Math/Math1/Gamma and Beta Functions]]\n- [[Math/Math1/Gaussian Integral (half factorial)]]\n- [[Math/Math1/Jacobian]]\n- [[Math/Math1/Lagrange's Multipliers]]\n- [[Math/Math1/nth derivative]]\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\n- [[Math/Math1/Synthetic Division]]\n- [[Math/Math1/Tangent and Normal]]\n- [[Math/Math1/Trig and hyperbolic functions]]",
-    "lastmodified": "2023-06-17T16:26:48.611482+05:30",
+    "content": "Table of Contents: [[Math/Math1/Math 1|ToC]]",
+    "lastmodified": "2023-06-17T16:39:00.6048505+05:30",
     "tags": []
   },
   "/Math/Math1/Approximating-functions": {
@@ -463,8 +463,8 @@
   },
   "/Math/Math1/Math-1": {
     "title": "Table of Contents",
-    "content": "# Files\r\n- [[Math/Math1/Approximating functions z=f(x,y)]]\r\n- [[Math/Math1/Approximating functions]]\r\n- [[Math/Math1/Coordinate systems for integration]]\r\n- [[Math/Math1/Curvature]]\r\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\r\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\r\n- [[Math/Math1/Curve Tracing]]\r\n- [[Math/Math1/Euler's Theorem]]\r\n- [[Math/Math1/Gamma and Beta Functions]]\r\n- [[Math/Math1/Gaussian Integral (half factorial)]]\r\n- [[Math/Math1/Jacobian]]\r\n- [[Math/Math1/Lagrange's Multipliers]]\r\n- [[Math/Math1/nth derivative]]\r\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\r\n- [[Math/Math1/Synthetic Division]]\r\n- [[Math/Math1/Tangent and Normal]]\r\n- [[Math/Math1/Trig and hyperbolic functions]]",
-    "lastmodified": "2023-06-17T16:33:20.2155611+05:30",
+    "content": "# Files\n- [[Math/Math1/Approximating functions z=f(x,y)]]\n- [[Math/Math1/Approximating functions]]\n- [[Math/Math1/Coordinate systems for integration]]\n- [[Math/Math1/Curvature]]\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\n- [[Math/Math1/Curve Tracing]]\n- [[Math/Math1/Euler's Theorem]]\n- [[Math/Math1/Gamma and Beta Functions]]\n- [[Math/Math1/Gaussian Integral (half factorial)]]\n- [[Math/Math1/Jacobian]]\n- [[Math/Math1/Lagrange's Multipliers]]\n- [[Math/Math1/nth derivative]]\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\n- [[Math/Math1/Synthetic Division]]\n- [[Math/Math1/Tangent and Normal]]\n- [[Math/Math1/Trig and hyperbolic functions]]",
+    "lastmodified": "2023-06-17T16:38:20.3206614+05:30",
     "tags": []
   },
   "/Math/Math1/Stationary-Points-in-Multivariable-Functions": {
