@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
+                "file": "Math/Math1/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
+                "file": "Math/Math1/_index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
+                "file": "Math/Math1/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md",
+                "file": "Math/Math1/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Math1/Stationary Points in Multivariable Functions.md"
+                "file": "Math/Math1/_index.md"
               }
             }
           }
@@ -170,13 +169,18 @@
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
     "_index.md",
+    "Math/Math1/Math 1.md",
+    "Math/Discrete Mathematics/Discrete Mathematics.md",
+    "Chemistry_s/Applied Chemistry/Applied Chemistry.md",
+    "Chemistry_s/Applied Chemistry/_index.md",
+    "Math/Math1/_index.md",
+    "Math/Discrete Mathematics/_index.md",
+    "Math/Discrete Mathematics/Relation/_index.md",
+    "Math/Math1/Stationary Points in Multivariable Functions.md",
     "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
     "Math/Discrete Mathematics/Groups/Group.md",
     "Math/Discrete Mathematics/Groups/Groups.md",
     "Math/Discrete Mathematics/Groups/_index.md",
-    "Math/Discrete Mathematics/Discrete Mathematics.md",
-    "Chemistry_s/Applied Chemistry/Applied Chemistry.md",
-    "Chemistry_s/Applied Chemistry/_index.md",
     "Chemistry_s/Applied Chemistry/Chemistry of Materials/Chemistry of Materials.md",
     "Chemistry_s/Applied Chemistry/Polymers/Polymers.md",
     "Chemistry_s/Applied Chemistry/Water Treatment/Water.md",
@@ -191,12 +195,7 @@
     "Chemistry_s/Applied Chemistry/Polymers/Stereochemistry of Polymers.md",
     "Chemistry_s/Applied Chemistry/Polymers/Rubber.md",
     "Chemistry_s/Applied Chemistry/Polymers/Properties.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Plastics.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Molecular Weight and Degree.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Condensation Polymerization.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Addition Polymerization.md",
     "Chemistry_s/Applied Chemistry/Polymers",
-    "Chemistry_s/Applied Chemistry/Instrumental techniques/Potentiometry.md",
     "Chemistry_s/Applied Chemistry/Instrumental techniques",
     "Chemistry_s/Applied Chemistry/Chemistry of Materials",
     "Chemistry_s/Applied Chemistry",

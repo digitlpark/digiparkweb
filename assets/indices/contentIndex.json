@@ -1,20 +1,20 @@
 {
   "/": {
     "title": "Garden 🌱",
-    "content": "\n🔢Math\n* [[Math/Math1/Math 1|Math 1]]\n* [[Math/Discrete Mathematics/Discrete Mathematics|Discrete Mathematics]]\n\nChemistry\n* [[Chemistry_s/Applied Chemistry/Applied Chemistry|Applied Chemistry]]",
-    "lastmodified": "2023-06-13T13:42:37.6844436+05:30",
+    "content": "\r\n🔢Math\r\n* [[Math/Math1/Math 1|Math 1]]\r\n* [[Math/Discrete Mathematics/Discrete Mathematics|Discrete Mathematics]]\r\n\r\nChemistry\r\n* [[Chemistry_s/Applied Chemistry/Applied Chemistry|Applied Chemistry]]",
+    "lastmodified": "2023-06-17T16:33:20.2297097+05:30",
     "tags": []
   },
   "/Chemistry_s/Applied-Chemistry/": {
     "title": "Applied Chemistry",
     "content": "Table of Contents: [[Chemistry_s/Applied Chemistry/Applied Chemistry|ToC]]",
-    "lastmodified": "2023-06-13T13:35:36.3043325+05:30",
+    "lastmodified": "2023-06-17T16:33:20.1907975+05:30",
     "tags": []
   },
   "/Chemistry_s/Applied-Chemistry/Applied-Chemistry": {
     "title": "Table of Contents",
-    "content": "- [[Chemistry_s/Applied Chemistry/Water Treatment/Water|Water Treatment]]\n- [[Chemistry_s/Applied Chemistry/Polymers/Polymers|Polymers]]\n- [[Chemistry_s/Applied Chemistry/Chemistry of Materials/Chemistry of Materials|Chemistry of Materials]]\n- [[Chemistry_s/Applied Chemistry/Instrumental techniques/Instrumental Techniques|Instrumental Techniques]]\n- [[Chemistry_s/Applied Chemistry/Corrosion|Corrosion]]\n- [[Chemistry_s/Applied Chemistry/Dyes|Dyes]]\n- [[Chemistry_s/Applied Chemistry/Drugs|Drugs]]",
-    "lastmodified": "2023-06-13T13:37:13.6148449+05:30",
+    "content": "- [[Chemistry_s/Applied Chemistry/Water Treatment/Water|Water Treatment]]\r\n- [[Chemistry_s/Applied Chemistry/Polymers/Polymers|Polymers]]\r\n- [[Chemistry_s/Applied Chemistry/Chemistry of Materials/Chemistry of Materials|Chemistry of Materials]]\r\n- [[Chemistry_s/Applied Chemistry/Instrumental techniques/Instrumental Techniques|Instrumental Techniques]]\r\n- [[Chemistry_s/Applied Chemistry/Corrosion|Corrosion]]\r\n- [[Chemistry_s/Applied Chemistry/Dyes|Dyes]]\r\n- [[Chemistry_s/Applied Chemistry/Drugs|Drugs]]",
+    "lastmodified": "2023-06-17T16:33:20.1907975+05:30",
     "tags": []
   },
   "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Alloys": {
@@ -194,13 +194,13 @@
   "/Math/Discrete-Mathematics/": {
     "title": "Discrete Mathematics",
     "content": "Table of Contents: [[Math/Discrete Mathematics/Discrete Mathematics|ToC]]",
-    "lastmodified": "2023-05-31T07:59:42.313137+05:30",
+    "lastmodified": "2023-06-17T16:33:20.2031649+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Discrete-Mathematics": {
     "title": "Table of Contents",
-    "content": "# Files\n\nhttps://youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3\n\n# Intro to Set Theory\nhttps://youtu.be/QMutqqG7CJE?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Intro to Set Theory|Intro to Set Theory]]\n\n# Power Set\nhttps://youtu.be/EaupQhQ4dsw?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Power Set|Power Set]]\n\n# Relation\nhttps://youtu.be/a81yyR60N3k?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Relation/Relation]]\n\n# Introduction to Group Theory\nhttps://youtu.be/K6gRKzkd1mI?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Groups/Intro to Group Theory]]\n\n# Functions\nhttps://youtu.be/CClqErMJ-38?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Functions/Functions]]",
-    "lastmodified": "2023-06-11T21:43:25.5218324+05:30",
+    "content": "# Files\r\n\r\nhttps://youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3\r\n\r\n# Intro to Set Theory\r\nhttps://youtu.be/QMutqqG7CJE?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Intro to Set Theory|Intro to Set Theory]]\r\n\r\n# Power Set\r\nhttps://youtu.be/EaupQhQ4dsw?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Power Set|Power Set]]\r\n\r\n# Relation\r\nhttps://youtu.be/a81yyR60N3k?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Relation/Relation]]\r\n\r\n# Introduction to Group Theory\r\nhttps://youtu.be/K6gRKzkd1mI?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Groups/Intro to Group Theory]]\r\n\r\n# Functions\r\nhttps://youtu.be/CClqErMJ-38?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Functions/Functions]]",
+    "lastmodified": "2023-06-17T16:33:20.1918004+05:30",
     "tags": []
   },
   "/Math/Discrete-Mathematics/Equivalence-Class": {
@@ -383,6 +383,12 @@
     "lastmodified": "2023-06-13T11:40:34.5026297+05:30",
     "tags": []
   },
+  "/Math/Math1/": {
+    "title": "Math 1",
+    "content": "# Files\n- [[Math/Math1/Approximating functions z=f(x,y)]]\n- [[Math/Math1/Approximating functions]]\n- [[Math/Math1/Coordinate systems for integration]]\n- [[Math/Math1/Curvature]]\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\n- [[Math/Math1/Curve Tracing]]\n- [[Math/Math1/Euler's Theorem]]\n- [[Math/Math1/Gamma and Beta Functions]]\n- [[Math/Math1/Gaussian Integral (half factorial)]]\n- [[Math/Math1/Jacobian]]\n- [[Math/Math1/Lagrange's Multipliers]]\n- [[Math/Math1/nth derivative]]\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\n- [[Math/Math1/Synthetic Division]]\n- [[Math/Math1/Tangent and Normal]]\n- [[Math/Math1/Trig and hyperbolic functions]]",
+    "lastmodified": "2023-06-17T16:26:48.611482+05:30",
+    "tags": []
+  },
   "/Math/Math1/Approximating-functions": {
     "title": "Approximating functions",
     "content": "# Taylor Series\n* About x=a\n\t* $$f(x)=f(a)+\\frac{f'(a)}{1!}(x-a)^1+\\frac{f''(a)}{2!}(x-a)^2+...+\\frac{f^{'n}(a)}{n!}(x-a)^n+...$$\n* Approximating 'h' amount around 'a' (just another form)\n\t $$f(a+h)=f(a)+\\frac{f'(a)}{1!}(h)^1+\\frac{f''(a)}{2!}(h)^2+...$$\nThe [[Math/Math1/nth derivative]] of a function at a point is applicable here.\n\nThe series becomes a Maclaurin series if a=0\n\n# Maclaurin series of common functions\n$$\ne^x=1+x+\\frac{x^2}{2!}+\\frac{x^3}{3!}+\\frac{x^4}{4!}+...\n$$\n$$\n\\sin(x) = x-\\frac{x^3}{3!}+\\frac{x^5}{5!}-\\frac{x^7}{7!}+...\n$$\n$$\n\\cos(x) = 1-\\frac{x^2}{2!}+\\frac{x^4}{4!}-\\frac{x^6}{6!}\n$$\n$$\nln(1+x)=x-\\frac{x^2}{2}+\\frac{x^3}{3}-\\frac{x^4}{4}\n$$\n$$\ntan^{-1}(x)=x-\\frac{x^3}{3}+\\frac{x^5}{5}-\\frac{x^7}{7}\n$$\n",
@@ -457,8 +463,8 @@
   },
   "/Math/Math1/Math-1": {
     "title": "Table of Contents",
-    "content": "# Files\n- [[Math/Math1/Approximating functions z=f(x,y)]]\n- [[Math/Math1/Approximating functions]]\n- [[Math/Math1/Coordinate systems for integration]]\n- [[Math/Math1/Curvature]]\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\n- [[Math/Math1/Curve Tracing]]\n- [[Math/Math1/Euler's Theorem]]\n- [[Math/Math1/Gamma and Beta Functions]]\n- [[Math/Math1/Gaussian Integral (half factorial)]]\n- [[Math/Math1/Jacobian]]\n- [[Math/Math1/Lagrange's Multipliers]]\n- [[Math/Math1/nth derivative]]\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\n- [[Math/Math1/Synthetic Division]]\n- [[Math/Math1/Tangent and Normal]]\n- [[Math/Math1/Trig and hyperbolic functions]]",
-    "lastmodified": "2023-06-11T21:01:28.2049589+05:30",
+    "content": "# Files\r\n- [[Math/Math1/Approximating functions z=f(x,y)]]\r\n- [[Math/Math1/Approximating functions]]\r\n- [[Math/Math1/Coordinate systems for integration]]\r\n- [[Math/Math1/Curvature]]\r\n- [[Math/Math1/Curve Tracing f(r,θ)=0]]\r\n- [[Math/Math1/Curve Tracing f(x,y)=0]]\r\n- [[Math/Math1/Curve Tracing]]\r\n- [[Math/Math1/Euler's Theorem]]\r\n- [[Math/Math1/Gamma and Beta Functions]]\r\n- [[Math/Math1/Gaussian Integral (half factorial)]]\r\n- [[Math/Math1/Jacobian]]\r\n- [[Math/Math1/Lagrange's Multipliers]]\r\n- [[Math/Math1/nth derivative]]\r\n- [[Math/Math1/Stationary Points in Multivariable Functions]]\r\n- [[Math/Math1/Synthetic Division]]\r\n- [[Math/Math1/Tangent and Normal]]\r\n- [[Math/Math1/Trig and hyperbolic functions]]",
+    "lastmodified": "2023-06-17T16:33:20.2155611+05:30",
     "tags": []
   },
   "/Math/Math1/Stationary-Points-in-Multivariable-Functions": {

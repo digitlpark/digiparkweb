@@ -1,0 +1,22 @@
+---
+bookCollapseSection: true
+title: Math 1
+---
+# Files
+- [[Math/Math1/Approximating functions z=f(x,y)]]
+- [[Math/Math1/Approximating functions]]
+- [[Math/Math1/Coordinate systems for integration]]
+- [[Math/Math1/Curvature]]
+- [[Math/Math1/Curve Tracing f(r,θ)=0]]
+- [[Math/Math1/Curve Tracing f(x,y)=0]]
+- [[Math/Math1/Curve Tracing]]
+- [[Math/Math1/Euler's Theorem]]
+- [[Math/Math1/Gamma and Beta Functions]]
+- [[Math/Math1/Gaussian Integral (half factorial)]]
+- [[Math/Math1/Jacobian]]
+- [[Math/Math1/Lagrange's Multipliers]]
+- [[Math/Math1/nth derivative]]
+- [[Math/Math1/Stationary Points in Multivariable Functions]]
+- [[Math/Math1/Synthetic Division]]
+- [[Math/Math1/Tangent and Normal]]
+- [[Math/Math1/Trig and hyperbolic functions]]
