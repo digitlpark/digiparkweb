@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math1/_index.md",
+                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math1/_index.md",
+                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "photoele",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "right": {
     "id": "aaa8c4f2fb344501",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Math1/_index.md",
+                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Math1/_index.md",
+                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Math1/_index.md"
+                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md"
               }
             }
           }
@@ -168,42 +168,42 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
-    "Math/Discrete Mathematics/_index.md",
-    "Math/Math1/Math 1.md",
-    "Math/Math1/_index.md",
+    "Physics/Quantum Mechanics/ARP19 AP83/ARP19 AP83.md",
+    "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
+    "Physics/Quantum Mechanics/ARP19 AP83/1. Blackbody Radiation.md",
+    "Physics/Quantum Mechanics/Particle Properties of Waves/3. Photoelectric Effect.md",
+    "Physics/Quantum Mechanics/ARP19 AP83/2. Photoelectric Effect.md",
+    "Math/Discrete Mathematics/Relation/Relation.md",
     "Math/Discrete Mathematics/Discrete Mathematics.md",
     "_index.md",
-    "Chemistry_s/Applied Chemistry/Applied Chemistry.md",
-    "Chemistry_s/Applied Chemistry/_index.md",
-    "Math/Discrete Mathematics/Relation/_index.md",
-    "Math/Math1/Stationary Points in Multivariable Functions.md",
-    "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
-    "Math/Discrete Mathematics/Groups/Group.md",
-    "Math/Discrete Mathematics/Groups/Groups.md",
-    "Math/Discrete Mathematics/Groups/_index.md",
-    "Chemistry_s/Applied Chemistry/Chemistry of Materials/Chemistry of Materials.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Polymers.md",
-    "Chemistry_s/Applied Chemistry/Water Treatment/Water.md",
-    "Chemistry_s/Applied Chemistry/Water Treatment/Treatment for Domestic Use.md",
-    "Chemistry_s/Applied Chemistry/Water Treatment/Softening of Water.md",
-    "Chemistry_s/Applied Chemistry/Water Treatment/Questions.md",
-    "Chemistry_s/Applied Chemistry/Water Treatment/Chemical Analysis of Water.md",
-    "Chemistry_s/Applied Chemistry/Water Treatment/Boilers.md",
-    "Chemistry_s/Applied Chemistry/Water Treatment",
-    "Chemistry_s/Applied Chemistry/Polymers/Thermosetting Resins.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Thermoplastics.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Stereochemistry of Polymers.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Rubber.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Properties.md",
-    "Chemistry_s/Applied Chemistry/Polymers",
-    "Chemistry_s/Applied Chemistry/Instrumental techniques",
-    "Chemistry_s/Applied Chemistry/Chemistry of Materials",
-    "Chemistry_s/Applied Chemistry",
-    "Chemistry_s",
-    "New folder",
-    "Applied Chemistry/Water Treatment",
-    "Applied Chemistry/Polymers",
-    "Applied Chemistry/Instrumental techniques",
+    "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
+    "Math/Math1/Approximating functions z=f(x,y).md",
+    "Math/Math1/Approximating functions.md",
+    "Physics/Lasers/1. Lasers Intro.md",
+    "Physics/Quantum Mechanics/_index.md",
+    "Physics/Quantum Mechanics/Particle Properties of Waves/_index.md",
+    "Physics/Quantum Mechanics/Quantum Mechanics.md",
+    "Physics/Quantum Mechanics/Schrodinger equation.md",
+    "Physics/Quantum Mechanics/Quantum Chemistry.md",
+    "Physics/Quantum Mechanics/Particle Properties of Waves/4. Light.md",
+    "Physics/Quantum Mechanics/Particle Properties of Waves/5. X-Rays.md",
+    "Physics/Quantum Mechanics/Particle Properties of Waves/2. Blackbody Radiation.md",
+    "Physics/Quantum Mechanics/Particle Properties of Waves/1. Electromagnetic Waves.md",
+    "Physics/Quantum Mechanics/ARP19 AP83/5. Wave Packets, Phase and Group Velocity.md",
+    "Physics/Quantum Mechanics/ARP19 AP83/4. Debroglie hypothesis, Electron's wave nature.md",
+    "Physics/Quantum Mechanics/ARP19 AP83/3. Bohr Atom and Specific Heats of Gases and Solids.md",
+    "Physics/Lasers/_index.md",
+    "Physics/Lasers/3. Fibre Optics.md",
+    "Physics/Quantum Mechanics/Particle Properties of Waves",
+    "Physics/Quantum Mechanics/ARP19 AP83",
+    "Physics/Quantum Mechanics",
+    "Physics/New folder",
+    "Physics/Electrodynamics",
+    "Physics/Classical Mechanics/3. Two body Central Force Problem",
+    "Physics/Classical Mechanics/2. Hamiltonian Dynamics",
+    "Physics/Classical Mechanics/1. Lagrangian Dynamics",
+    "Physics/Classical Mechanics",
+    "Physics/Lasers",
     "Pasted image 20230611205932.png",
     "files/Pasted image 20230306080935.png",
     "files/Pasted image 20230306080932.png"

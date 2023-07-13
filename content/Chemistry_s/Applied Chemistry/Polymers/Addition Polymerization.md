@@ -1,5 +1,6 @@
 ---
 title: Addition Polymerization
+weight: 2
 ---
 Three ways of addition polymerization
 1. Head to tail type

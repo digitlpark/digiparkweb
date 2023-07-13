@@ -1,5 +1,5 @@
 ---
-title: Curvature
+title: Quotient Set
 ---
 https://artofproblemsolving.com/wiki/index.php/Quotient_set
 

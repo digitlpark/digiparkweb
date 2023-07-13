@@ -1,5 +1,6 @@
 ---
 title: Potentiometry
+weight: 2
 ---
 It is a technique which is used to identiy and analyse metal or non metal ions by measuring potential difference
 

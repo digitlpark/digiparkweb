@@ -1,8 +1,7 @@
 ---
-title: Instrumental Techniques
+title: Table of Contents
 ---
 
-# ToC
 1. [[Chemistry_s/Applied Chemistry/Instrumental techniques/Conductometry|Conductometry]]
 2. [[Chemistry_s/Applied Chemistry/Instrumental techniques/Potentiometry|Potentiometry]]
 3. [[Chemistry_s/Applied Chemistry/Instrumental techniques/Calorimetry|Calorimetry]]

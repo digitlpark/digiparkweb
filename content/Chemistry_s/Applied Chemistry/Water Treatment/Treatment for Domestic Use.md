@@ -1,5 +1,6 @@
 ---
 title: Treatment for Domestic Use
+weight: 4
 ---
 Treatment for [[Chemistry_s/Applied Chemistry/Water Treatment/Water#^1a9b58|domestic use]]
 ## Requirements for drinking water

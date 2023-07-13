@@ -1,5 +1,6 @@
 ---
 title: Plastics
+weight: 6
 ---
 Plastics: They are a class of high polymers whcih can be moulded into any desired form by heat and pressure.
 Resins: Binders used for plastics.

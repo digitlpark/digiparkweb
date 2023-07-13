@@ -1,5 +1,6 @@
 ---
 title: Green Chemistry Principles
+weight: 4
 ---
   
 1.  Prevention of wastage in any form whether it is solvent, energy, or any form. 

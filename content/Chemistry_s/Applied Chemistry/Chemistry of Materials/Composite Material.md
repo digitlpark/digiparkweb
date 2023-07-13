@@ -1,5 +1,6 @@
 ---
 title: Composite Material
+weight: 2
 ---
 What are composite materials?  
 

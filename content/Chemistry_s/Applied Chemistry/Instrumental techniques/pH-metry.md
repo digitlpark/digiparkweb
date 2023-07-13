@@ -1,5 +1,6 @@
 ---
 title: pH metry
+weight: 4
 ---
 * Equivalence point: Point where no. of H+ ions = OH- ions
 

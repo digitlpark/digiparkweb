@@ -1,5 +1,6 @@
 ---
 title: Stereochemistry of Polymers
+weight: 4
 ---
 **_Tacticity_** describes the stereochemistry of the repeated units in polymer chains. It refers to how groups are arranged along the polymeric backbone of a chain.
 

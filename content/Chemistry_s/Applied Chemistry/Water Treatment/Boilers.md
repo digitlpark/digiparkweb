@@ -1,5 +1,6 @@
 ---
 title: Boilers
+weight: 2
 ---
 Elaborating how it [[Chemistry_s/Applied Chemistry/Water Treatment/Water#^743482|creates problems in boilers]]
 

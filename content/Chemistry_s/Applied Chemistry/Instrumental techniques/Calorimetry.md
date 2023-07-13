@@ -1,5 +1,6 @@
 ---
 title: Calorimetry
+weight: 3
 ---
 1.  Beer's law: It states that the amount of light absorbed by a substance is directly proportional to the concentration of solution. 
 	1. It states that when a monochromatic beam of radiation passes through the light absorbing medium the rate of decrease of intensity of light with respect to the thickness of the medium is directly proportional to the no. density of the light absorbing medium $$-\frac{dI}{dx}\propto c$$

@@ -14,6 +14,26 @@
         },
         {
           "source": "/",
+          "target": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "text": "Classical Mechanics"
+        },
+        {
+          "source": "/",
+          "target": "/Physics/Electrodynamics/Electrodynamics",
+          "text": "Electrodynamics"
+        },
+        {
+          "source": "/",
+          "target": "/Physics/Lasers/Lasers",
+          "text": "Lasers"
+        },
+        {
+          "source": "/",
+          "target": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "text": "Quantum Mechanics"
+        },
+        {
+          "source": "/",
           "target": "/Chemistry_s/Applied-Chemistry/Applied-Chemistry",
           "text": "Applied Chemistry"
         }
@@ -28,7 +48,7 @@
       "/Chemistry_s/Applied-Chemistry/Applied-Chemistry": [
         {
           "source": "/Chemistry_s/Applied-Chemistry/Applied-Chemistry",
-          "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "text": "Water Treatment"
         },
         {
@@ -62,6 +82,13 @@
           "text": "Drugs"
         }
       ],
+      "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/": [
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/",
+          "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "text": "ToC"
+        }
+      ],
       "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials": [
         {
           "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
@@ -75,8 +102,20 @@
         },
         {
           "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Nano-materials",
+          "text": "Nano materials"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
           "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Green-Chemistry-Principles",
           "text": "Green Chemistry Principles"
+        }
+      ],
+      "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/": [
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/",
+          "target": "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/Instrumental-Techniques",
+          "text": "ToC"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/Instrumental-Techniques": [
@@ -101,10 +140,44 @@
           "text": "pH-metry"
         }
       ],
+      "/Chemistry_s/Applied-Chemistry/Polymers/": [
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
+          "text": "ToC"
+        }
+      ],
+      "/Chemistry_s/Applied-Chemistry/Polymers/Introduction": [
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Stereochemistry-of-Polymers",
+          "text": "Classification on the basis of tacticity"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermoplastics",
+          "text": "Thermoplastics"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins",
+          "text": "Thermosetting Plastics"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Addition-Polymerization",
+          "text": "Addition Polymers"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Condensation-Polymerization",
+          "text": "Condensation polymers"
+        }
+      ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree": [
         {
           "source": "/Chemistry_s/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
           "text": "polymers"
         }
       ],
@@ -121,31 +194,6 @@
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Polymers": [
-        {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Stereochemistry-of-Polymers",
-          "text": "Classification on the basis of tacticity"
-        },
-        {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermoplastics",
-          "text": "Thermoplastics"
-        },
-        {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins",
-          "text": "Thermosetting Plastics"
-        },
-        {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Addition-Polymerization",
-          "text": "Addition Polymers"
-        },
-        {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Condensation-Polymerization",
-          "text": "Condensation polymers"
-        },
         {
           "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
           "target": "/Chemistry_s/Applied-Chemistry/Polymers/Addition-Polymerization",
@@ -180,13 +228,25 @@
           "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
           "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins",
           "text": "Thermosetting Resins"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
+          "text": "Molecular Weight and Degree"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Properties": [
         {
           "source": "/Chemistry_s/Applied-Chemistry/Polymers/Properties",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "text": "Polymers"
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "text": "Introduction"
+        }
+      ],
+      "/Chemistry_s/Applied-Chemistry/Water-Treatment/": [
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/",
+          "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
+          "text": "ToC"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Water-Treatment/Boilers": [
@@ -210,24 +270,29 @@
           "text": "domestic use"
         }
       ],
-      "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water": [
+      "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment": [
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
+          "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "text": "Water"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Boilers",
           "text": "Boilers"
         },
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Softening-of-Water",
           "text": "Softening of Water"
         },
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Treatment-for-Domestic-Use",
           "text": "Treatment for Domestic Use"
         },
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Chemical-Analysis-of-Water",
           "text": "Chemical Analysis of Water"
         }
@@ -727,6 +792,177 @@
           "target": "/Math/Math1/Trig-and-hyperbolic-functions",
           "text": "Math/Math1/Trig and hyperbolic functions"
         }
+      ],
+      "/Physics/Classical-Mechanics/": [
+        {
+          "source": "/Physics/Classical-Mechanics/",
+          "target": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "text": "ToC"
+        }
+      ],
+      "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/": [
+        {
+          "source": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/",
+          "target": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/Lagrangian-Dynamics",
+          "text": "ToC"
+        }
+      ],
+      "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/1.-Degrees-of-Freedom-Constraints": [
+        {
+          "source": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/1.-Degrees-of-Freedom-Constraints",
+          "target": "/",
+          "text": "this"
+        }
+      ],
+      "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/": [
+        {
+          "source": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/",
+          "target": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics",
+          "text": "ToC"
+        }
+      ],
+      "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics": [
+        {
+          "source": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics",
+          "target": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Process-of-solving-using-the-Hamiltonian",
+          "text": "Process of solving using the Hamiltonian"
+        }
+      ],
+      "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/": [
+        {
+          "source": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/",
+          "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+          "text": "ToC"
+        }
+      ],
+      "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem": [
+        {
+          "source": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+          "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Formulae",
+          "text": "Formulae"
+        },
+        {
+          "source": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+          "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Virial-Theorem",
+          "text": "Virial Theorem"
+        }
+      ],
+      "/Physics/Classical-Mechanics/Classical-Mechanics": [
+        {
+          "source": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "target": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/Lagrangian-Dynamics",
+          "text": "Lagrangian Dynamics"
+        },
+        {
+          "source": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "target": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics",
+          "text": "Hamiltonian Dynamics"
+        },
+        {
+          "source": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+          "text": "Two body Central Force Problem"
+        }
+      ],
+      "/Physics/Electrodynamics/": [
+        {
+          "source": "/Physics/Electrodynamics/",
+          "target": "/Physics/Electrodynamics/Electrodynamics",
+          "text": "ToC"
+        }
+      ],
+      "/Physics/Electrodynamics/Electrodynamics": [
+        {
+          "source": "/Physics/Electrodynamics/Electrodynamics",
+          "target": "/Physics/Electrodynamics/Maxwells-Equations",
+          "text": "Maxwell's Equations"
+        },
+        {
+          "source": "/Physics/Electrodynamics/Electrodynamics",
+          "target": "/Physics/Electrodynamics/Polarization",
+          "text": "Polarization"
+        },
+        {
+          "source": "/Physics/Electrodynamics/Electrodynamics",
+          "target": "/Physics/Electrodynamics/Wave-equation",
+          "text": "Wave equation"
+        }
+      ],
+      "/Physics/Lasers/": [
+        {
+          "source": "/Physics/Lasers/",
+          "target": "/Physics/Lasers/Lasers",
+          "text": "ToC"
+        }
+      ],
+      "/Physics/Lasers/Lasers": [
+        {
+          "source": "/Physics/Lasers/Lasers",
+          "target": "/Physics/Lasers/Formulas-for-numericals",
+          "text": "Formulas for numericals"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/": [
+        {
+          "source": "/Physics/Quantum-Mechanics/",
+          "target": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "text": "ToC"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/ARP19-AP83/": [
+        {
+          "source": "/Physics/Quantum-Mechanics/ARP19-AP83/",
+          "target": "/Physics/Quantum-Mechanics/ARP19-AP83/ARP19-AP83",
+          "text": "ToC"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/ARP19-AP83/1.-Blackbody-Radiation": [
+        {
+          "source": "/Physics/Quantum-Mechanics/ARP19-AP83/1.-Blackbody-Radiation",
+          "target": "/",
+          "text": "#Stefan's Law"
+        },
+        {
+          "source": "/Physics/Quantum-Mechanics/ARP19-AP83/1.-Blackbody-Radiation",
+          "target": "/",
+          "text": "experiment"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/": [
+        {
+          "source": "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/",
+          "target": "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/Particle-Properties-of-Waves",
+          "text": "ToC"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/Quantum-Mechanics": [
+        {
+          "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "target": "/Physics/Quantum-Mechanics/Quantum-Chemistry",
+          "text": "Quantum Chemistry"
+        },
+        {
+          "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "target": "/Physics/Quantum-Mechanics/ARP19-AP83/ARP19-AP83",
+          "text": "ARP19 AP83"
+        },
+        {
+          "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "target": "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/Particle-Properties-of-Waves",
+          "text": "Particle Properties of Waves"
+        },
+        {
+          "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "target": "/Physics/Quantum-Mechanics/Schrodinger-equation",
+          "text": "Schrodinger equation"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/Schrodinger-equation": [
+        {
+          "source": "/Physics/Quantum-Mechanics/Schrodinger-equation",
+          "target": "/",
+          "text": "#Intuition behind the Energy Operator"
+        }
       ]
     },
     "backlinks": {
@@ -745,6 +981,26 @@
           "source": "/Math/Discrete-Mathematics/Relation/Relation",
           "target": "/",
           "text": "#Property"
+        },
+        {
+          "source": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/1.-Degrees-of-Freedom-Constraints",
+          "target": "/",
+          "text": "this"
+        },
+        {
+          "source": "/Physics/Quantum-Mechanics/ARP19-AP83/1.-Blackbody-Radiation",
+          "target": "/",
+          "text": "#Stefan's Law"
+        },
+        {
+          "source": "/Physics/Quantum-Mechanics/ARP19-AP83/1.-Blackbody-Radiation",
+          "target": "/",
+          "text": "experiment"
+        },
+        {
+          "source": "/Physics/Quantum-Mechanics/Schrodinger-equation",
+          "target": "/",
+          "text": "#Intuition behind the Energy Operator"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Applied-Chemistry": [
@@ -771,6 +1027,11 @@
           "source": "/Chemistry_s/Applied-Chemistry/Applied-Chemistry",
           "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
           "text": "Chemistry of Materials"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/",
+          "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "text": "ToC"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Composite-Material": [
@@ -785,6 +1046,13 @@
           "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
           "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Green-Chemistry-Principles",
           "text": "Green Chemistry Principles"
+        }
+      ],
+      "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Nano-materials": [
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+          "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Nano-materials",
+          "text": "Nano materials"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Corrosion": [
@@ -827,6 +1095,11 @@
           "source": "/Chemistry_s/Applied-Chemistry/Applied-Chemistry",
           "target": "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/Instrumental-Techniques",
           "text": "Instrumental Techniques"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/",
+          "target": "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/Instrumental-Techniques",
+          "text": "ToC"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/Potentiometry": [
@@ -845,7 +1118,7 @@
       ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Addition-Polymerization": [
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
           "target": "/Chemistry_s/Applied-Chemistry/Polymers/Addition-Polymerization",
           "text": "Addition Polymers"
         },
@@ -857,7 +1130,7 @@
       ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Condensation-Polymerization": [
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
           "target": "/Chemistry_s/Applied-Chemistry/Polymers/Condensation-Polymerization",
           "text": "Condensation polymers"
         },
@@ -865,6 +1138,25 @@
           "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
           "target": "/Chemistry_s/Applied-Chemistry/Polymers/Condensation-Polymerization",
           "text": "Condensation Polymerization"
+        }
+      ],
+      "/Chemistry_s/Applied-Chemistry/Polymers/Introduction": [
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "text": "polymers"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Properties",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "text": "Introduction"
+        }
+      ],
+      "/Chemistry_s/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree": [
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
+          "text": "Molecular Weight and Degree"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Plastics": [
@@ -881,14 +1173,9 @@
           "text": "Polymers"
         },
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/",
           "target": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "text": "polymers"
-        },
-        {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Properties",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "text": "Polymers"
+          "text": "ToC"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Properties": [
@@ -900,7 +1187,7 @@
       ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Stereochemistry-of-Polymers": [
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
           "target": "/Chemistry_s/Applied-Chemistry/Polymers/Stereochemistry-of-Polymers",
           "text": "Classification on the basis of tacticity"
         },
@@ -912,14 +1199,14 @@
       ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Thermoplastics": [
         {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermoplastics",
+          "text": "Thermoplastics"
+        },
+        {
           "source": "/Chemistry_s/Applied-Chemistry/Polymers/Plastics",
           "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermoplastics",
           "text": "Thermoplastic Resins"
-        },
-        {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermoplastics",
-          "text": "Thermoplastics"
         },
         {
           "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
@@ -929,14 +1216,14 @@
       ],
       "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins": [
         {
+          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins",
+          "text": "Thermosetting Plastics"
+        },
+        {
           "source": "/Chemistry_s/Applied-Chemistry/Polymers/Plastics",
           "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins",
           "text": "Thermosetting Resins"
-        },
-        {
-          "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-          "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins",
-          "text": "Thermosetting Plastics"
         },
         {
           "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
@@ -951,38 +1238,33 @@
           "text": "boilers"
         },
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Boilers",
           "text": "Boilers"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Water-Treatment/Chemical-Analysis-of-Water": [
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Chemical-Analysis-of-Water",
           "text": "Chemical Analysis of Water"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Water-Treatment/Softening-of-Water": [
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Softening-of-Water",
           "text": "Softening of Water"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Water-Treatment/Treatment-for-Domestic-Use": [
         {
-          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Treatment-for-Domestic-Use",
           "text": "Treatment for Domestic Use"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water": [
-        {
-          "source": "/Chemistry_s/Applied-Chemistry/Applied-Chemistry",
-          "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
-          "text": "Water Treatment"
-        },
         {
           "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Boilers",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
@@ -992,6 +1274,23 @@
           "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Treatment-for-Domestic-Use",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
           "text": "domestic use"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
+          "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+          "text": "Water"
+        }
+      ],
+      "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment": [
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Applied-Chemistry",
+          "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
+          "text": "Water Treatment"
+        },
+        {
+          "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/",
+          "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
+          "text": "ToC"
         }
       ],
       "/Math/Discrete-Mathematics/Discrete-Mathematics": [
@@ -1504,13 +1803,184 @@
           "target": "/Math/Math1/nth-derivative",
           "text": "Math/Math1/nth derivative"
         }
+      ],
+      "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/Lagrangian-Dynamics": [
+        {
+          "source": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/",
+          "target": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/Lagrangian-Dynamics",
+          "text": "ToC"
+        },
+        {
+          "source": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "target": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/Lagrangian-Dynamics",
+          "text": "Lagrangian Dynamics"
+        }
+      ],
+      "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics": [
+        {
+          "source": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/",
+          "target": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics",
+          "text": "ToC"
+        },
+        {
+          "source": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "target": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics",
+          "text": "Hamiltonian Dynamics"
+        }
+      ],
+      "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Process-of-solving-using-the-Hamiltonian": [
+        {
+          "source": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics",
+          "target": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Process-of-solving-using-the-Hamiltonian",
+          "text": "Process of solving using the Hamiltonian"
+        }
+      ],
+      "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Formulae": [
+        {
+          "source": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+          "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Formulae",
+          "text": "Formulae"
+        }
+      ],
+      "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem": [
+        {
+          "source": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/",
+          "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+          "text": "ToC"
+        },
+        {
+          "source": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+          "text": "Two body Central Force Problem"
+        }
+      ],
+      "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Virial-Theorem": [
+        {
+          "source": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+          "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Virial-Theorem",
+          "text": "Virial Theorem"
+        }
+      ],
+      "/Physics/Classical-Mechanics/Classical-Mechanics": [
+        {
+          "source": "/Physics/Classical-Mechanics/",
+          "target": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "text": "ToC"
+        },
+        {
+          "source": "/",
+          "target": "/Physics/Classical-Mechanics/Classical-Mechanics",
+          "text": "Classical Mechanics"
+        }
+      ],
+      "/Physics/Electrodynamics/Electrodynamics": [
+        {
+          "source": "/Physics/Electrodynamics/",
+          "target": "/Physics/Electrodynamics/Electrodynamics",
+          "text": "ToC"
+        },
+        {
+          "source": "/",
+          "target": "/Physics/Electrodynamics/Electrodynamics",
+          "text": "Electrodynamics"
+        }
+      ],
+      "/Physics/Electrodynamics/Maxwells-Equations": [
+        {
+          "source": "/Physics/Electrodynamics/Electrodynamics",
+          "target": "/Physics/Electrodynamics/Maxwells-Equations",
+          "text": "Maxwell's Equations"
+        }
+      ],
+      "/Physics/Electrodynamics/Polarization": [
+        {
+          "source": "/Physics/Electrodynamics/Electrodynamics",
+          "target": "/Physics/Electrodynamics/Polarization",
+          "text": "Polarization"
+        }
+      ],
+      "/Physics/Electrodynamics/Wave-equation": [
+        {
+          "source": "/Physics/Electrodynamics/Electrodynamics",
+          "target": "/Physics/Electrodynamics/Wave-equation",
+          "text": "Wave equation"
+        }
+      ],
+      "/Physics/Lasers/Formulas-for-numericals": [
+        {
+          "source": "/Physics/Lasers/Lasers",
+          "target": "/Physics/Lasers/Formulas-for-numericals",
+          "text": "Formulas for numericals"
+        }
+      ],
+      "/Physics/Lasers/Lasers": [
+        {
+          "source": "/Physics/Lasers/",
+          "target": "/Physics/Lasers/Lasers",
+          "text": "ToC"
+        },
+        {
+          "source": "/",
+          "target": "/Physics/Lasers/Lasers",
+          "text": "Lasers"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/ARP19-AP83/ARP19-AP83": [
+        {
+          "source": "/Physics/Quantum-Mechanics/ARP19-AP83/",
+          "target": "/Physics/Quantum-Mechanics/ARP19-AP83/ARP19-AP83",
+          "text": "ToC"
+        },
+        {
+          "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "target": "/Physics/Quantum-Mechanics/ARP19-AP83/ARP19-AP83",
+          "text": "ARP19 AP83"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/Particle-Properties-of-Waves": [
+        {
+          "source": "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/",
+          "target": "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/Particle-Properties-of-Waves",
+          "text": "ToC"
+        },
+        {
+          "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "target": "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/Particle-Properties-of-Waves",
+          "text": "Particle Properties of Waves"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/Quantum-Chemistry": [
+        {
+          "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "target": "/Physics/Quantum-Mechanics/Quantum-Chemistry",
+          "text": "Quantum Chemistry"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/Quantum-Mechanics": [
+        {
+          "source": "/Physics/Quantum-Mechanics/",
+          "target": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "text": "ToC"
+        },
+        {
+          "source": "/",
+          "target": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "text": "Quantum Mechanics"
+        }
+      ],
+      "/Physics/Quantum-Mechanics/Schrodinger-equation": [
+        {
+          "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+          "target": "/Physics/Quantum-Mechanics/Schrodinger-equation",
+          "text": "Schrodinger equation"
+        }
       ]
     }
   },
   "links": [
     {
       "source": "/Chemistry_s/Applied-Chemistry/Applied-Chemistry",
-      "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+      "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
       "text": "Water Treatment"
     },
     {
@@ -1555,8 +2025,18 @@
     },
     {
       "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+      "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Nano-materials",
+      "text": "Nano materials"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
       "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Green-Chemistry-Principles",
       "text": "Green Chemistry Principles"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/",
+      "target": "/Chemistry_s/Applied-Chemistry/Chemistry-of-Materials/Chemistry-of-Materials",
+      "text": "ToC"
     },
     {
       "source": "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/Instrumental-Techniques",
@@ -1579,8 +2059,38 @@
       "text": "pH-metry"
     },
     {
+      "source": "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/",
+      "target": "/Chemistry_s/Applied-Chemistry/Instrumental-techniques/Instrumental-Techniques",
+      "text": "ToC"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Stereochemistry-of-Polymers",
+      "text": "Classification on the basis of tacticity"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermoplastics",
+      "text": "Thermoplastics"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins",
+      "text": "Thermosetting Plastics"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Addition-Polymerization",
+      "text": "Addition Polymers"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Condensation-Polymerization",
+      "text": "Condensation polymers"
+    },
+    {
       "source": "/Chemistry_s/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
-      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
+      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
       "text": "polymers"
     },
     {
@@ -1592,31 +2102,6 @@
       "source": "/Chemistry_s/Applied-Chemistry/Polymers/Plastics",
       "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins",
       "text": "Thermosetting Resins"
-    },
-    {
-      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Stereochemistry-of-Polymers",
-      "text": "Classification on the basis of tacticity"
-    },
-    {
-      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermoplastics",
-      "text": "Thermoplastics"
-    },
-    {
-      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Thermosetting-Resins",
-      "text": "Thermosetting Plastics"
-    },
-    {
-      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Addition-Polymerization",
-      "text": "Addition Polymers"
-    },
-    {
-      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Condensation-Polymerization",
-      "text": "Condensation polymers"
     },
     {
       "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
@@ -1654,9 +2139,19 @@
       "text": "Thermosetting Resins"
     },
     {
+      "source": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
+      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Molecular-Weight-and-Degree",
+      "text": "Molecular Weight and Degree"
+    },
+    {
       "source": "/Chemistry_s/Applied-Chemistry/Polymers/Properties",
+      "target": "/Chemistry_s/Applied-Chemistry/Polymers/Introduction",
+      "text": "Introduction"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Polymers/",
       "target": "/Chemistry_s/Applied-Chemistry/Polymers/Polymers",
-      "text": "Polymers"
+      "text": "ToC"
     },
     {
       "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Boilers",
@@ -1674,24 +2169,34 @@
       "text": "domestic use"
     },
     {
-      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
+      "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+      "text": "Water"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
       "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Boilers",
       "text": "Boilers"
     },
     {
-      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
       "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Softening-of-Water",
       "text": "Softening of Water"
     },
     {
-      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
       "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Treatment-for-Domestic-Use",
       "text": "Treatment for Domestic Use"
     },
     {
-      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water",
+      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
       "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Chemical-Analysis-of-Water",
       "text": "Chemical Analysis of Water"
+    },
+    {
+      "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/",
+      "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
+      "text": "ToC"
     },
     {
       "source": "/Chemistry_s/Applied-Chemistry/",
@@ -2129,6 +2634,141 @@
       "text": "ToC"
     },
     {
+      "source": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/1.-Degrees-of-Freedom-Constraints",
+      "target": "/",
+      "text": "this"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/",
+      "target": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/Lagrangian-Dynamics",
+      "text": "ToC"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics",
+      "target": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Process-of-solving-using-the-Hamiltonian",
+      "text": "Process of solving using the Hamiltonian"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/",
+      "target": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics",
+      "text": "ToC"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+      "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Formulae",
+      "text": "Formulae"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+      "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Virial-Theorem",
+      "text": "Virial Theorem"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/",
+      "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+      "text": "ToC"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/Classical-Mechanics",
+      "target": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/Lagrangian-Dynamics",
+      "text": "Lagrangian Dynamics"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/Classical-Mechanics",
+      "target": "/Physics/Classical-Mechanics/2.-Hamiltonian-Dynamics/Hamiltonian-Dynamics",
+      "text": "Hamiltonian Dynamics"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/Classical-Mechanics",
+      "target": "/Physics/Classical-Mechanics/3.-Two-body-Central-Force-Problem/Two-body-Central-Force-Problem",
+      "text": "Two body Central Force Problem"
+    },
+    {
+      "source": "/Physics/Classical-Mechanics/",
+      "target": "/Physics/Classical-Mechanics/Classical-Mechanics",
+      "text": "ToC"
+    },
+    {
+      "source": "/Physics/Electrodynamics/Electrodynamics",
+      "target": "/Physics/Electrodynamics/Maxwells-Equations",
+      "text": "Maxwell's Equations"
+    },
+    {
+      "source": "/Physics/Electrodynamics/Electrodynamics",
+      "target": "/Physics/Electrodynamics/Polarization",
+      "text": "Polarization"
+    },
+    {
+      "source": "/Physics/Electrodynamics/Electrodynamics",
+      "target": "/Physics/Electrodynamics/Wave-equation",
+      "text": "Wave equation"
+    },
+    {
+      "source": "/Physics/Electrodynamics/",
+      "target": "/Physics/Electrodynamics/Electrodynamics",
+      "text": "ToC"
+    },
+    {
+      "source": "/Physics/Lasers/Lasers",
+      "target": "/Physics/Lasers/Formulas-for-numericals",
+      "text": "Formulas for numericals"
+    },
+    {
+      "source": "/Physics/Lasers/",
+      "target": "/Physics/Lasers/Lasers",
+      "text": "ToC"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/ARP19-AP83/1.-Blackbody-Radiation",
+      "target": "/",
+      "text": "#Stefan's Law"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/ARP19-AP83/1.-Blackbody-Radiation",
+      "target": "/",
+      "text": "experiment"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/ARP19-AP83/",
+      "target": "/Physics/Quantum-Mechanics/ARP19-AP83/ARP19-AP83",
+      "text": "ToC"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/",
+      "target": "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/Particle-Properties-of-Waves",
+      "text": "ToC"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+      "target": "/Physics/Quantum-Mechanics/Quantum-Chemistry",
+      "text": "Quantum Chemistry"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+      "target": "/Physics/Quantum-Mechanics/ARP19-AP83/ARP19-AP83",
+      "text": "ARP19 AP83"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+      "target": "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/Particle-Properties-of-Waves",
+      "text": "Particle Properties of Waves"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+      "target": "/Physics/Quantum-Mechanics/Schrodinger-equation",
+      "text": "Schrodinger equation"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/Schrodinger-equation",
+      "target": "/",
+      "text": "#Intuition behind the Energy Operator"
+    },
+    {
+      "source": "/Physics/Quantum-Mechanics/",
+      "target": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+      "text": "ToC"
+    },
+    {
       "source": "/",
       "target": "/Math/Math1/Math-1",
       "text": "Math 1"
@@ -2137,6 +2777,26 @@
       "source": "/",
       "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
       "text": "Discrete Mathematics"
+    },
+    {
+      "source": "/",
+      "target": "/Physics/Classical-Mechanics/Classical-Mechanics",
+      "text": "Classical Mechanics"
+    },
+    {
+      "source": "/",
+      "target": "/Physics/Electrodynamics/Electrodynamics",
+      "text": "Electrodynamics"
+    },
+    {
+      "source": "/",
+      "target": "/Physics/Lasers/Lasers",
+      "text": "Lasers"
+    },
+    {
+      "source": "/",
+      "target": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
+      "text": "Quantum Mechanics"
     },
     {
       "source": "/",

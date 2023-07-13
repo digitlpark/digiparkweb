@@ -1,5 +1,6 @@
 ---
 title: Chemical Analysis of Water
+weight: 5
 ---
 # Estimation of free chlorine
 

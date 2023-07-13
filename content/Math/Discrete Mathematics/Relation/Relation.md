@@ -26,7 +26,7 @@ https://youtu.be/1Vldmhfd8dk?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Dis
 ## Irreflexive Relation
 https://youtu.be/E7oaoettBpo?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Relation/Irreflexive Relation|Irreflexive Relation]]
 
-### Symmetric Relation
+## Symmetric Relation
 https://youtu.be/-6oHeRpVG_o?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3: [[Math/Discrete Mathematics/Relation/Symmetric Relation|Symmetric Relation]]
 
 ## Antisymmetric Relation

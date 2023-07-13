@@ -1,5 +1,6 @@
 ---
 title: Softening of Water
+weight: 3
 ---
 Removal of Calcium, magnesium, iron salts etc. to feed soft water into [[Chemistry_s/Applied Chemistry/Water Treatment/Boilers|boilers]]
 

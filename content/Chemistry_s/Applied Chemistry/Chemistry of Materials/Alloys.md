@@ -1,5 +1,6 @@
 ---
 title: Alloys
+weight: 1
 ---
 1. Gold 
 

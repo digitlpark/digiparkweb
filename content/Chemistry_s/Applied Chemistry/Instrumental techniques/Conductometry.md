@@ -1,5 +1,6 @@
 ---
 title: Conductometry
+weight: 1
 ---
 Equivalence point is not equal to end point. 
 
