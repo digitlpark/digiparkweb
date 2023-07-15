@@ -27,7 +27,7 @@ $\vec{dS}=\hat n dS$
 
 orientation of normal vector and C:
 
-![[Pasted image 20230615111046.png]]
+![stokes theorem](/images/Pasted image 20230615111046.png)
 
 # Green's Theorem
 

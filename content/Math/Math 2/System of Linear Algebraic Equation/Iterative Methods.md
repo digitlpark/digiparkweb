@@ -63,7 +63,7 @@ x^{k+1}=-D^{-1}(L+U)x^{k}+D^{-1}B
 \end{align*}
 $$
 
-![[Pasted image 20230624155212.png]]
+![decomposing square matrix](/images/Pasted image 20230624155212.png)
 A=L+D+U
 
 Can be easily calculated on a Casio 991MS calculator using

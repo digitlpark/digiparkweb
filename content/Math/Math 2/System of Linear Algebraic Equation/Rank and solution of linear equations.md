@@ -42,7 +42,7 @@ Augmented Matrix: $\bar A=(A|B)$
 	* Infinite: r< number of unknowns
 * Inconsistent $\text{rank}(A)\ne \bar A$
 
-![[Pasted image 20230623171644.png]]
+![consistency map](/images/Pasted image 20230623171644.png)
 
 ### For a Homogeneous System
 
