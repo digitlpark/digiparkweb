@@ -6,7 +6,7 @@ Polymers: Macromolecules of high molecular weight which are formed by linkage be
 
 Eg: Ethylene + Ethylene + ... = Polythene
 
-![examples](/images/Pasted image 20230105073753.png)
+![examples](/images/Pasted%20image%2020230105073753.png)
 
 # Types
 

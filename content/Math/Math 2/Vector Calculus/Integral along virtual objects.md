@@ -22,7 +22,7 @@ $$
 p̂: normal vector to the plane that we're projecting the surface against
 
 ## Example
-![area projection](/images/Pasted image 20230625181105.png)
+![area projection](/images/Pasted%20image%2020230625181105.png)
 
 Projection plane: x-y plane
 

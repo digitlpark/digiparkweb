@@ -30,6 +30,6 @@ https://readcivil.com/determination-alkalinity-water/
 5.  Titrate this again against the acid in the burette, till the yellow colour just turns orange-yellow.
 6.  Note the volume of titrant used (V2 ml)
 
-![img 1](/images/Pasted image 20230105093124.png)
-![img 2](/images/Pasted image 20230105093129.png)
+![img 1](/images/Pasted%20image%2020230105093124.png)
+![img 2](/images/Pasted%20image%2020230105093129.png)
 

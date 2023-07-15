@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Lasers/2. Lasers contd.md",
+                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,50 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Lasers/2. Lasers contd.md",
+                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md",
                 "mode": "preview",
                 "source": true
               }
             },
             "group": "e49af85fd404f7e4"
-          }
-        ]
-      },
-      {
-        "id": "63d300ea9517117c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "345eaaadd4a3b0c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "9dd25a5319c0e273"
-          }
-        ]
-      },
-      {
-        "id": "742fdc4a87c5e0fc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb748a188a757767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "9dd25a5319c0e273"
           }
         ]
       }
@@ -144,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Lasers/2. Lasers contd.md",
+                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Lasers/2. Lasers contd.md",
+                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Lasers/2. Lasers contd.md"
+                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md"
               }
             }
           }
@@ -207,8 +169,14 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
-    "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
+    "Math/Math1/Synthetic Division.md",
+    "Math/Math 2/System of Linear Algebraic Equation/Rank and solution of linear equations.md",
+    "Math/Math 2/System of Linear Algebraic Equation/Iterative Methods.md",
+    "Chemistry_s/Applied Chemistry/Polymers/Introduction.md",
+    "Math/Math 2/Vector Calculus/Integral along virtual objects.md",
+    "Chemistry_s/Applied Chemistry/Water Treatment/Chemical Analysis of Water.md",
     "Physics/Lasers/2. Lasers contd.md",
+    "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
     "images/Pasted image 20230304165653.png",
     "images/Pasted image 20230304165653.jpg",
     "Physics/Quantum Mechanics/Particle Properties of Waves/Particle Properties of Waves.md",
@@ -221,12 +189,6 @@
     "images/Pasted image 20230615111046.png",
     "images/Pasted image 20230306080935.png",
     "images/Pasted image 20230306080932.png",
-    "Chemistry_s/Applied Chemistry/Water Treatment/Chemical Analysis of Water.md",
-    "Math/Math 2/Vector Calculus/Integral along virtual objects.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Introduction.md",
-    "Math/Math 2/System of Linear Algebraic Equation/Iterative Methods.md",
-    "Math/Math 2/System of Linear Algebraic Equation/Rank and solution of linear equations.md",
-    "Math/Math1/Synthetic Division.md",
     "Physics/Electrodynamics/Polarization.md",
     "images",
     "Physics/Classical Mechanics/Classical Mechanics.md",
