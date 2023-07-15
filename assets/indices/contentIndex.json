@@ -1015,8 +1015,8 @@
   },
   "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/6.-Compton-Effect": {
     "title": "Compton Effect",
-    "content": "[[Physics/Quantum Mechanics/ARP19 AP83/4. Debroglie hypothesis, Electron's wave nature#Special relativity|Special relativity]]\n\n![Example config](/images/Screenshot_20230301-212509_Drive.jpg)\n\nWe can derive the relation by applying conservation of momentum and energy.\n\n$$\n\\begin{align}\n\\frac{hv}{c}+0=\\frac{hv'}{c}\\cos\\phi+p\\cos\\theta\\\\\n\\frac{hv'}{c}\\sin \\phi=p\\sinθ\\\\\n\\\\\n\\\\\nE=KE+mc^2=\\sqrt{m^2c^4+p^2c^2}\\\\ \\text{or} \\\\\n((hv-hv')+mc^2)^2=m^2c^4+p^2c^2\n\\end{align}\n$$\n\nRelation:\n\n$$\n\\begin{align}\n\\lambda '-\\lambda=\\frac{h}{mc}(1-\\cos\\phi)\\\\\n\\text{Compton wavelength: } \\lambda _C=\\frac{h}{mc}\n\\end{align}\n$$",
-    "lastmodified": "2023-07-15T17:12:27.3025135+05:30",
+    "content": "[[Physics/Quantum Mechanics/ARP19 AP83/4. Debroglie hypothesis, Electron's wave nature#Special relativity|Energy and Momentum relations]]\n\n![compton effect img](/images/Screenshot_20230301-212509_Drive.jpg)\n\nWe can derive the relation by applying conservation of momentum and energy.\n\n$$\n\\begin{align}\n\\frac{hv}{c}+0=\\frac{hv'}{c}\\cos\\phi+p\\cos\\theta\\\\\n\\frac{hv'}{c}\\sin \\phi=p\\sinθ\\\\\n\\\\\n\\\\\nE=KE+mc^2=\\sqrt{m^2c^4+p^2c^2}\\\\ \\text{or} \\\\\n((hv-hv')+mc^2)^2=m^2c^4+p^2c^2\n\\end{align}\n$$\n\nRelation:\n\n$$\n\\begin{align}\n\\lambda '-\\lambda=\\frac{h}{mc}(1-\\cos\\phi)\\\\\n\\text{Compton wavelength: } \\lambda _C=\\frac{h}{mc}\n\\end{align}\n$$",
+    "lastmodified": "2023-07-15T17:19:01.2948734+05:30",
     "tags": []
   },
   "/Physics/Quantum-Mechanics/Particle-Properties-of-Waves/Particle-Properties-of-Waves": {
