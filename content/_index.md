@@ -5,6 +5,7 @@ title: Garden 🌱
 🔢 Math
 * [[Math/Math1/Math 1|Math 1]]
 * [[Math/Discrete Mathematics/Discrete Mathematics|Discrete Mathematics]]
+* [[Math/Math 2/Math 2|Math 2]]
 
 🔭 Physics
 * [[Physics/Classical Mechanics/Classical Mechanics|Classical Mechanics]]

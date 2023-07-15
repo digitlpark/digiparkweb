@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
+                "file": "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,12 +32,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
+                "file": "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
                 "mode": "preview",
                 "source": true
               }
             },
             "group": "de97f37aa1ddfa76"
+          }
+        ]
+      },
+      {
+        "id": "11ec3888e81d8e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca663c9805bc632f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Math 2/Vector Calculus/Vector Calculus.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -68,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "photoele",
+                "query": "screenshot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,11 +103,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 305.5
   },
   "right": {
     "id": "aaa8c4f2fb344501",
@@ -105,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
+                "file": "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
+                "file": "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Quantum Mechanics/ARP19 AP83/_index.md"
+                "file": "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md"
               }
             }
           }
@@ -168,32 +187,35 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
-    "Physics/Quantum Mechanics/ARP19 AP83/ARP19 AP83.md",
-    "Physics/Quantum Mechanics/ARP19 AP83/_index.md",
-    "Physics/Quantum Mechanics/ARP19 AP83/1. Blackbody Radiation.md",
-    "Physics/Quantum Mechanics/Particle Properties of Waves/3. Photoelectric Effect.md",
-    "Physics/Quantum Mechanics/ARP19 AP83/2. Photoelectric Effect.md",
-    "Math/Discrete Mathematics/Relation/Relation.md",
-    "Math/Discrete Mathematics/Discrete Mathematics.md",
-    "_index.md",
-    "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
-    "Math/Math1/Approximating functions z=f(x,y).md",
-    "Math/Math1/Approximating functions.md",
-    "Physics/Lasers/1. Lasers Intro.md",
-    "Physics/Quantum Mechanics/_index.md",
-    "Physics/Quantum Mechanics/Particle Properties of Waves/_index.md",
-    "Physics/Quantum Mechanics/Quantum Mechanics.md",
-    "Physics/Quantum Mechanics/Schrodinger equation.md",
-    "Physics/Quantum Mechanics/Quantum Chemistry.md",
-    "Physics/Quantum Mechanics/Particle Properties of Waves/4. Light.md",
-    "Physics/Quantum Mechanics/Particle Properties of Waves/5. X-Rays.md",
-    "Physics/Quantum Mechanics/Particle Properties of Waves/2. Blackbody Radiation.md",
-    "Physics/Quantum Mechanics/Particle Properties of Waves/1. Electromagnetic Waves.md",
-    "Physics/Quantum Mechanics/ARP19 AP83/5. Wave Packets, Phase and Group Velocity.md",
-    "Physics/Quantum Mechanics/ARP19 AP83/4. Debroglie hypothesis, Electron's wave nature.md",
-    "Physics/Quantum Mechanics/ARP19 AP83/3. Bohr Atom and Specific Heats of Gases and Solids.md",
-    "Physics/Lasers/_index.md",
-    "Physics/Lasers/3. Fibre Optics.md",
+    "images/Screenshot_20230301-212509_Drive.jpg",
+    "Physics/Electrodynamics/Polarization.md",
+    "images",
+    "Physics/Classical Mechanics/Classical Mechanics.md",
+    "Physics/Classical Mechanics/_index.md",
+    "Physics/Classical Mechanics/1. Lagrangian Dynamics/Lagrangian Dynamics.md",
+    "Physics/Classical Mechanics/1. Lagrangian Dynamics/5. Generalizing Lagrange's Equations.md",
+    "Physics/Classical Mechanics/1. Lagrangian Dynamics/4. Lagrange's Equations.md",
+    "Physics/Classical Mechanics/1. Lagrangian Dynamics/3. D'Alembert's Principle.md",
+    "Physics/Classical Mechanics/1. Lagrangian Dynamics/2. Forces of Constraint and Virtual work.md",
+    "Physics/Classical Mechanics/1. Lagrangian Dynamics/1. Degrees of Freedom, Constraints.md",
+    "Physics/Classical Mechanics/1. Lagrangian Dynamics/_index.md",
+    "Math/Math 2/Vector Calculus/Vector Calculus.md",
+    "Math/Math 2/Vector Calculus/Directional Derivative.md",
+    "Math/Math 2/Vector Calculus/Vector algebra application.md",
+    "Math/Math 2/Vector Calculus/Theorems and applications.md",
+    "Math/Math 2/Vector Calculus/Integral along virtual objects.md",
+    "Math/Math 2/Vector Calculus/Divergence and Curl.md",
+    "Math/Math 2/Vector Calculus/Basic Definitions.md",
+    "Math/Math 2/System of Linear Algebraic Equation/Iterative Methods.md",
+    "Math/Math 2/System of Linear Algebraic Equation/System of Linear Algebraic Equation.md",
+    "Math/Math 2/System of Linear Algebraic Equation/Rank and solution of linear equations.md",
+    "Math/Math 2/System of Linear Algebraic Equation/Linear Independence of Vectors.md",
+    "Math/Math 2/System of Linear Algebraic Equation/Elementary Row operations.md",
+    "Math/Math 2/System of Linear Algebraic Equation/Echelon Form of a matrix.md",
+    "Math/Math 2/System of Linear Algebraic Equation/_index.md",
+    "Math/Math 2/Partial Differential Equation/Partial Differential Equation.md",
+    "Math/Math2",
+    "Pasted image 20230715071927.png",
     "Physics/Quantum Mechanics/Particle Properties of Waves",
     "Physics/Quantum Mechanics/ARP19 AP83",
     "Physics/Quantum Mechanics",
@@ -202,8 +224,6 @@
     "Physics/Classical Mechanics/3. Two body Central Force Problem",
     "Physics/Classical Mechanics/2. Hamiltonian Dynamics",
     "Physics/Classical Mechanics/1. Lagrangian Dynamics",
-    "Physics/Classical Mechanics",
-    "Physics/Lasers",
     "Pasted image 20230611205932.png",
     "files/Pasted image 20230306080935.png",
     "files/Pasted image 20230306080932.png"

@@ -14,6 +14,11 @@
         },
         {
           "source": "/",
+          "target": "/Math/Math-2/Math-2",
+          "text": "Math 2"
+        },
+        {
+          "source": "/",
           "target": "/Physics/Classical-Mechanics/Classical-Mechanics",
           "text": "Classical Mechanics"
         },
@@ -659,6 +664,459 @@
           "text": "relation"
         }
       ],
+      "/Math/Math-2/": [
+        {
+          "source": "/Math/Math-2/",
+          "target": "/Math/Math-2/Math-2",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/",
+          "target": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "Complementary functions are homogeneous"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+          "target": "/Differential-Operator",
+          "text": "because that changes nothing"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "linearly independent"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "Math/Math 2/Differential Equations/Linear Higher Order Differential Equations#Solution#Homogeneous"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Differential-Equations": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "text": "First order first degree"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+          "text": "Exact ODE and Integrating Factors"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+          "text": "Linear first order ODEs"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear",
+          "text": "First order higher degree (nonlinear)"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "Linear Higher Order Differential Equations"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "text": "Particular solution of linear higher order ODE"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Some-more-based-on-forms",
+          "text": "Some more based on forms"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "text": "Power Series solution"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Examples"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Frobenius-Method",
+          "text": "Frobenius Method"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+          "target": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "text": "M(x,y)dx+N(x,y)dy=0"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+          "target": "/Necessary-and-Sufficient-Condition",
+          "text": "necessary and sufficient condition"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Examples": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Examples",
+          "target": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "text": "Math/Math 2/Differential Equations/Particular solution of linear higher order ODE"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/First-order-first-degree": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "target": "/Math/Math-2/Mathematical-Modelling",
+          "text": "Mathematical Modelling"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "target": "/",
+          "text": "separable"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear",
+          "target": "/",
+          "text": "#Method 2: Equations solvable for x"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Frobenius-Method": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Frobenius-Method",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "linearly independent"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/Differential-Operator",
+          "text": "Differential Operator"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "Linear Dependence of Functions"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/",
+          "text": "#General form"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/",
+          "text": "general solution of the associated homogeneous equation"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "text": "Math/Math 2/Differential Equations/Particular solution of linear higher order ODE"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+          "target": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "text": "first order ODE"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+          "target": "/Exact-ODE-and-Integrating-Factors",
+          "text": "Exact ODE and Integrating Factors#If I.F. is a function of x"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "for the particular component of the general solution"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Math/Math 2/Differential Equations/Examples#2"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Math/Math 2/Differential Equations/Examples#3"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Math/Math 2/Differential Equations/Examples#4"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Math/Math 2/Differential Equations/Examples#5"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+          "text": "Math/Math 2/Differential Equations/Linear first order ODEs#Solution"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Power-Series-solution": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "target": "/Math/Math1/Approximating-functions",
+          "text": "taylor series expansion"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "target": "/",
+          "text": "#Regular singularity"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "linearly independent solutions"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "target": "/Math/Math-2/Differential-Equations/Frobenius-Method",
+          "text": "Frobenius Method"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Some-more-based-on-forms": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Some-more-based-on-forms",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "Linear Dependence of Functions#Wronskian"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Some-more-based-on-forms",
+          "target": "/",
+          "text": "#Cauchy Euler equation"
+        }
+      ],
+      "/Math/Math-2/Math-2": [
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "text": "Differential Equations"
+        },
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "text": "Partial Differential Equation"
+        },
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/Mathematical-Modelling",
+          "text": "Mathematical Modelling"
+        },
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "text": "System of Linear Algebraic Equation"
+        },
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "text": "Vector Calculus"
+        }
+      ],
+      "/Math/Math-2/Mathematical-Modelling": [
+        {
+          "source": "/Math/Math-2/Mathematical-Modelling",
+          "target": "/Curvature",
+          "text": "Curvature"
+        }
+      ],
+      "/Math/Math-2/Partial-Differential-Equation/": [
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/",
+          "target": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Math-2/Partial-Differential-Equation/Non-Linear-PDE-of-first-order": [
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Non-Linear-PDE-of-first-order",
+          "target": "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear",
+          "text": "First order higher degree (nonlinear))#Clairaut's Equation"
+        }
+      ],
+      "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation": [
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "target": "/Math/Math-2/Partial-Differential-Equation/PDE",
+          "text": "PDE"
+        },
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "target": "/Math/Math-2/Partial-Differential-Equation/Solving-linear-PDEs",
+          "text": "Solving linear PDEs"
+        },
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "target": "/Math/Math-2/Partial-Differential-Equation/Non-Linear-PDE-of-first-order",
+          "text": "Non Linear PDE of first order"
+        }
+      ],
+      "/Math/Math-2/Partial-Differential-Equation/Solving-linear-PDEs": [
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Solving-linear-PDEs",
+          "target": "/Math/Math-2/Partial-Differential-Equation/PDE",
+          "text": "Math/Math 2/Partial Differential Equation/PDE#Classification of a PDE"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods",
+          "target": "/",
+          "text": "#Gauss Jacobi Method"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "functions"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "text": "Math/Math 2/System of Linear Algebraic Equation/Rank and solution of linear equations#For a Homogeneous System"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "row echelon"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations",
+          "text": "elementary row operations"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations",
+          "text": "elementary row operations"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "Row-reduced echelon form"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "echelon form"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "row reduced echelon form"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods",
+          "text": "Iterative Methods"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "Echelon Form of a matrix"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations",
+          "text": "Elementary Row operations"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "text": "Rank and solution of linear equations"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods",
+          "text": "Iterative Methods"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
+          "text": "Linear Independence of Vectors"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/",
+          "target": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Basic-Definitions": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Basic-Definitions",
+          "target": "/",
+          "text": "#Scalar point function"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Theorems-and-applications": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Theorems-and-applications",
+          "target": "/",
+          "text": "#Stokes Theorem"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Vector-Calculus": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Basic-Definitions",
+          "text": "Basic Definitions"
+        },
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Directional-Derivative",
+          "text": "Directional Derivative"
+        },
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Divergence-and-Curl",
+          "text": "Divergence and Curl"
+        },
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Integral-along-virtual-objects",
+          "text": "Integral along virtual objects"
+        },
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Theorems-and-applications",
+          "text": "Theorems and applications"
+        },
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Vector-algebra-application",
+          "text": "Vector algebra application"
+        }
+      ],
       "/Math/Math1/": [
         {
           "source": "/Math/Math1/",
@@ -983,6 +1441,51 @@
           "text": "#Property"
         },
         {
+          "source": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "target": "/",
+          "text": "separable"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear",
+          "target": "/",
+          "text": "#Method 2: Equations solvable for x"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/",
+          "text": "#General form"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/",
+          "text": "general solution of the associated homogeneous equation"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "target": "/",
+          "text": "#Regular singularity"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Some-more-based-on-forms",
+          "target": "/",
+          "text": "#Cauchy Euler equation"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods",
+          "target": "/",
+          "text": "#Gauss Jacobi Method"
+        },
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Basic-Definitions",
+          "target": "/",
+          "text": "#Scalar point function"
+        },
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Theorems-and-applications",
+          "target": "/",
+          "text": "#Stokes Theorem"
+        },
+        {
           "source": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/1.-Degrees-of-Freedom-Constraints",
           "target": "/",
           "text": "this"
@@ -1291,6 +1794,59 @@
           "source": "/Chemistry_s/Applied-Chemistry/Water-Treatment/",
           "target": "/Chemistry_s/Applied-Chemistry/Water-Treatment/Water-Treatment",
           "text": "ToC"
+        }
+      ],
+      "/Curvature": [
+        {
+          "source": "/Math/Math-2/Mathematical-Modelling",
+          "target": "/Curvature",
+          "text": "Curvature"
+        }
+      ],
+      "/Differential-Operator": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+          "target": "/Differential-Operator",
+          "text": "because that changes nothing"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/Differential-Operator",
+          "text": "Differential Operator"
+        }
+      ],
+      "/Exact-ODE-and-Integrating-Factors": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+          "target": "/Exact-ODE-and-Integrating-Factors",
+          "text": "Exact ODE and Integrating Factors#If I.F. is a function of x"
+        }
+      ],
+      "/Linear-Dependence-of-Functions": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "linearly independent"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Frobenius-Method",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "linearly independent"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "Linear Dependence of Functions"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Some-more-based-on-forms",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "Linear Dependence of Functions#Wronskian"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
+          "target": "/Linear-Dependence-of-Functions",
+          "text": "functions"
         }
       ],
       "/Math/Discrete-Mathematics/Discrete-Mathematics": [
@@ -1643,7 +2199,372 @@
           "text": "Transitive Relation"
         }
       ],
+      "/Math/Math-2/Differential-Equations/Differential-Equations": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/",
+          "target": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "text": "ToC"
+        },
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "text": "Differential Equations"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+          "text": "Exact ODE and Integrating Factors"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Examples": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Examples"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Math/Math 2/Differential Equations/Examples#2"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Math/Math 2/Differential Equations/Examples#3"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Math/Math 2/Differential Equations/Examples#4"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Examples",
+          "text": "Math/Math 2/Differential Equations/Examples#5"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/First-order-first-degree": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "text": "First order first degree"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+          "target": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "text": "M(x,y)dx+N(x,y)dy=0"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+          "target": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "text": "first order ODE"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear",
+          "text": "First order higher degree (nonlinear)"
+        },
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Non-Linear-PDE-of-first-order",
+          "target": "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear",
+          "text": "First order higher degree (nonlinear))#Clairaut's Equation"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Frobenius-Method": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Frobenius-Method",
+          "text": "Frobenius Method"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "target": "/Math/Math-2/Differential-Equations/Frobenius-Method",
+          "text": "Frobenius Method"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "Complementary functions are homogeneous"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "Math/Math 2/Differential Equations/Linear Higher Order Differential Equations#Solution#Homogeneous"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "Linear Higher Order Differential Equations"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "for the particular component of the general solution"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "text": "linearly independent solutions"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+          "text": "Linear first order ODEs"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "target": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+          "text": "Math/Math 2/Differential Equations/Linear first order ODEs#Solution"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "text": "Particular solution of linear higher order ODE"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Examples",
+          "target": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "text": "Math/Math 2/Differential Equations/Particular solution of linear higher order ODE"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+          "text": "Math/Math 2/Differential Equations/Particular solution of linear higher order ODE"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Power-Series-solution": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "text": "Power Series solution"
+        }
+      ],
+      "/Math/Math-2/Differential-Equations/Some-more-based-on-forms": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+          "target": "/Math/Math-2/Differential-Equations/Some-more-based-on-forms",
+          "text": "Some more based on forms"
+        }
+      ],
+      "/Math/Math-2/Math-2": [
+        {
+          "source": "/Math/Math-2/",
+          "target": "/Math/Math-2/Math-2",
+          "text": "ToC"
+        },
+        {
+          "source": "/",
+          "target": "/Math/Math-2/Math-2",
+          "text": "Math 2"
+        }
+      ],
+      "/Math/Math-2/Mathematical-Modelling": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+          "target": "/Math/Math-2/Mathematical-Modelling",
+          "text": "Mathematical Modelling"
+        },
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/Mathematical-Modelling",
+          "text": "Mathematical Modelling"
+        }
+      ],
+      "/Math/Math-2/Partial-Differential-Equation/Non-Linear-PDE-of-first-order": [
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "target": "/Math/Math-2/Partial-Differential-Equation/Non-Linear-PDE-of-first-order",
+          "text": "Non Linear PDE of first order"
+        }
+      ],
+      "/Math/Math-2/Partial-Differential-Equation/PDE": [
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "target": "/Math/Math-2/Partial-Differential-Equation/PDE",
+          "text": "PDE"
+        },
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Solving-linear-PDEs",
+          "target": "/Math/Math-2/Partial-Differential-Equation/PDE",
+          "text": "Math/Math 2/Partial Differential Equation/PDE#Classification of a PDE"
+        }
+      ],
+      "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation": [
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "text": "Partial Differential Equation"
+        },
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/",
+          "target": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Math-2/Partial-Differential-Equation/Solving-linear-PDEs": [
+        {
+          "source": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+          "target": "/Math/Math-2/Partial-Differential-Equation/Solving-linear-PDEs",
+          "text": "Solving linear PDEs"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "row echelon"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "Row-reduced echelon form"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "echelon form"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "row reduced echelon form"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+          "text": "Echelon Form of a matrix"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations",
+          "text": "elementary row operations"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations",
+          "text": "elementary row operations"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations",
+          "text": "Elementary Row operations"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods",
+          "text": "Iterative Methods"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods",
+          "text": "Iterative Methods"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
+          "text": "Linear Independence of Vectors"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations": [
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "text": "Math/Math 2/System of Linear Algebraic Equation/Rank and solution of linear equations#For a Homogeneous System"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+          "text": "Rank and solution of linear equations"
+        }
+      ],
+      "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation": [
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "text": "System of Linear Algebraic Equation"
+        },
+        {
+          "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/",
+          "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Basic-Definitions": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Basic-Definitions",
+          "text": "Basic Definitions"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Directional-Derivative": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Directional-Derivative",
+          "text": "Directional Derivative"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Divergence-and-Curl": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Divergence-and-Curl",
+          "text": "Divergence and Curl"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Integral-along-virtual-objects": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Integral-along-virtual-objects",
+          "text": "Integral along virtual objects"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Theorems-and-applications": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Theorems-and-applications",
+          "text": "Theorems and applications"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Vector-Calculus": [
+        {
+          "source": "/Math/Math-2/Math-2",
+          "target": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "text": "Vector Calculus"
+        },
+        {
+          "source": "/Math/Math-2/Vector-Calculus/",
+          "target": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Math-2/Vector-Calculus/Vector-algebra-application": [
+        {
+          "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+          "target": "/Math/Math-2/Vector-Calculus/Vector-algebra-application",
+          "text": "Vector algebra application"
+        }
+      ],
       "/Math/Math1/Approximating-functions": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+          "target": "/Math/Math1/Approximating-functions",
+          "text": "taylor series expansion"
+        },
         {
           "source": "/Math/Math1/Approximating-functions-zfxy",
           "target": "/Math/Math1/Approximating-functions",
@@ -1802,6 +2723,13 @@
           "source": "/Math/Math1/Math-1",
           "target": "/Math/Math1/nth-derivative",
           "text": "Math/Math1/nth derivative"
+        }
+      ],
+      "/Necessary-and-Sufficient-Condition": [
+        {
+          "source": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+          "target": "/Necessary-and-Sufficient-Condition",
+          "text": "necessary and sufficient condition"
         }
       ],
       "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/Lagrangian-Dynamics": [
@@ -2514,6 +3442,401 @@
       "text": "ToC"
     },
     {
+      "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+      "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "text": "Complementary functions are homogeneous"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+      "target": "/Differential-Operator",
+      "text": "because that changes nothing"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+      "target": "/Linear-Dependence-of-Functions",
+      "text": "linearly independent"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
+      "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "text": "Math/Math 2/Differential Equations/Linear Higher Order Differential Equations#Solution#Homogeneous"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+      "text": "First order first degree"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+      "text": "Exact ODE and Integrating Factors"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+      "text": "Linear first order ODEs"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear",
+      "text": "First order higher degree (nonlinear)"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "text": "Linear Higher Order Differential Equations"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+      "text": "Particular solution of linear higher order ODE"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/Some-more-based-on-forms",
+      "text": "Some more based on forms"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+      "text": "Power Series solution"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/Examples",
+      "text": "Examples"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/Frobenius-Method",
+      "text": "Frobenius Method"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+      "target": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+      "text": "M(x,y)dx+N(x,y)dy=0"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+      "target": "/Necessary-and-Sufficient-Condition",
+      "text": "necessary and sufficient condition"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Examples",
+      "target": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+      "text": "Math/Math 2/Differential Equations/Particular solution of linear higher order ODE"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+      "target": "/Math/Math-2/Mathematical-Modelling",
+      "text": "Mathematical Modelling"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+      "target": "/",
+      "text": "separable"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear",
+      "target": "/",
+      "text": "#Method 2: Equations solvable for x"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Frobenius-Method",
+      "target": "/Linear-Dependence-of-Functions",
+      "text": "linearly independent"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "target": "/Differential-Operator",
+      "text": "Differential Operator"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "target": "/Linear-Dependence-of-Functions",
+      "text": "Linear Dependence of Functions"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "target": "/",
+      "text": "#General form"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "target": "/",
+      "text": "general solution of the associated homogeneous equation"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "target": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+      "text": "Math/Math 2/Differential Equations/Particular solution of linear higher order ODE"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+      "target": "/Math/Math-2/Differential-Equations/First-order-first-degree",
+      "text": "first order ODE"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+      "target": "/Exact-ODE-and-Integrating-Factors",
+      "text": "Exact ODE and Integrating Factors#If I.F. is a function of x"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+      "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "text": "for the particular component of the general solution"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+      "target": "/Math/Math-2/Differential-Equations/Examples",
+      "text": "Math/Math 2/Differential Equations/Examples#2"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+      "target": "/Math/Math-2/Differential-Equations/Examples",
+      "text": "Math/Math 2/Differential Equations/Examples#3"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+      "target": "/Math/Math-2/Differential-Equations/Examples",
+      "text": "Math/Math 2/Differential Equations/Examples#4"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+      "target": "/Math/Math-2/Differential-Equations/Examples",
+      "text": "Math/Math 2/Differential Equations/Examples#5"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Particular-solution-of-linear-higher-order-ODE",
+      "target": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+      "text": "Math/Math 2/Differential Equations/Linear first order ODEs#Solution"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+      "target": "/Math/Math1/Approximating-functions",
+      "text": "taylor series expansion"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+      "target": "/",
+      "text": "#Regular singularity"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+      "target": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
+      "text": "linearly independent solutions"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Power-Series-solution",
+      "target": "/Math/Math-2/Differential-Equations/Frobenius-Method",
+      "text": "Frobenius Method"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Some-more-based-on-forms",
+      "target": "/Linear-Dependence-of-Functions",
+      "text": "Linear Dependence of Functions#Wronskian"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/Some-more-based-on-forms",
+      "target": "/",
+      "text": "#Cauchy Euler equation"
+    },
+    {
+      "source": "/Math/Math-2/Differential-Equations/",
+      "target": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "text": "ToC"
+    },
+    {
+      "source": "/Math/Math-2/Math-2",
+      "target": "/Math/Math-2/Differential-Equations/Differential-Equations",
+      "text": "Differential Equations"
+    },
+    {
+      "source": "/Math/Math-2/Math-2",
+      "target": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+      "text": "Partial Differential Equation"
+    },
+    {
+      "source": "/Math/Math-2/Math-2",
+      "target": "/Math/Math-2/Mathematical-Modelling",
+      "text": "Mathematical Modelling"
+    },
+    {
+      "source": "/Math/Math-2/Math-2",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+      "text": "System of Linear Algebraic Equation"
+    },
+    {
+      "source": "/Math/Math-2/Math-2",
+      "target": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+      "text": "Vector Calculus"
+    },
+    {
+      "source": "/Math/Math-2/Mathematical-Modelling",
+      "target": "/Curvature",
+      "text": "Curvature"
+    },
+    {
+      "source": "/Math/Math-2/Partial-Differential-Equation/Non-Linear-PDE-of-first-order",
+      "target": "/Math/Math-2/Differential-Equations/First-order-higher-degree-nonlinear",
+      "text": "First order higher degree (nonlinear))#Clairaut's Equation"
+    },
+    {
+      "source": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+      "target": "/Math/Math-2/Partial-Differential-Equation/PDE",
+      "text": "PDE"
+    },
+    {
+      "source": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+      "target": "/Math/Math-2/Partial-Differential-Equation/Solving-linear-PDEs",
+      "text": "Solving linear PDEs"
+    },
+    {
+      "source": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+      "target": "/Math/Math-2/Partial-Differential-Equation/Non-Linear-PDE-of-first-order",
+      "text": "Non Linear PDE of first order"
+    },
+    {
+      "source": "/Math/Math-2/Partial-Differential-Equation/Solving-linear-PDEs",
+      "target": "/Math/Math-2/Partial-Differential-Equation/PDE",
+      "text": "Math/Math 2/Partial Differential Equation/PDE#Classification of a PDE"
+    },
+    {
+      "source": "/Math/Math-2/Partial-Differential-Equation/",
+      "target": "/Math/Math-2/Partial-Differential-Equation/Partial-Differential-Equation",
+      "text": "ToC"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods",
+      "target": "/",
+      "text": "#Gauss Jacobi Method"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
+      "target": "/Linear-Dependence-of-Functions",
+      "text": "functions"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+      "text": "Math/Math 2/System of Linear Algebraic Equation/Rank and solution of linear equations#For a Homogeneous System"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+      "text": "row echelon"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations",
+      "text": "elementary row operations"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations",
+      "text": "elementary row operations"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+      "text": "Row-reduced echelon form"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+      "text": "echelon form"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+      "text": "row reduced echelon form"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods",
+      "text": "Iterative Methods"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Echelon-Form-of-a-matrix",
+      "text": "Echelon Form of a matrix"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Elementary-Row-operations",
+      "text": "Elementary Row operations"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Rank-and-solution-of-linear-equations",
+      "text": "Rank and solution of linear equations"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Iterative-Methods",
+      "text": "Iterative Methods"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
+      "text": "Linear Independence of Vectors"
+    },
+    {
+      "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/",
+      "target": "/Math/Math-2/System-of-Linear-Algebraic-Equation/System-of-Linear-Algebraic-Equation",
+      "text": "ToC"
+    },
+    {
+      "source": "/Math/Math-2/Vector-Calculus/Basic-Definitions",
+      "target": "/",
+      "text": "#Scalar point function"
+    },
+    {
+      "source": "/Math/Math-2/Vector-Calculus/Theorems-and-applications",
+      "target": "/",
+      "text": "#Stokes Theorem"
+    },
+    {
+      "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+      "target": "/Math/Math-2/Vector-Calculus/Basic-Definitions",
+      "text": "Basic Definitions"
+    },
+    {
+      "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+      "target": "/Math/Math-2/Vector-Calculus/Directional-Derivative",
+      "text": "Directional Derivative"
+    },
+    {
+      "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+      "target": "/Math/Math-2/Vector-Calculus/Divergence-and-Curl",
+      "text": "Divergence and Curl"
+    },
+    {
+      "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+      "target": "/Math/Math-2/Vector-Calculus/Integral-along-virtual-objects",
+      "text": "Integral along virtual objects"
+    },
+    {
+      "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+      "target": "/Math/Math-2/Vector-Calculus/Theorems-and-applications",
+      "text": "Theorems and applications"
+    },
+    {
+      "source": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+      "target": "/Math/Math-2/Vector-Calculus/Vector-algebra-application",
+      "text": "Vector algebra application"
+    },
+    {
+      "source": "/Math/Math-2/Vector-Calculus/",
+      "target": "/Math/Math-2/Vector-Calculus/Vector-Calculus",
+      "text": "ToC"
+    },
+    {
+      "source": "/Math/Math-2/",
+      "target": "/Math/Math-2/Math-2",
+      "text": "ToC"
+    },
+    {
       "source": "/Math/Math1/Approximating-functions-zfxy",
       "target": "/Math/Math1/Approximating-functions",
       "text": "Math/Math1/Approximating functions"
@@ -2777,6 +4100,11 @@
       "source": "/",
       "target": "/Math/Discrete-Mathematics/Discrete-Mathematics",
       "text": "Discrete Mathematics"
+    },
+    {
+      "source": "/",
+      "target": "/Math/Math-2/Math-2",
+      "text": "Math 2"
     },
     {
       "source": "/",
