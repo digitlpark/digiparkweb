@@ -1,3 +1,6 @@
+---
+title: Mathematical Modelling
+---
 Consists of:
 1. Translating real world problems into mathematical problems
 2. Solving the mathematical problems
@@ -152,7 +155,7 @@ $$
 
 [Understanding the Deflection of Beams - YouTube](https://youtu.be/MvBqCeZllpQ)
 
-We use the concept of [[Curvature]] over here.
+We use the concept of [[Math/Math1/Curvature|Curvature]] over here.
 
 By theory of elasticity the **bending moment M(x)** is proportional to the curvature of the deflection curve.
 

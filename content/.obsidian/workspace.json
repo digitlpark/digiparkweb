@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md",
+                "file": "Writeup/Writeup.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md",
+                "file": "Writeup/Writeup.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pasted",
+                "query": "mermaid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md",
+                "file": "Writeup/Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md",
+                "file": "Writeup/Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Math 2/Vector Calculus/Theorems and applications.md"
+                "file": "Writeup/Writeup.md"
               }
             }
           }
@@ -169,18 +168,35 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
-    "Math/Math1/Synthetic Division.md",
-    "Math/Math 2/System of Linear Algebraic Equation/Rank and solution of linear equations.md",
-    "Math/Math 2/System of Linear Algebraic Equation/Iterative Methods.md",
-    "Chemistry_s/Applied Chemistry/Polymers/Introduction.md",
-    "Math/Math 2/Vector Calculus/Integral along virtual objects.md",
-    "Chemistry_s/Applied Chemistry/Water Treatment/Chemical Analysis of Water.md",
-    "Physics/Lasers/2. Lasers contd.md",
-    "Physics/Quantum Mechanics/Particle Properties of Waves/6. Compton Effect.md",
+    "_index.md",
+    "Writeup/_index.md",
+    "Writeup/Diagonal Argument.md",
+    "Writeup/Writeup.md",
+    "Writeup/Uncountability.md",
+    "Writeup/Halting Problem.md",
+    "Math/Math1/Stationary Points in Multivariable Functions.md",
+    "Physics/Quantum Mechanics/_index.md",
+    "Math/Math1/Math 1.md",
+    "Math/Math1/_index.md",
+    "Writeup",
+    "Physics/Classical Mechanics/_index.md",
+    "Math/Discrete Mathematics/Discrete Mathematics.md",
+    "Math/Discrete Mathematics/_index.md",
+    "Math/Math 2/Math 2.md",
+    "Math/Math 2/Untitled.md",
+    "Math/Math 2/_index.md",
+    "Math/Discrete Mathematics/Equivalence Class.md",
+    "Physics/Classical Mechanics/1. Lagrangian Dynamics/3. D'Alembert's Principle.md",
+    "Math/Math 2/Mathematical Modelling.md",
+    "Math/Math 2/Differential Equations/Differential Equations.md",
+    "Math/Math 2/Differential Equations/_index.md",
+    "Math/Math 2/Differential Equations/Linear Higher Order Differential Equations.md",
+    "Math/Math1/Euler's Theorem.md",
+    "Math/Math1/Approximating functions z=f(x,y).md",
+    "Math/Math 2/Differential Equations/Linear first order ODEs.md",
+    "Math/Math 2/Differential Equations/Exact ODE and Integrating Factors.md",
     "images/Pasted image 20230304165653.png",
     "images/Pasted image 20230304165653.jpg",
-    "Physics/Quantum Mechanics/Particle Properties of Waves/Particle Properties of Waves.md",
-    "Math/Math 2/Vector Calculus/Theorems and applications.md",
     "images/Pasted image 20230105093124.png",
     "images/Pasted image 20230105073753.png",
     "images/Pasted image 20230625181105.png",
@@ -189,22 +205,7 @@
     "images/Pasted image 20230615111046.png",
     "images/Pasted image 20230306080935.png",
     "images/Pasted image 20230306080932.png",
-    "Physics/Electrodynamics/Polarization.md",
     "images",
-    "Physics/Classical Mechanics/Classical Mechanics.md",
-    "Physics/Classical Mechanics/_index.md",
-    "Physics/Classical Mechanics/1. Lagrangian Dynamics/Lagrangian Dynamics.md",
-    "Physics/Classical Mechanics/1. Lagrangian Dynamics/5. Generalizing Lagrange's Equations.md",
-    "Physics/Classical Mechanics/1. Lagrangian Dynamics/4. Lagrange's Equations.md",
-    "Physics/Classical Mechanics/1. Lagrangian Dynamics/3. D'Alembert's Principle.md",
-    "Physics/Classical Mechanics/1. Lagrangian Dynamics/2. Forces of Constraint and Virtual work.md",
-    "Physics/Classical Mechanics/1. Lagrangian Dynamics/1. Degrees of Freedom, Constraints.md",
-    "Physics/Classical Mechanics/1. Lagrangian Dynamics/_index.md",
-    "Math/Math 2/Vector Calculus/Vector Calculus.md",
-    "Math/Math 2/Vector Calculus/Directional Derivative.md",
-    "Math/Math 2/Vector Calculus/Vector algebra application.md",
-    "Math/Math 2/Vector Calculus/Divergence and Curl.md",
-    "Math/Math 2/Vector Calculus/Basic Definitions.md",
     "Math/Math2",
     "Physics/Quantum Mechanics/Particle Properties of Waves",
     "Physics/Quantum Mechanics/ARP19 AP83",
@@ -212,7 +213,6 @@
     "Physics/New folder",
     "Physics/Electrodynamics",
     "Physics/Classical Mechanics/3. Two body Central Force Problem",
-    "Physics/Classical Mechanics/2. Hamiltonian Dynamics",
-    "Physics/Classical Mechanics/1. Lagrangian Dynamics"
+    "Physics/Classical Mechanics/2. Hamiltonian Dynamics"
   ]
 }

@@ -16,3 +16,6 @@ title: Garden 🌱
 ⚗️ Chemistry
 * [[Chemistry_s/Applied Chemistry/Applied Chemistry|Applied Chemistry]]
 
+## Blogs
+
+- [[Writeup/Writeup|Writeup]]

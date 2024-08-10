@@ -30,7 +30,7 @@ y(x)=e^{-h}\left(\int e^{h}Q dx +c\right)\\
 I.F.y=\int I.F.Qdx +c
 \end{align*}
 $$
-We use [[Exact ODE and Integrating Factors#If I.F. is a function of x]] in the third line
+We use [[Math/Math 2/Differential Equations/Exact ODE and Integrating Factors|Exact ODE and Integrating Factors#If I.F. is a function of x]] in the third line
 
 # Bernoulli's Equation
 

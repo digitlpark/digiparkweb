@@ -41,6 +41,11 @@
           "source": "/",
           "target": "/Chemistry_s/Applied-Chemistry/Applied-Chemistry",
           "text": "Applied Chemistry"
+        },
+        {
+          "source": "/",
+          "target": "/Writeup/Writeup",
+          "text": "Writeup"
         }
       ],
       "/Chemistry_s/Applied-Chemistry/": [
@@ -832,7 +837,7 @@
         },
         {
           "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
-          "target": "/Exact-ODE-and-Integrating-Factors",
+          "target": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
           "text": "Exact ODE and Integrating Factors#If I.F. is a function of x"
         }
       ],
@@ -932,7 +937,7 @@
       "/Math/Math-2/Mathematical-Modelling": [
         {
           "source": "/Math/Math-2/Mathematical-Modelling",
-          "target": "/Curvature",
+          "target": "/Math/Math1/Curvature",
           "text": "Curvature"
         }
       ],
@@ -1421,6 +1426,42 @@
           "target": "/",
           "text": "#Intuition behind the Energy Operator"
         }
+      ],
+      "/Writeup/": [
+        {
+          "source": "/Writeup/",
+          "target": "/Writeup/Writeup",
+          "text": "ToC"
+        }
+      ],
+      "/Writeup/Diagonal-Argument": [
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Uncountability",
+          "text": "Uncountability"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Halting-Problem",
+          "text": "Halting Problem"
+        }
+      ],
+      "/Writeup/Writeup": [
+        {
+          "source": "/Writeup/Writeup",
+          "target": "/Writeup/Halting-Problem",
+          "text": "Halting Problem"
+        },
+        {
+          "source": "/Writeup/Writeup",
+          "target": "/Writeup/Uncountability",
+          "text": "Uncountability"
+        },
+        {
+          "source": "/Writeup/Writeup",
+          "target": "/Writeup/Diagonal-Argument",
+          "text": "Diagonal Argument"
+        }
       ]
     },
     "backlinks": {
@@ -1796,13 +1837,6 @@
           "text": "ToC"
         }
       ],
-      "/Curvature": [
-        {
-          "source": "/Math/Math-2/Mathematical-Modelling",
-          "target": "/Curvature",
-          "text": "Curvature"
-        }
-      ],
       "/Differential-Operator": [
         {
           "source": "/Math/Math-2/Differential-Equations/Associated-general-solution-of-C.F.",
@@ -1813,13 +1847,6 @@
           "source": "/Math/Math-2/Differential-Equations/Linear-Higher-Order-Differential-Equations",
           "target": "/Differential-Operator",
           "text": "Differential Operator"
-        }
-      ],
-      "/Exact-ODE-and-Integrating-Factors": [
-        {
-          "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
-          "target": "/Exact-ODE-and-Integrating-Factors",
-          "text": "Exact ODE and Integrating Factors#If I.F. is a function of x"
         }
       ],
       "/Linear-Dependence-of-Functions": [
@@ -2216,6 +2243,11 @@
           "source": "/Math/Math-2/Differential-Equations/Differential-Equations",
           "target": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
           "text": "Exact ODE and Integrating Factors"
+        },
+        {
+          "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
+          "target": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
+          "text": "Exact ODE and Integrating Factors#If I.F. is a function of x"
         }
       ],
       "/Math/Math-2/Differential-Equations/Examples": [
@@ -2592,6 +2624,11 @@
       ],
       "/Math/Math1/Curvature": [
         {
+          "source": "/Math/Math-2/Mathematical-Modelling",
+          "target": "/Math/Math1/Curvature",
+          "text": "Curvature"
+        },
+        {
           "source": "/Math/Math1/Math-1",
           "target": "/Math/Math1/Curvature",
           "text": "Math/Math1/Curvature"
@@ -2901,6 +2938,49 @@
           "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
           "target": "/Physics/Quantum-Mechanics/Schrodinger-equation",
           "text": "Schrodinger equation"
+        }
+      ],
+      "/Writeup/Diagonal-Argument": [
+        {
+          "source": "/Writeup/Writeup",
+          "target": "/Writeup/Diagonal-Argument",
+          "text": "Diagonal Argument"
+        }
+      ],
+      "/Writeup/Halting-Problem": [
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Halting-Problem",
+          "text": "Halting Problem"
+        },
+        {
+          "source": "/Writeup/Writeup",
+          "target": "/Writeup/Halting-Problem",
+          "text": "Halting Problem"
+        }
+      ],
+      "/Writeup/Uncountability": [
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Uncountability",
+          "text": "Uncountability"
+        },
+        {
+          "source": "/Writeup/Writeup",
+          "target": "/Writeup/Uncountability",
+          "text": "Uncountability"
+        }
+      ],
+      "/Writeup/Writeup": [
+        {
+          "source": "/Writeup/",
+          "target": "/Writeup/Writeup",
+          "text": "ToC"
+        },
+        {
+          "source": "/",
+          "target": "/Writeup/Writeup",
+          "text": "Writeup"
         }
       ]
     }
@@ -3578,7 +3658,7 @@
     },
     {
       "source": "/Math/Math-2/Differential-Equations/Linear-first-order-ODEs",
-      "target": "/Exact-ODE-and-Integrating-Factors",
+      "target": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
       "text": "Exact ODE and Integrating Factors#If I.F. is a function of x"
     },
     {
@@ -3673,7 +3753,7 @@
     },
     {
       "source": "/Math/Math-2/Mathematical-Modelling",
-      "target": "/Curvature",
+      "target": "/Math/Math1/Curvature",
       "text": "Curvature"
     },
     {
@@ -4092,6 +4172,36 @@
       "text": "ToC"
     },
     {
+      "source": "/Writeup/Diagonal-Argument",
+      "target": "/Writeup/Uncountability",
+      "text": "Uncountability"
+    },
+    {
+      "source": "/Writeup/Diagonal-Argument",
+      "target": "/Writeup/Halting-Problem",
+      "text": "Halting Problem"
+    },
+    {
+      "source": "/Writeup/Writeup",
+      "target": "/Writeup/Halting-Problem",
+      "text": "Halting Problem"
+    },
+    {
+      "source": "/Writeup/Writeup",
+      "target": "/Writeup/Uncountability",
+      "text": "Uncountability"
+    },
+    {
+      "source": "/Writeup/Writeup",
+      "target": "/Writeup/Diagonal-Argument",
+      "text": "Diagonal Argument"
+    },
+    {
+      "source": "/Writeup/",
+      "target": "/Writeup/Writeup",
+      "text": "ToC"
+    },
+    {
       "source": "/",
       "target": "/Math/Math1/Math-1",
       "text": "Math 1"
@@ -4130,6 +4240,11 @@
       "source": "/",
       "target": "/Chemistry_s/Applied-Chemistry/Applied-Chemistry",
       "text": "Applied Chemistry"
+    },
+    {
+      "source": "/",
+      "target": "/Writeup/Writeup",
+      "text": "Writeup"
     }
   ]
 }
