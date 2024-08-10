@@ -1051,8 +1051,8 @@
   },
   "/Writeup/Diagonal-Argument": {
     "title": "Diagonal Argument",
-    "content": "We can summarize the proof of [[Writeup/Uncountability|Uncountability]], [[Writeup/Halting Problem|Halting Problem]] in one category theory proof\n\n## Uncountability\n\n{{\u003c mermaid \u003e}}\ngraph LR\nsubgraph .\n\tc[N] --diag--\u003e a[N X N]\nend\nsubgraph ..\n\tb[\"{0,1}\"] --f--\u003e d[\"{0,1}\"]\nend\nc --special--\u003e d\na--L--\u003eb\n{{\u003c /mermaid \u003e}}\n\n\nS(.)=F(L(D(.)))\n\nL is exhaustive\n\n## Halting Problem\n\n```mermaid\ngraph LR\nsubgraph .\n\tc[N] --diag--\u003e a[N X N]\nend\nsubgraph ..\n\tb[N] --f--\u003e d[N]\nend\nc --special--\u003e d\na--A--\u003eb\n\n```\n\nHere N is the numeric representation of program\n\nS(.)=F(A(D(.)))\n\nA is total and powerful (Can identify whether any given program will halt)\n\n# Lawvere's Theorem\n\nInspiration: [What A General Diagonal Argument Looks Like (Category Theory) - YouTube](https://youtu.be/dwNxVpbEVcc)\n\n```mermaid\ngraph LR\nsubgraph .\n\tc[Things] --diag--\u003e a[Things X Things]\nend\nsubgraph ..\n\tb[Values] --f--\u003e d[Values]\nend\nc --special--\u003e d\na--powerful--\u003eb\n\n```\n\nIn a particular class of categories, having such a point surjective arrow results in the arrow 'f' having a special property\n\n## Diagonal Arguments\n\nThe flipping functions in both the examples that we created helps contradict the Lawvere's Theorem\n\nAll diagonal arguments use the Lawvere's theorem as part of the proof",
-    "lastmodified": "2024-08-10T07:51:02.0933657+05:30",
+    "content": "We can summarize the proof of [[Writeup/Uncountability|Uncountability]], [[Writeup/Halting Problem|Halting Problem]] in one category theory proof\n\n## Uncountability\n\n{{\u003c mermaid \u003e}}\ngraph LR\nsubgraph .\n\tc[N] --diag--\u003e a[N X N]\nend\nsubgraph ..\n\tb[\"{0,1}\"] --f--\u003e d[\"{0,1}\"]\nend\nc --special--\u003e d\na--L--\u003eb\n{{\u003c /mermaid \u003e}}\n\n\nS(.)=F(L(D(.)))\n\nL is exhaustive\n\n## Halting Problem\n\n{{\u003c mermaid \u003e}}\ngraph LR\nsubgraph .\n\tc[N] --diag--\u003e a[N X N]\nend\nsubgraph ..\n\tb[N] --f--\u003e d[N]\nend\nc --special--\u003e d\na--A--\u003eb\n\n{{\u003c /mermaid \u003e}}\n\nHere N is the numeric representation of program\n\nS(.)=F(A(D(.)))\n\nA is total and powerful (Can identify whether any given program will halt)\n\n# Lawvere's Theorem\n\nInspiration: [What A General Diagonal Argument Looks Like (Category Theory) - YouTube](https://youtu.be/dwNxVpbEVcc)\n\n{{\u003c mermaid \u003e}}\ngraph LR\nsubgraph .\n\tc[Things] --diag--\u003e a[Things X Things]\nend\nsubgraph ..\n\tb[Values] --f--\u003e d[Values]\nend\nc --special--\u003e d\na--powerful--\u003eb\n\n{{\u003c /mermaid \u003e}}\n\nIn a particular class of categories, having such a point surjective arrow results in the arrow 'f' having a special property\n\n## Diagonal Arguments\n\nThe flipping functions in both the examples that we created helps contradict the Lawvere's Theorem\n\nAll diagonal arguments use the Lawvere's theorem as part of the proof",
+    "lastmodified": "2024-08-10T07:51:46.9875598+05:30",
     "tags": []
   },
   "/Writeup/Halting-Problem": {
@@ -1069,8 +1069,8 @@
   },
   "/Writeup/Writeup": {
     "title": "Table of Contents",
-    "content": "# Files\n\n- [[Writeup/Halting Problem|Halting Problem]]\n- [[Writeup/Uncountability|Uncountability]]\n- [[Writeup/Diagonal Argument|Diagonal Argument]]",
-    "lastmodified": "2024-08-10T07:50:40.2888803+05:30",
+    "content": "# Blogs\n\n- [[Writeup/Halting Problem|Halting Problem]]\n- [[Writeup/Uncountability|Uncountability]]\n- [[Writeup/Diagonal Argument|Diagonal Argument]]",
+    "lastmodified": "2024-08-10T07:54:14.8294343+05:30",
     "tags": []
   }
 }

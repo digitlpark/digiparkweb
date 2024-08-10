@@ -1,3 +1,8 @@
+---
+title: Uncountability
+weight: 1
+---
+
 Consider the set of all binary strings: **B**
 
 Question: Is **B** countably infinite?

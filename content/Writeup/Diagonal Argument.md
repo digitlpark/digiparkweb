@@ -1,3 +1,7 @@
+---
+title: Diagonal Argument
+weight: 3
+---
 We can summarize the proof of [[Writeup/Uncountability|Uncountability]], [[Writeup/Halting Problem|Halting Problem]] in one category theory proof
 
 ## Uncountability

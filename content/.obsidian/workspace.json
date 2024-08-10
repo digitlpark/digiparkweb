@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeup/Writeup.md",
+                "file": "Writeup/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeup/Writeup.md",
+                "file": "Writeup/_index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeup/Writeup.md",
+                "file": "Writeup/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeup/Writeup.md",
+                "file": "Writeup/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeup/Writeup.md"
+                "file": "Writeup/_index.md"
               }
             }
           }
@@ -168,12 +168,17 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
-    "_index.md",
-    "Writeup/_index.md",
-    "Writeup/Diagonal Argument.md",
     "Writeup/Writeup.md",
     "Writeup/Uncountability.md",
     "Writeup/Halting Problem.md",
+    "Writeup/Diagonal Argument.md",
+    "Writeup/_index.md",
+    "Physics/Lasers/_index.md",
+    "Physics/Lasers/3. Fibre Optics.md",
+    "Physics/Lasers/2. Lasers contd.md",
+    "Physics/Lasers/1. Lasers Intro.md",
+    "Physics/Lasers/Lasers.md",
+    "_index.md",
     "Math/Math1/Stationary Points in Multivariable Functions.md",
     "Physics/Quantum Mechanics/_index.md",
     "Math/Math1/Math 1.md",
@@ -190,11 +195,6 @@
     "Math/Math 2/Mathematical Modelling.md",
     "Math/Math 2/Differential Equations/Differential Equations.md",
     "Math/Math 2/Differential Equations/_index.md",
-    "Math/Math 2/Differential Equations/Linear Higher Order Differential Equations.md",
-    "Math/Math1/Euler's Theorem.md",
-    "Math/Math1/Approximating functions z=f(x,y).md",
-    "Math/Math 2/Differential Equations/Linear first order ODEs.md",
-    "Math/Math 2/Differential Equations/Exact ODE and Integrating Factors.md",
     "images/Pasted image 20230304165653.png",
     "images/Pasted image 20230304165653.jpg",
     "images/Pasted image 20230105093124.png",

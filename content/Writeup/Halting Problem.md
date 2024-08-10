@@ -1,4 +1,7 @@
-
+---
+title: Halting Problem
+weight: 2
+---
 
 Inspired by: [Math's Fundamental Flaw - YouTube](https://youtu.be/HeQX2HjkcNo?t=1362)
 
