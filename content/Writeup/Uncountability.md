@@ -54,7 +54,7 @@ Therefore, $S(.)$ doesn't belong in the set of binary strings we considered.
 
 Hence, such a bijection is not possible and **B** is uncountably infinite.
 
-# Cantor's Theorem
+# Cantors Theorem
 
 The proof for uncountability can be replicated for [[Writeup/Cantors Theorem|Cantors Theorem]]
 

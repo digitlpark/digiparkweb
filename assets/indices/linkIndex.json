@@ -1498,13 +1498,23 @@
       "/Writeup/Writeup": [
         {
           "source": "/Writeup/Writeup",
-          "target": "/Writeup/Halting-Problem",
-          "text": "Halting Problem"
+          "target": "/Writeup/Cantors-Theorem",
+          "text": "Cantors Theorem"
         },
         {
           "source": "/Writeup/Writeup",
           "target": "/Writeup/Uncountability",
           "text": "Uncountability"
+        },
+        {
+          "source": "/Writeup/Writeup",
+          "target": "/Writeup/Halting-Problem",
+          "text": "Halting Problem"
+        },
+        {
+          "source": "/Writeup/Writeup",
+          "target": "/Writeup/Russels-Paradox",
+          "text": "Russel's Paradox"
         },
         {
           "source": "/Writeup/Writeup",
@@ -2999,6 +3009,11 @@
           "source": "/Writeup/Uncountability",
           "target": "/Writeup/Cantors-Theorem",
           "text": "Cantors Theorem"
+        },
+        {
+          "source": "/Writeup/Writeup",
+          "target": "/Writeup/Cantors-Theorem",
+          "text": "Cantors Theorem"
         }
       ],
       "/Writeup/Diagonal-Argument": [
@@ -3033,6 +3048,11 @@
         },
         {
           "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Russels-Paradox",
+          "text": "Russel's Paradox"
+        },
+        {
+          "source": "/Writeup/Writeup",
           "target": "/Writeup/Russels-Paradox",
           "text": "Russel's Paradox"
         }
@@ -4326,13 +4346,23 @@
     },
     {
       "source": "/Writeup/Writeup",
-      "target": "/Writeup/Halting-Problem",
-      "text": "Halting Problem"
+      "target": "/Writeup/Cantors-Theorem",
+      "text": "Cantors Theorem"
     },
     {
       "source": "/Writeup/Writeup",
       "target": "/Writeup/Uncountability",
       "text": "Uncountability"
+    },
+    {
+      "source": "/Writeup/Writeup",
+      "target": "/Writeup/Halting-Problem",
+      "text": "Halting Problem"
+    },
+    {
+      "source": "/Writeup/Writeup",
+      "target": "/Writeup/Russels-Paradox",
+      "text": "Russel's Paradox"
     },
     {
       "source": "/Writeup/Writeup",

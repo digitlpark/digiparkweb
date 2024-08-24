@@ -33,7 +33,7 @@ $Set= \\\{x|x\notin (x)\\\}$
 
 If $Set\in Set$ then $Set \notin Set$, and if $Set\notin Set$ then $Set\in Set$
 
- [[Writeup/Uncountability#Cantor's Theorem|Cantor's Theorem]] style of proof
+ [[Writeup/Uncountability#Cantors Theorem|Cantor's Theorem]] style of proof
 
 ## Proof
 

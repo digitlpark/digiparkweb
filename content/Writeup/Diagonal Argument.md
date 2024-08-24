@@ -2,7 +2,7 @@
 title: Diagonal Argument
 weight: 5
 ---
-We can summarize the proof of [[Writeup/Uncountability|Uncountability]], [[Writeup/Uncountability#Cantor's Theorem|Cantor's Theorem]] , [[Writeup/Halting Problem|Halting Problem]], [[Writeup/Russel's Paradox|Russel's Paradox]] in one category theory proof
+We can summarize the proof of [[Writeup/Uncountability|Uncountability]], [[Writeup/Uncountability#Cantors Theorem|Cantor's Theorem]] , [[Writeup/Halting Problem|Halting Problem]], [[Writeup/Russel's Paradox|Russel's Paradox]] in one category theory proof
 
 The proofs can be represented in a similar ways abstractifying them into a structure. All of them have the common elements:
 - A flipping mechanism
@@ -62,7 +62,7 @@ A is total and powerful (Can identify whether any given program will halt)
 
 ## Cantor's Theorem
 
-[[Writeup/Uncountability#Cantor's Theorem|Cantor's Theorem]]
+[[Writeup/Uncountability#Cantors Theorem|Cantor's Theorem]]
 
 {{< mermaid >}}
 graph LR
