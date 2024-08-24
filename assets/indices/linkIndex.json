@@ -1442,8 +1442,57 @@
         },
         {
           "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Uncountability",
+          "text": "Cantor's Theorem"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
           "target": "/Writeup/Halting-Problem",
           "text": "Halting Problem"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Russels-Paradox",
+          "text": "Russel's Paradox"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Uncountability",
+          "text": "Uncountability"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Halting-Problem",
+          "text": "Halting Problem"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Uncountability",
+          "text": "Cantor's Theorem"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Russels-Paradox",
+          "text": "Russel's Paradox"
+        }
+      ],
+      "/Writeup/Russels-Paradox": [
+        {
+          "source": "/Writeup/Russels-Paradox",
+          "target": "/Writeup/Uncountability",
+          "text": "Cantor's Theorem"
+        }
+      ],
+      "/Writeup/Uncountability": [
+        {
+          "source": "/Writeup/Uncountability",
+          "target": "/Writeup/Cantors-Theorem",
+          "text": "Cantors Theorem"
+        },
+        {
+          "source": "/Writeup/Uncountability",
+          "target": "/Writeup/Cantors-Theorem",
+          "text": "Cantors Theorem"
         }
       ],
       "/Writeup/Writeup": [
@@ -2940,6 +2989,18 @@
           "text": "Schrodinger equation"
         }
       ],
+      "/Writeup/Cantors-Theorem": [
+        {
+          "source": "/Writeup/Uncountability",
+          "target": "/Writeup/Cantors-Theorem",
+          "text": "Cantors Theorem"
+        },
+        {
+          "source": "/Writeup/Uncountability",
+          "target": "/Writeup/Cantors-Theorem",
+          "text": "Cantors Theorem"
+        }
+      ],
       "/Writeup/Diagonal-Argument": [
         {
           "source": "/Writeup/Writeup",
@@ -2954,9 +3015,26 @@
           "text": "Halting Problem"
         },
         {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Halting-Problem",
+          "text": "Halting Problem"
+        },
+        {
           "source": "/Writeup/Writeup",
           "target": "/Writeup/Halting-Problem",
           "text": "Halting Problem"
+        }
+      ],
+      "/Writeup/Russels-Paradox": [
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Russels-Paradox",
+          "text": "Russel's Paradox"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Russels-Paradox",
+          "text": "Russel's Paradox"
         }
       ],
       "/Writeup/Uncountability": [
@@ -2964,6 +3042,26 @@
           "source": "/Writeup/Diagonal-Argument",
           "target": "/Writeup/Uncountability",
           "text": "Uncountability"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Uncountability",
+          "text": "Cantor's Theorem"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Uncountability",
+          "text": "Uncountability"
+        },
+        {
+          "source": "/Writeup/Diagonal-Argument",
+          "target": "/Writeup/Uncountability",
+          "text": "Cantor's Theorem"
+        },
+        {
+          "source": "/Writeup/Russels-Paradox",
+          "target": "/Writeup/Uncountability",
+          "text": "Cantor's Theorem"
         },
         {
           "source": "/Writeup/Writeup",
@@ -4178,8 +4276,53 @@
     },
     {
       "source": "/Writeup/Diagonal-Argument",
+      "target": "/Writeup/Uncountability",
+      "text": "Cantor's Theorem"
+    },
+    {
+      "source": "/Writeup/Diagonal-Argument",
       "target": "/Writeup/Halting-Problem",
       "text": "Halting Problem"
+    },
+    {
+      "source": "/Writeup/Diagonal-Argument",
+      "target": "/Writeup/Russels-Paradox",
+      "text": "Russel's Paradox"
+    },
+    {
+      "source": "/Writeup/Diagonal-Argument",
+      "target": "/Writeup/Uncountability",
+      "text": "Uncountability"
+    },
+    {
+      "source": "/Writeup/Diagonal-Argument",
+      "target": "/Writeup/Halting-Problem",
+      "text": "Halting Problem"
+    },
+    {
+      "source": "/Writeup/Diagonal-Argument",
+      "target": "/Writeup/Uncountability",
+      "text": "Cantor's Theorem"
+    },
+    {
+      "source": "/Writeup/Diagonal-Argument",
+      "target": "/Writeup/Russels-Paradox",
+      "text": "Russel's Paradox"
+    },
+    {
+      "source": "/Writeup/Russels-Paradox",
+      "target": "/Writeup/Uncountability",
+      "text": "Cantor's Theorem"
+    },
+    {
+      "source": "/Writeup/Uncountability",
+      "target": "/Writeup/Cantors-Theorem",
+      "text": "Cantors Theorem"
+    },
+    {
+      "source": "/Writeup/Uncountability",
+      "target": "/Writeup/Cantors-Theorem",
+      "text": "Cantors Theorem"
     },
     {
       "source": "/Writeup/Writeup",
