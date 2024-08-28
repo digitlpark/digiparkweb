@@ -46,7 +46,14 @@ Therefore, we can never construct an algorithm 'A' that can decide whether a pro
 
 ## More
 
-This property of not being able to decide if a program will halt or not, is not specific to only this decidability question. In general, we wouldn't be able to theoretically construct an algorithm that can perfectly decide a given property of a program.
+> Decidability can be judged for any kind of problem, and not just the kind of problems that involve finding facts about a program.
+
+The quality of being undecidable is not specific to halting problem, but applies to many such other decidability questions
+
+We wouldn't be able to theoretically construct an algorithm that can perfectly decide a given property of a program.
+
+### Credits
+
+Thanks to [Bhavya Hirani](https://www.linkedin.com/in/bhavya-hirani-157038224/) for helping bridge the gap between the halting problem and the notion of a whether a perfect compiler theoretically exists.
 
 Refer to the article - [Why Building a Perfect Compiler is Theoretically Impossible](https://bhavyahirani.wordpress.com/2024/06/27/why-building-a-perfect-compiler-is-theoretically-impossible/)
-

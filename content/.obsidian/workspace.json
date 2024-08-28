@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeup/Russel's Paradox.md",
+                "file": "Writeup/Halting Problem.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeup/Russel's Paradox.md",
+                "file": "Writeup/Halting Problem.md",
                 "mode": "preview",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeup/Russel's Paradox.md",
+                "file": "Writeup/Halting Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeup/Russel's Paradox.md",
+                "file": "Writeup/Halting Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeup/Russel's Paradox.md"
+                "file": "Writeup/Halting Problem.md"
               }
             }
           }
@@ -180,10 +180,10 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
+    "Writeup/Russel's Paradox.md",
     "Writeup/Diagonal Argument.md",
     "Writeup/Uncountability.md",
     "Writeup/Cantors Theorem.md",
-    "Writeup/Russel's Paradox.md",
     "Writeup/Halting Problem.md",
     "Math/Math 2/Differential Equations/Linear first order ODEs.md",
     "Math/Math 2/Differential Equations/First order first degree.md",
