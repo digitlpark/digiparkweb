@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeup/Halting Problem.md",
+                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeup/Halting Problem.md",
+                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
                 "mode": "preview",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeup/Halting Problem.md",
+                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeup/Halting Problem.md",
+                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeup/Halting Problem.md"
+                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md"
               }
             }
           }
@@ -180,11 +180,21 @@
   },
   "active": "b875bddaf08b5615",
   "lastOpenFiles": [
+    "Math/Discrete Mathematics/Groups/_index.md",
+    "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
+    "Math/Discrete Mathematics/_index.md",
+    "Math/Discrete Mathematics/Groups/Group.md",
+    "Math/Discrete Mathematics/Discrete Mathematics.md",
+    "Math/Discrete Mathematics/Groups/Abelian Group.md",
+    "Math/Discrete Mathematics/Groups/Monoid.md",
+    "Math/Discrete Mathematics/Groups/Semigroup.md",
+    "Math/Discrete Mathematics/Groups/Algebraic Structure.md",
+    "Math/Discrete Mathematics/Functions/_index.md",
+    "Writeup/Halting Problem.md",
     "Writeup/Russel's Paradox.md",
     "Writeup/Diagonal Argument.md",
     "Writeup/Uncountability.md",
     "Writeup/Cantors Theorem.md",
-    "Writeup/Halting Problem.md",
     "Math/Math 2/Differential Equations/Linear first order ODEs.md",
     "Math/Math 2/Differential Equations/First order first degree.md",
     "Writeup/Writeup.md",
@@ -195,18 +205,7 @@
     "Physics/Lasers/1. Lasers Intro.md",
     "Physics/Lasers/Lasers.md",
     "_index.md",
-    "Math/Math1/Stationary Points in Multivariable Functions.md",
-    "Physics/Quantum Mechanics/_index.md",
-    "Math/Math1/Math 1.md",
-    "Math/Math1/_index.md",
     "Writeup",
-    "Physics/Classical Mechanics/_index.md",
-    "Math/Discrete Mathematics/Discrete Mathematics.md",
-    "Math/Discrete Mathematics/_index.md",
-    "Math/Math 2/Math 2.md",
-    "Math/Math 2/Untitled.md",
-    "Math/Math 2/_index.md",
-    "Math/Discrete Mathematics/Equivalence Class.md",
     "images/Pasted image 20230304165653.png",
     "images/Pasted image 20230304165653.jpg",
     "images/Pasted image 20230105093124.png",

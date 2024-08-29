@@ -430,6 +430,13 @@
           "text": "function"
         }
       ],
+      "/Math/Discrete-Mathematics/Groups/": [
+        {
+          "source": "/Math/Discrete-Mathematics/Groups/",
+          "target": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
+          "text": "Intro to Group Theory"
+        }
+      ],
       "/Math/Discrete-Mathematics/Groups/Abelian-Group": [
         {
           "source": "/Math/Discrete-Mathematics/Groups/Abelian-Group",
@@ -2055,6 +2062,11 @@
           "source": "/Math/Discrete-Mathematics/Discrete-Mathematics",
           "target": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
           "text": "Math/Discrete Mathematics/Groups/Intro to Group Theory"
+        },
+        {
+          "source": "/Math/Discrete-Mathematics/Groups/",
+          "target": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
+          "text": "Intro to Group Theory"
         }
       ],
       "/Math/Discrete-Mathematics/Groups/Monoid": [
@@ -3473,6 +3485,11 @@
       "source": "/Math/Discrete-Mathematics/Groups/Semigroup",
       "target": "/Math/Discrete-Mathematics/Groups/Algebraic-Structure",
       "text": "algebraic structure"
+    },
+    {
+      "source": "/Math/Discrete-Mathematics/Groups/",
+      "target": "/Math/Discrete-Mathematics/Groups/Intro-to-Group-Theory",
+      "text": "Intro to Group Theory"
     },
     {
       "source": "/Math/Discrete-Mathematics/Power-Set",

@@ -1,5 +1,6 @@
 ---
 title: Algebraic Structure
+weight: 2
 ---
 A non-empty set S is called algebraic structure wrt binary operation * if (a\*b)∈S ∀a,b∈S
 

@@ -1,5 +1,6 @@
 ---
 title: Group
+weight: 4
 ---
 A [[Math/Discrete Mathematics/Groups/Monoid|monoid]] (S,\*) with identity element 'e' is called a group if to each element a∈S, there exist an element b∈S such that (a\*b)=(b\*a)=e
 then 'b' is called inverse of a (denoted as a⁻¹).
