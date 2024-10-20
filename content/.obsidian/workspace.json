@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
+                "file": "Math/Stochastic Differential Equations/Stochastic Analogs.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
+                "file": "Math/Stochastic Differential Equations/Stochastic Analogs.md",
                 "mode": "preview",
                 "source": true
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
+                "file": "Math/Stochastic Differential Equations/Stochastic Analogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
+                "file": "Math/Stochastic Differential Equations/Stochastic Analogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Discrete Mathematics/Groups/Intro to Group Theory.md"
+                "file": "Math/Stochastic Differential Equations/Stochastic Analogs.md"
               }
             }
           }
@@ -178,33 +179,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b875bddaf08b5615",
+  "active": "21f8878188488acb",
   "lastOpenFiles": [
-    "Math/Discrete Mathematics/Groups/_index.md",
-    "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
+    "Math/Stochastic Differential Equations/Stochastic Differential Equations.md",
+    "Math/Stochastic Differential Equations/Stochastic Analogs.md",
+    "Math/Stochastic Differential Equations/Mathematical Preliminaries.md",
+    "Math/Stochastic Differential Equations/Basics.md",
+    "Math/Math1/Math 1.md",
+    "Math/Stochastic Differential Equations/Stochastic processes.md",
+    "Writeup/Cantors Theorem.md",
+    "Math/Discrete Mathematics/Equivalence Class.md",
+    "Math/Math 2/Mathematical Modelling.md",
+    "Math/Math 2/Math 2.md",
+    "Math/Stochastic Differential Equations/_index.md",
     "Math/Discrete Mathematics/_index.md",
+    "Math/Math 2/_index.md",
+    "Math/Math1/_index.md",
+    "Math/Discrete Mathematics/Functions/Onto function.md",
+    "Math/Stochastic Differential Equations/Topics.md",
+    "Math/Stochastic Differential Equations",
+    "Math/Discrete Mathematics/Groups/Monoid.md",
+    "Math/Discrete Mathematics/Groups/Intro to Group Theory.md",
+    "Math/Discrete Mathematics/Groups/_index.md",
     "Math/Discrete Mathematics/Groups/Group.md",
     "Math/Discrete Mathematics/Discrete Mathematics.md",
     "Math/Discrete Mathematics/Groups/Abelian Group.md",
-    "Math/Discrete Mathematics/Groups/Monoid.md",
     "Math/Discrete Mathematics/Groups/Semigroup.md",
     "Math/Discrete Mathematics/Groups/Algebraic Structure.md",
     "Math/Discrete Mathematics/Functions/_index.md",
     "Writeup/Halting Problem.md",
-    "Writeup/Russel's Paradox.md",
-    "Writeup/Diagonal Argument.md",
-    "Writeup/Uncountability.md",
-    "Writeup/Cantors Theorem.md",
-    "Math/Math 2/Differential Equations/Linear first order ODEs.md",
-    "Math/Math 2/Differential Equations/First order first degree.md",
-    "Writeup/Writeup.md",
-    "Writeup/_index.md",
-    "Physics/Lasers/_index.md",
-    "Physics/Lasers/3. Fibre Optics.md",
-    "Physics/Lasers/2. Lasers contd.md",
-    "Physics/Lasers/1. Lasers Intro.md",
-    "Physics/Lasers/Lasers.md",
-    "_index.md",
     "Writeup",
     "images/Pasted image 20230304165653.png",
     "images/Pasted image 20230304165653.jpg",
@@ -223,7 +226,6 @@
     "Physics/Quantum Mechanics",
     "Physics/New folder",
     "Physics/Electrodynamics",
-    "Physics/Classical Mechanics/3. Two body Central Force Problem",
-    "Physics/Classical Mechanics/2. Hamiltonian Dynamics"
+    "Physics/Classical Mechanics/3. Two body Central Force Problem"
   ]
 }

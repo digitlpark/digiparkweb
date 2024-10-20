@@ -1263,6 +1263,66 @@
           "text": "Math/Math1/Trig and hyperbolic functions"
         }
       ],
+      "/Math/Stochastic-Differential-Equations/": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/",
+          "target": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Stochastic-Differential-Equations/Basics": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Basics",
+          "target": "/ODE-Methods",
+          "text": "ODE Methods#Picard's Method"
+        },
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Basics",
+          "target": "/Lipschitz-condition",
+          "text": "lipschitz continuous"
+        }
+      ],
+      "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries",
+          "target": "/Random-Variable",
+          "text": "Random Variable"
+        }
+      ],
+      "/Math/Stochastic-Differential-Equations/Stochastic-Analogs": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+          "target": "/",
+          "text": "#Risky investment"
+        },
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+          "target": "/",
+          "text": "#safe investment"
+        }
+      ],
+      "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "target": "/Math/Stochastic-Differential-Equations/Basics",
+          "text": "Basics"
+        },
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "target": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+          "text": "Stochastic Analogs"
+        },
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "target": "/Math/Stochastic-Differential-Equations/Stochastic-processes",
+          "text": "Stochastic processes"
+        },
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "target": "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries",
+          "text": "Mathematical Preliminaries"
+        }
+      ],
       "/Physics/Classical-Mechanics/": [
         {
           "source": "/Physics/Classical-Mechanics/",
@@ -1591,6 +1651,16 @@
           "source": "/Math/Math-2/Vector-Calculus/Theorems-and-applications",
           "target": "/",
           "text": "#Stokes Theorem"
+        },
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+          "target": "/",
+          "text": "#Risky investment"
+        },
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+          "target": "/",
+          "text": "#safe investment"
         },
         {
           "source": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/1.-Degrees-of-Freedom-Constraints",
@@ -1940,6 +2010,13 @@
           "source": "/Math/Math-2/System-of-Linear-Algebraic-Equation/Linear-Independence-of-Vectors",
           "target": "/Linear-Dependence-of-Functions",
           "text": "functions"
+        }
+      ],
+      "/Lipschitz-condition": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Basics",
+          "target": "/Lipschitz-condition",
+          "text": "lipschitz continuous"
         }
       ],
       "/Math/Discrete-Mathematics/Discrete-Mathematics": [
@@ -2833,11 +2910,53 @@
           "text": "Math/Math1/nth derivative"
         }
       ],
+      "/Math/Stochastic-Differential-Equations/Basics": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "target": "/Math/Stochastic-Differential-Equations/Basics",
+          "text": "Basics"
+        }
+      ],
+      "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "target": "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries",
+          "text": "Mathematical Preliminaries"
+        }
+      ],
+      "/Math/Stochastic-Differential-Equations/Stochastic-Analogs": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "target": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+          "text": "Stochastic Analogs"
+        }
+      ],
+      "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/",
+          "target": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "text": "ToC"
+        }
+      ],
+      "/Math/Stochastic-Differential-Equations/Stochastic-processes": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "target": "/Math/Stochastic-Differential-Equations/Stochastic-processes",
+          "text": "Stochastic processes"
+        }
+      ],
       "/Necessary-and-Sufficient-Condition": [
         {
           "source": "/Math/Math-2/Differential-Equations/Exact-ODE-and-Integrating-Factors",
           "target": "/Necessary-and-Sufficient-Condition",
           "text": "necessary and sufficient condition"
+        }
+      ],
+      "/ODE-Methods": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Basics",
+          "target": "/ODE-Methods",
+          "text": "ODE Methods#Picard's Method"
         }
       ],
       "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/Lagrangian-Dynamics": [
@@ -3009,6 +3128,13 @@
           "source": "/Physics/Quantum-Mechanics/Quantum-Mechanics",
           "target": "/Physics/Quantum-Mechanics/Schrodinger-equation",
           "text": "Schrodinger equation"
+        }
+      ],
+      "/Random-Variable": [
+        {
+          "source": "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries",
+          "target": "/Random-Variable",
+          "text": "Random Variable"
         }
       ],
       "/Writeup/Cantors-Theorem": [
@@ -4169,6 +4295,56 @@
     {
       "source": "/Math/Math1/",
       "target": "/Math/Math1/Math-1",
+      "text": "ToC"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/Basics",
+      "target": "/ODE-Methods",
+      "text": "ODE Methods#Picard's Method"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/Basics",
+      "target": "/Lipschitz-condition",
+      "text": "lipschitz continuous"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries",
+      "target": "/Random-Variable",
+      "text": "Random Variable"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+      "target": "/",
+      "text": "#Risky investment"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+      "target": "/",
+      "text": "#safe investment"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+      "target": "/Math/Stochastic-Differential-Equations/Basics",
+      "text": "Basics"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+      "target": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+      "text": "Stochastic Analogs"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+      "target": "/Math/Stochastic-Differential-Equations/Stochastic-processes",
+      "text": "Stochastic processes"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+      "target": "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries",
+      "text": "Mathematical Preliminaries"
+    },
+    {
+      "source": "/Math/Stochastic-Differential-Equations/",
+      "target": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
       "text": "ToC"
     },
     {
