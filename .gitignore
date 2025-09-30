@@ -4,3 +4,20 @@ exampleSite/public/
 .hugo_build.lock
 themes
 content/.obsidian
+
+# dependencies
+node_modules/
+
+# next.js build
+.next/
+out/
+
+# env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# system files
+.DS_Store
